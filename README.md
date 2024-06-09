@@ -6,7 +6,7 @@
 - *coming*
 
 ## Ideas and Innitiatives
-- [**Global Institution**](https://github.com/whomanatee/plan/blob/main/README.md): A plan to address all human conflict and foster worldwide peace, prosperity, and joy for all
+- *coming*
 
 ## Understanding Letters
 > Love is understanding. Love grows you. You can only grow those you love. Only those that love you can grow from you. In these letters, I provide understanding and opportunities for growth for each of the addressed. This is the only way to truly love everyone and yourself
