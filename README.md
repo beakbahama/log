@@ -1,12 +1,18 @@
 # 💩 THE LOG OF M~
 > Welcome. This is a place for me to share my thoughts, ideas, 💩, and more
 
+## Writings
+- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/the-greedy-sovereign.md): a short story about a dude that wanted it all
+
+## Ideas and Initiatives
+- [**Global Institution**](https://whomanatee.org): A framework designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazingly
+
 <!--
 ## Very Very Deepish Thoughts
 > What do you deeply think about? Here are some things that I've deeply considered.
 - *incoming*
 
-## Ideas and Initiatives
+
 > What are your ideas?
 - *incoming*
 
