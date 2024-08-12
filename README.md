@@ -1,4 +1,4 @@
-# 💩 THE LOG OF M~ 💩
+# 💩 THE LOG OF M~
 
 ## Stories
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/the-greedy-sovereign.md): a short story about a dude that wanted it all
