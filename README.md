@@ -1,10 +1,14 @@
-# 💩 THE LOG OF M~
+# 💩 THE LOG OF M~ 💩
 
 ## Stories
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/the-greedy-sovereign.md): a short story about a dude that wanted it all
 
 ## Projects
 - [**Global Institution**](https://whomanatee.org): A framework designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazingly
+
+## Existence
+- [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/PP4K.md): Explore the deep connections between interpersonal stress, societal structures, and psychological well-being through a new, simple, unified mental health model. This model integrates personal experiences with broader societal implications and defines a clear path to healing.
+
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
