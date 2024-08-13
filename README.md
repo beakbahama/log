@@ -1,7 +1,7 @@
 # 💩 THE LOG OF M~
 
 ## Stories
-- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/the-greedy-sovereign.md): A short story about a dude that wanted it all.
+- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/sovereign.md): A short story about a dude that wanted it all.
 
 
 ## Projects
