@@ -5,11 +5,11 @@
 
 
 ## Projects
-- [**WHOMANATEE**](https://whomanatee.org): A global institution  designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazing.
+- [**WHOMANATEE**](https://whomanatee.org): A global institution designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazing.
 
 
 ## Existence
-- [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/stress.md): Explore the deep connections between interpersonal stress, societal structures, and psychological well-being through a new, unified mental health model that integrates personal experiences with broader societal implications, defining a clear path to healing both individuals and humanity through a collective effort.
+- [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/stress.md): The deep connection between interpersonal stress, societal structures, and psychological well-being.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
