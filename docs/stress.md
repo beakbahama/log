@@ -1,5 +1,5 @@
 # You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?
-> In this document, I introduce the terms PPSD, PPHD, and PP4K—not merely for the sake of novelty but to encourage a collective rethinking of our understanding of ourselves and humanity. Through these terms and the concepts they represent, we explore pathways that lead beyond merely resolving issues to a future where we all can thrive together.
+> In this document, I introduce the new terms PPSD, PPHD, and PP4K—not merely for the sake of novelty but to encourage a collective rethinking of our understanding of ourselves and humanity. Through these terms and the concepts they represent, we explore pathways that lead beyond merely resolving issues to a future where we all can thrive together.
 
 ## Table of Contents
 1. [Introduction](#you-may-have-heard-about-ptsd-but-have-you-heard-about-ppsd-pphd-and-pp4k) - Overview of PTSD and Related Concepts
