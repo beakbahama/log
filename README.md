@@ -3,12 +3,13 @@
 ## Stories
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/the-greedy-sovereign.md): a short story about a dude that wanted it all
 
+
 ## Projects
 - [**WHOMANATEE**](https://whomanatee.org): A global institution  designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazingly
 
-## Existence
-- [**PPSD, PPHD, and PP4K**](docs/PP4K.md): Explore the deep connections between interpersonal stress, societal structures, and psychological well-being through a new, simple, unified mental health model. This model integrates personal experiences with broader societal implications and defines a clear path to healing.
 
+## Existence
+- [**PPSD, PPHD, and PP4K**](docs/PP4K.md): You may have heard about PTSD, but have you heard about PPSD, PPHD, and PP4K? Explore the deep connections between interpersonal stress, societal structures, and psychological well-being through a new, unified mental health model that integrates personal experiences with broader societal implications, defining a clear path to healing both individuals and humanity through a collective effort.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
@@ -26,10 +27,6 @@
 <!--
 ## Very Very Deepish Thoughts
 > What do you deeply think about? Here are some things that I've deeply considered.
-- *incoming*
-
-
-> What are your ideas?
 - *incoming*
 
 ## Letters
