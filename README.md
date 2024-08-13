@@ -9,7 +9,7 @@
 
 
 ## Existence
-- [**PPSD, PPHD, and PP4K**](docs/stress.md): You may have heard about PTSD, but have you heard about PPSD, PPHD, and PP4K? Explore the deep connections between interpersonal stress, societal structures, and psychological well-being through a new, unified mental health model that integrates personal experiences with broader societal implications, defining a clear path to healing both individuals and humanity through a collective effort.
+- [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/stress.md): Explore the deep connections between interpersonal stress, societal structures, and psychological well-being through a new, unified mental health model that integrates personal experiences with broader societal implications, defining a clear path to healing both individuals and humanity through a collective effort.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
