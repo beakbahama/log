@@ -1,3 +1,5 @@
+> Greetings, this document is a work in progress. I'll be checking in bits and pieces to grow it over the coming days and weeks.
+
 # You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?
 > In this document, I introduce the new terms PPSD, PPHD, and PP4K—not merely for the sake of novelty but to encourage a collective rethinking of our understanding of ourselves and humanity. Through these terms and the concepts they represent, we explore pathways that lead beyond merely resolving issues to a future where we all can thrive together.
 
