@@ -10,7 +10,7 @@
 - [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/stress.md): The deep connection between interpersonal stress, societal structures, and psychological well-being.
 
 ## Stories
-- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/sovereign.md): A short story about a dude that wanted it all.
+- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/greedy-sovereign.md): A short story about a dude that wanted it all.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
