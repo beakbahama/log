@@ -7,7 +7,7 @@
 - [**To: Joe and Kamala - Enhancing 'Time Is Money'**](docs/time-is-freedom.md): A proposal to collaborate with Joe and Kamala on initiatives designed to enhance the quality of life for humans not only in the US but across the globe.
 
 ## Existence
-- [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/stress.md): The deep connection between interpersonal stress, societal structures, and psychological well-being.
+- [**Stress**](docs/stress.md): The deep connection between interpersonal stress, societal structures, and psychological well-being.
 
 ## Stories
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/greedy-sovereign.md): A short story about a dude that wanted it all.
