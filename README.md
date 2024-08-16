@@ -1,16 +1,16 @@
 # 💩 THE LOG OF M~
 
-## Stories
-- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/sovereign.md): A short story about a dude that wanted it all.
-
-
 ## Projects
-- [**WHOMANATEE**](https://whomanatee.org): A global institution designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazing.
+- [**Global Institution**](https://whomanatee.org): Discover how we can bring world peace, prosperity, and joy to all through a novel approach that involves pooling resources, reducing work hours, doing more meaningful work, and embodying an amazing life.
 
-<!--
+## Letters
+- [**To: Joe and Kamala - Enhancing 'Time Is Money'**](docs/time-is-freedom.md): A proposal to collaborate with Joe and Kamala on initiatives designed to enhance the quality of life for humans not only in the US but across the globe.
+
 ## Existence
 - [**You May Have Heard About PTSD, But Have You Heard About PPSD, PPHD, and PP4K?**](docs/stress.md): The deep connection between interpersonal stress, societal structures, and psychological well-being.
--->
+
+## Stories
+- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/sovereign.md): A short story about a dude that wanted it all.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
@@ -24,13 +24,3 @@
 > Questions, comments, memes, or anything else on your mind? You can either use the ***Discussions*** section of this repository or you can send a personal email to *m@whomanatee.org*
 
 
-
-<!--
-## Very Very Deepish Thoughts
-> What do you deeply think about? Here are some things that I've deeply considered.
-- *incoming*
-
-## Letters
-> Public letters to groups, known individuals, unknown individuals, other life forms, inanimate objects, and more...
-- *incoming*
--->
