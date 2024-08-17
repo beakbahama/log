@@ -1,16 +1,16 @@
 # 💩 THE LOG OF M~
 
 ## Projects
-- [**Global Institution**](https://whomanatee.org)➚: Discover how we can bring world peace, prosperity, and joy to all through a novel approach that involves pooling resources, reducing work hours, doing more meaningful work, and embodying an amazing life.
-
-## Letters
-- [**To: Joe and Kamala - Enhancing 'Time Is Money'**](docs/time-is-freedom.md): A proposal to collaborate with Joe and Kamala on initiatives designed to enhance the quality of life for humans not only in the US but across the globe.
-
+- [**Global Institution**](https://whomanatee.org)➚: A proposed public framework designed to achieve world peace, prosperity, and joy by pooling resources, reducing work hours, engaging in more meaningful work, and fostering a life that is truly amazing in every way.
+  
 ## Existence
-- [**Stress**](docs/stress.md): The deep connection between interpersonal stress, societal structures, and psychological well-being.
+- [**Introducing PPSD, PPHD, and PP4K**](docs/stress.md): An exploration of the profound connections between interpersonal stress, societal structures, and psychological well-being.
 
 ## Stories
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/greedy-sovereign.md): A short story about a dude that wanted it all.
+
+## Letters
+- [**To: Joe and Kamala - A Proposal to Collaborate**](docs/time-is-freedom.md): A call to enhance the quality of life for humans not only in the US but across the globe.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
