@@ -1,7 +1,7 @@
 # 💩 THE LOG OF M~
 
 ## Projects
-- [**Global Institution**](https://whomanatee.org): Discover how we can bring world peace, prosperity, and joy to all through a novel approach that involves pooling resources, reducing work hours, doing more meaningful work, and embodying an amazing life.
+- [**Global Institution**](https://whomanatee.org)➚: Discover how we can bring world peace, prosperity, and joy to all through a novel approach that involves pooling resources, reducing work hours, doing more meaningful work, and embodying an amazing life.
 
 ## Letters
 - [**To: Joe and Kamala - Enhancing 'Time Is Money'**](docs/time-is-freedom.md): A proposal to collaborate with Joe and Kamala on initiatives designed to enhance the quality of life for humans not only in the US but across the globe.
