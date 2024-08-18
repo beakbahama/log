@@ -5,7 +5,7 @@
 **To:** The Office of Joe and Kamala  
 **Subject:** Proposal for Collaboration with the Global Institution to Enhance the "Time Is Money" Initiative  
 **Date:** August 16, 2024  
-**Updated:** [August 17, 2024](#updates)
+**Updated:** [August 18, 2024](#updates)
 
 Dear Fellow Humans of Humanity Joe and Kamala,
 
@@ -23,7 +23,7 @@ The "Time Is Money" initiative’s focus on reducing unnecessary corporate-induc
 3. **Global Standards, Local Implementation:** Reflecting our commitment to global improvement while honoring local diversity, this proposal aims to implement global standards in healthcare and education that respect and integrate local customs and needs. By doing so, we not only enhance the quality of services but also ensure they are culturally sensitive and locally relevant. This strategy bridges the gap between international best practices and community-specific values, facilitating a more inclusive and effective implementation of GI principles worldwide.
 
 **A Reflection on Respect and Equality:**  
-Our respect for others is not measured by the titles we use but by the warmth in our voice and the willingness to extend our hand—not merely in respect, but in recognition of our fundamental equality. Understanding that we all possess intrinsic value and are equally capable of loving and being loved underlines our proposal. By collaborating with the Global Institution, Joe and Kamala can continue to promote the values of efficiency, equity, and well-being, ensuring their dedication to improving American lives reaches far into the future and touches every individual equally.
+Our respect for others is not measured by the titles we use but by the warmth in our voice and our willingness to extend our hand—not merely in respect, but in recognition of our fundamental equality. Understanding that we all possess equal intrinsic value from birth and that we are all equally capable of loving and being loved reinforces the principles behind the GI. By collaborating with the Global Institution, Joe and Kamala can continue to promote the values of efficiency, equity, and well-being, ensuring their commitment to improving American lives extends far into the future and impacts every individual equally.
 
 **Call to Joint Action:**  
 A partnership between the U.S. government and the Global Institution could serve as a beacon of innovation in governance and societal well-being. We propose initiating joint pilot projects in select communities to test these principles and gather data on their impacts.
@@ -32,7 +32,7 @@ A partnership between the U.S. government and the Global Institution could serve
 We extend an invitation to your offices to discuss these proposals further. We are eager to explore how we can integrate our visions and work collaboratively on this path-breaking journey. The potential for this partnership to create a lasting impact on American society and beyond is immense, and we are committed to supporting every step of this transformative endeavor.
 
 **An Enduring Invitation:**  
-This proposal extends an invitation to both Joe Biden and Kamala Harris that goes beyond their current tenure in the executive branch of the United States. It is an invitation to join the Global Institution and to continue leading the US—and indeed the world—toward a new way forward. Whether or not Vice President Harris wins the upcoming election and despite President Biden stepping down in January 2025, this proposal offers both the opportunity to remain pivotal members of the global community. By joining forces with the GI, you can continue to advance the visionary ideas initiated during your time in office, working diligently to bring these to fruition on a global scale. This is not merely a collaboration for today but an ongoing partnership that seeks to harness your leadership and dedication to improve the world, transcending the limits of political office.
+This proposal extends an invitation to both Joe and Kamala that goes beyond their current tenure in the executive branch of the United States. It is an invitation to join the Global Institution and to continue leading the US—and indeed the world—toward a new way forward. Whether or not Vice President Kamala wins the upcoming election and despite President Joe stepping down in January 2025, this proposal offers both the opportunity to remain pivotal members of the global community. By joining forces with the GI, you can continue to advance the visionary ideas initiated during your time in office, working diligently to bring these to fruition on a global scale. This is not merely a collaboration for today but an ongoing partnership that seeks to harness your leadership and dedication to improve the world, transcending the limits of political office.
 
 **Time is Freedom:**  
 In the spirit of the foundational truths upon which this nation was built, we hold that all humans are born free. Yet, true freedom is not merely the absence of physical restraints but the presence of opportunities to live a fulfilled and joyful life. The incessant demands of modern work and the stress they entail can be as constricting as any chain. The "Time Is Money" initiative acknowledges these invisible bonds by seeking to eliminate unnecessary corporate-induced hassles. Similarly, the GI proposes to liberate our citizens even further from the burden of constant work.
@@ -53,11 +53,13 @@ M~
 m@whomanatee.org
 
 
-## References
+## Resources
 - [**Time is Money Inititive**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/12/fact-sheet-biden-harris-administration-launches-new-effort-to-crack-down-on-everyday-headaches-and-hassles-that-waste-americans-time-and-money/): Discover more about the initiative led by Joe and Kamala aimed at reducing everyday headaches and hassles that waste time and money, enhancing the quality of life across the nation.
-- [**Global Institution**](https://whomanatee.org): Learn more about the GI plan designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, doing more, and living amazing - where 'amazing' is not just a concept, but a reality accessible to everyone through the Global Institution.
+- [**Global Institution**](https://whomanatee.org): Explore the GI plan designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, engaging in more meaningful work, and fostering a life that is truly amazing in every way.
+- **[Join Our Discussion Board](https://github.com/whomanatee/plan/discussions)**: We warmly invite Joe, Kamala, and all readers to actively participate in shaping the future with the Global Institution. Create a free GitHub account and join us on our GitHub discussion board. This platform is designed to foster robust discussions, allowing every participant to share insights, pose questions, and collaborate on innovative solutions. Your voices are crucial to our collective journey towards a brighter, more inclusive future.
 
 
 ## Updates
-> All dates in YYYY-MM-DD format
+> Significant updates are listed below, all dates in YYYY-MM-DD format. Minor tweaks can be found in the git history.
 - **2024-08-17**: Added the section *An Enduring Invitation*, added the section *A Reflection on Respect and Equality*, and updated the section *Alignment with the 'Time Is Money' Initiative.*
+- **2024-08-18**: Renamed *References* to *Resources* and added an invitation for Joe, Kamala, and all readers to join our GitHub discussion board.
