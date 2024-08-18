@@ -1,16 +1,13 @@
 # 💩 THE LOG OF M~
 
-## Projects
+## Ideas
 - [**Global Institution**](https://whomanatee.org)➚: A proposed public framework designed to achieve world peace, prosperity, and joy by pooling resources, reducing work hours, engaging in more meaningful work, and fostering a life that is truly amazing in every way.
   
-## Existence
+## Thoughts
 - [**Introducing PPSD, PPHD, and PP4K**](docs/stress.md): An exploration of the profound connections between interpersonal stress, societal structures, and psychological well-being.
 
 ## Stories
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/greedy-sovereign.md): A short story about a dude that wanted it all.
-
-## Letters
-- [**To: Joe and Kamala - A Proposal to Collaborate**](docs/time-is-freedom.md): A call to enhance the quality of life for humans not only in the US but across the globe.
 
 ## About
 > Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
@@ -24,3 +21,7 @@
 > Questions, comments, memes, or anything else on your mind? You can either use the ***Discussions*** section of this repository or you can send a personal email to *m@whomanatee.org*
 
 
+<!--
+## Letters
+- [**To: Joe and Kamala - A Proposal to Collaborate**](docs/time-is-freedom.md): A call to enhance the quality of life for humans not only in the US but across the globe.
+-->
