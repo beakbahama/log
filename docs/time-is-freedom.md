@@ -46,7 +46,7 @@ This plan does not recognize the arbitrary borders that divide us but rather ack
 
 With Joe and Kamala championing this cause, we reach out to not just our fellow Americans but to every global citizen, sharing the universal necessities of life and time—essentials that should never be luxuries confined by geography. We envision a future where our lonely planet, with its solitary moon, becomes a beacon of unity and peace—an interconnected community where every individual, regardless of their birthplace, can thrive equally.
 
-This is not merely a proposal but a call to embrace our global humanity, to forge bonds that span continents and cultures, ensuring that one day, all individuals can look up and see not a foreign sky but a familiar home. The Global Institution stands ready to lead this charge, ensuring that our collective efforts today lay the foundation for a harmonious world, forever and beyond.
+This is not merely a proposal but a call to embrace our global humanity, to forge bonds that span continents and cultures, ensuring that one day, all individuals can look up and see not a foreign sky but a familiar home. Through the Global Institution, we have an opportunity for humanity to stand together, ensuring that our collective efforts today build a permanent and everlasting foundation for a harmonious world, for us and for all, forever and beyond.
 
 Your fellow human of humanity,  
 M~  
@@ -54,12 +54,12 @@ m@whomanatee.org
 
 
 ## Resources
-- [**Time is Money Inititive**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/12/fact-sheet-biden-harris-administration-launches-new-effort-to-crack-down-on-everyday-headaches-and-hassles-that-waste-americans-time-and-money/): Discover more about the initiative led by Joe and Kamala aimed at reducing everyday headaches and hassles that waste time and money, enhancing the quality of life across the nation.
+- [**Time is Money Inititive**](https://www.whitehouse.gov/briefing-room/statements-releases/2024/08/12/fact-sheet-biden-harris-administration-launches-new-effort-to-crack-down-on-everyday-headaches-and-hassles-that-waste-americans-time-and-money/): Discover more about the initiative led by Joe and Kamala aimed at reducing everyday headaches and hassles that waste time and money, enhancing the quality of life across the nation. And if you've got any ideas for Joe and Kamala, there's a link on the page where you can submit them directly.
 - [**Global Institution**](https://whomanatee.org): Explore the GI plan designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, engaging in more meaningful work, and fostering a life that is truly amazing in every way.
 - **[Join Our Discussion Board](https://github.com/whomanatee/plan/discussions)**: We warmly invite Joe, Kamala, and all readers to actively participate in shaping the future with the Global Institution. Create a free GitHub account and join us on our GitHub discussion board. This platform is designed to foster robust discussions, allowing every participant to share insights, pose questions, and collaborate on innovative solutions. Your voices are crucial to our collective journey towards a brighter, more inclusive future.
-
+- [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: This essay makes a compelling case for giving serious consideration to ideas that might initially appear radical. It advocates for a thoughtful evaluation of concepts that seem implausible, resonating especially with proposals like retiring by age 50 and transitioning to a two-day workweek. These ideas, while seemingly radical, are increasingly feasible given today's technological and social advances. This essay encourages us to ponder whether the truly 'crazy' notion is continuing to accept less efficient, traditional work structures when a brighter, more equitable world is within our grasp.
 
 ## Updates
 > Significant updates are listed below, all dates in YYYY-MM-DD format. Minor tweaks can be found in the git history.
 - **2024-08-17**: Added the section *An Enduring Invitation*, added the section *A Reflection on Respect and Equality*, and updated the section *Alignment with the 'Time Is Money' Initiative.*
-- **2024-08-18**: Renamed *References* to *Resources* and added an invitation for Joe, Kamala, and all readers to join our GitHub discussion board.
+- **2024-08-18**: Renamed References to Resources, added a link to Paul's essay *Crazy New Ideas* in Resources, and extended an invitation for Joe, Kamala, and all readers to join our GitHub discussion board.
