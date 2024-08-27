@@ -8,7 +8,7 @@
 - [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/greedy-sovereign.md): A short story about a dude that wanted it all.
 
 ## About
-> Welcome. This is a place for me to publicly share my thoughts, 💩(ideas), and more.
+> Welcome. This is a place for me to publicly share my 💩.
 
 > I encourage everyone to create their own log on GitHub like this one. It's free and you'll have a chance to learn about git, GitHub, Markdown, HTML, CSS and more. No prior software knowledge needed. You'll also grow your writing abilities. Write how you speak to people. Speak to everyone the same. Speak to yourself the same way you speak to and about others. This way you are the same, cohesive person inside and out. ***To be real or not to be.*** That is the only question. From truth and only truth emerges peace, prosperity, harmony, and joy.
 
