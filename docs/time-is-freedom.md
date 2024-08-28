@@ -169,7 +169,7 @@ As the GI framework takes root and expands, the vision is to transform not just 
 
 
 ## Conclusion: Time and Freedom
-This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice.
+This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice. This land, which birthed us all, knows no borders in its care and does not favor one child over another.
 
 This document is more than just a proposal—it is an urgent call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
 
