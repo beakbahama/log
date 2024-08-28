@@ -1,5 +1,5 @@
 # The Tale of the Greedy Sovereign and the Lonely Moon
-![](/assets/images/the-greedy-sovereign.webp)
+![](/assets/images/greedy-sovereign.webp)
 
 In the early days of our world, when nations were young and wisdom was ancient, there lived a sovereign of unparalleled ambition. This ruler, known as Sovereign Avarum, was consumed by a desire not merely to govern but to possess all that the eye could see and beyond.
 
