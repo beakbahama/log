@@ -1,5 +1,3 @@
-![](/assets/images/time-is-freedom.webp)
-
 # Time is Freedom: Expanding Liberty in the 21st Century (and a Proposal For a New Global Institution Framework)
 
 ## Table of Contents
