@@ -26,7 +26,7 @@ Let's delve into what it means to become truly free—a freedom where innovation
 
 
 ## The Global Institution Framework
-The GI framework is designed to ensure that prosperity is accessible to everyone, transforming it from a mere possibility to a guaranteed right. It is centered on the goal that all basic and essential human needs—including housing, healthcare, education, and creative fulfillment—are universally accessible and serve as the foundation of a thriving society.
+The GI framework is designed to ensure that prosperity is accessible to everyone, transforming it from a mere possibility to a guarantee. It is centered on the goal that all basic and essential human needs—including housing, healthcare, education, and creative fulfillment—are universally accessible and serve as the foundation of a thriving society.
 
 The framework proposes a new societal model that replaces traditional governmental structures and NGOs with a unified system where essential services are centralized through collective efforts and advanced technologies. This approach sets to make taxation for common human essentials obsolete, shifting towards a system where community contributions directly fund societal needs.
 
@@ -35,8 +35,6 @@ Furthermore, the framework fosters a culture of creativity and innovation, empow
 Inclusivity is a cornerstone of this framework, ensuring that everyone, including those with troubled pasts or those currently incarcerated, as well as individuals from all backgrounds and abilities, is actively included and valued. This ensures that no one is forgotten and that every life is empowered to contribute meaningfully to the community.
 
 ### Key Features
-> To further explore these features and more, visit the GI [overview](https://github.com/whomanatee/plan/blob/main/docs/overview.md)
-
 1. **Two-Day Workweek and Early Retirement:**  This proposal significantly reduces the traditional workweek to just two days, paired with the option for early retirement at age 50. This shift aims to lessen work-related stress and enhance personal and community involvement. The concept of retirement is reimagined to encourage transitioning into mentorship roles, where seasoned individuals use their accrued knowledge and experience to enrich community and family dynamics, fostering a culture of wisdom and continued economic contribution.
 
 1. **Revolutionizing Well-being:**  The GI framework is redefining healthcare by ensuring universal access to medical education and mental health support, removing barriers such as cost and competitive entry. It envisions a healthcare system where every individual has the right to comprehensive medical and mental health services from birth through old age, without the burden of cost. By integrating mental health education into everyday life and embedding health considerations into urban planning and work environments, the framework aims to prevent common disorders and enhance overall well-being. Advanced technologies like AI diagnostics and telemedicine will make healthcare more effective and accessible, while the adherence to global standards ensures quality and consistency. This holistic approach not only addresses immediate health needs but also shifts the societal structure to support long-term physical and mental health, creating a globally healthy, educated, and supportive community.
@@ -57,6 +55,7 @@ Inclusivity is a cornerstone of this framework, ensuring that everyone, includin
    
 1. **Global Standards, Local Implementation:** The framework promotes the implementation of global standards for essential services while respecting local customs and diversity. By integrating international best practices with local values and needs, it aims to enhance service quality and cultural sensitivity, making the implementation of GI principles more inclusive and effective worldwide.
 
+To deeper explore these features and more, visit the [GI Overview](https://github.com/whomanatee/plan/blob/main/docs/overview.md).
 
 
 ## Step One: Global Discussion
