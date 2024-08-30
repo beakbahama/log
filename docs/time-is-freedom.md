@@ -5,18 +5,19 @@
 #### **Getting Started**  
 1. [Introduction](#introduction)
 2. [The Global Institution Framework](#the-global-institution-framework)
-3. [Key Features](#key-features)
+   - [Covered For All](#covered-for-all)
+   - [Key Features in Depth](#key-features-in-depth)
 
 #### **Four Critical Steps**  
-4. [Step One: Global Discussion](#step-one-global-discussion)
-5. [Step Two: Funding the GI Core Fund and Beyond](#step-two-funding-the-gi-core-fund-and-beyond)
-6. [Step Three: Implementation Phases](#step-three-implementation-phases)
-7. [Step Four: World Amazing](#step-four-world-amazing)
+3. [Step One: Global Discussion](#step-one-global-discussion)
+4. [Step Two: Funding the GI Core Fund and Beyond](#step-two-funding-the-gi-core-fund-and-beyond)
+5. [Step Three: Implementation Phases](#step-three-implementation-phases)
+6. [Step Four: World Amazing](#step-four-world-amazing)
 
 #### **Finishing Up**  
-8. [Conclusion](#conclusion)
-9. [Resources](#resources)
-10. [Updates](#updates)
+7. [Conclusion](#conclusion)
+8. [Resources](#resources)
+9. [Updates](#updates)
 
 
 ## Introduction
@@ -24,23 +25,45 @@ At the heart of the foundational truths upon which democracy was built lies a pr
 
 In response, I propose a radical redefinition of freedom through a new framework: the Global Institution (GI). This initiative proposes reducing the traditional workweek to just two days and setting early retirement at the age of 50, addressing the core issues of work-related stress and limited personal time. This transformative approach extends beyond easing the burdens of professional commitments; it aims to liberate individuals to pursue lives filled with learning, creativity, and personal fulfillment.
 
-Beyond the immediate benefits of reduced working hours and earlier retirement, this framework promises a comprehensive enhancement of quality of life. By fundamentally changing how we allocate time to work, the GI makes room for better homes, stronger communities, and superior amenities. It allows for an environment where each individual can thrive, supported by a society that values well-being over mere productivity. This new societal model not only improves individual lives but also fosters a more resilient and vibrant community fabric, equipped to face the challenges of the future with innovative solutions and a collective spirit.
-
-This document is not just a presentation of ideas but an invitation to engage with a movement poised to redefine liberty in our time. It challenges each of us to reconsider what freedom truly means. True freedom is not merely the absence of physical restraints but the presence of opportunities to live a fulfilled and joyful life. The incessant demands of modern work and the stress they entail can be as constricting as any chain. By advocating for a two-day workweek and ensuring early retirement, the GI framework not just proposes a reduction in hours but a fundamental transformation in the very essence of freedom. This change would allow every individual to reclaim time to engage deeply with their passions, communities, and families, crafting lives that are not just productive but genuinely fulfilling.
-
 Let's delve into what it means to become truly free—a freedom where innovation, creation, and societal improvement reflect the highest aspirations of every global citizen. A society where liberty is not just a principle inscribed in documents but a reality lived daily by everyone.
 
 
 ## The Global Institution Framework
-The GI framework is designed to ensure that prosperity is accessible to everyone, transforming it from a mere possibility to a guarantee. It is centered on the goal that all basic and essential human needs—including housing, healthcare, education, and creative fulfillment—are universally accessible and serve as the foundation of a thriving society.
+The GI framework is designed to ensure that prosperity is accessible to everyone, transforming it from a mere possibility to a guarantee. It is centered on the goal that all basic and essential human needs—including housing, healthcare, education, and creative fulfillment—are universally accessible and serve as the foundation of a thriving society. The framework replaces traditional governmental structures and NGOs with a unified system where essential services are centralized through collective efforts and advanced technologies. This approach sets to make taxation for common human essentials obsolete, shifting towards a system where community contributions directly fund societal needs.
 
-The framework proposes a new societal model that replaces traditional governmental structures and NGOs with a unified system where essential services are centralized through collective efforts and advanced technologies. This approach sets to make taxation for common human essentials obsolete, shifting towards a system where community contributions directly fund societal needs.
+Furthermore, the framework fosters a culture of creativity and innovation, empowering individuals across all societal segments to explore and develop their creative potential in an environment that nurtures innovation and artistic expression. Inclusivity is a cornerstone of this framework, ensuring that everyone, including those with troubled pasts or those currently incarcerated, as well as individuals from all backgrounds and abilities, is actively included and valued.
 
-Furthermore, the framework fosters a culture of creativity and innovation, empowering individuals across all societal segments to explore and develop their creative potential in an environment that nurtures innovation and artistic expression.
+This framework is not just a presentation of ideas but an invitation to engage with a movement poised to redefine liberty in our time. It challenges each of us to reconsider what freedom truly means. True freedom is not merely the absence of physical restraints but the presence of opportunities to live a fulfilled and joyful life. The incessant demands of modern work and the stress they entail can be as constricting as any chain. By advocating for a two-day workweek and ensuring early retirement, the GI framework not just proposes a reduction in hours but a fundamental transformation in the very essence of freedom. This change would allow every individual to reclaim time to engage deeply with their passions, communities, and families, crafting lives that are not just productive but genuinely fulfilling.
 
-Inclusivity is a cornerstone of this framework, ensuring that everyone, including those with troubled pasts or those currently incarcerated, as well as individuals from all backgrounds and abilities, is actively included and valued. This ensures that no one is forgotten and that every life is empowered to contribute meaningfully to the community.
+### Covered For All
+To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
+1. **Housing**: Including utilities (electricity, water, heating, cooling).
+2. **Healthcare**: Comprehensive medical, dental, mental health services, and wellness programs.
+3. **Education**: All levels of education, from early childhood to higher education and lifelong learning.
+4. **Food**: Basic groceries and meals.
+5. **Transportation**: Public transportation and essential personal transportation services.
+6. **Clothing**: Basic clothing and footwear.
+7. **Childcare**: Daycare, after-school programs, and early childhood education.
+8. **Elderly Care**: Assisted living and senior care services.
+9. **Communication**: Internet, phone, and postal services.
+10. **Entertainment**: Access to cultural events, sports, and recreational activities.
+11. **Personal Care**: Basic hygiene products and services.
+12. **Community Services**: Libraries, parks, recreational facilities, and community centers.
+13. **Fitness**: Gym memberships, fitness classes, and wellness programs.
+14. **Technology**: Essential personal electronics and maintenance.
+15. **Home Maintenance**: Repairs, cleaning services, and general upkeep.
+16. **Financial Services**: Basic banking services without fees.
+17. **Agriculture**: Community-supported agriculture programs and urban farming initiatives.
+18. **Pets**: Veterinary care and basic pet supplies.
+19. **Travel**: Basic travel expenses for personal and cultural exploration.
+20. **Cultural Activities**: Museum and gallery admissions, concerts, and theater.
+21. **Environmental Services**: Waste management, recycling, and sustainable practices.
+22. **Safety Services**: Emergency services, fire protection, and disaster response.
 
-## Key Features
+To deeper explore these benefits and more, visit the [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md).
+
+
+### Key Features in Depth
 1. **Two-Day Workweek and Early Retirement:** This proposal significantly reduces the traditional workweek to just two days, paired with the option for early retirement at age 50. This shift aims to lessen work-related stress and enhance personal and community involvement. The concept of retirement is reimagined to encourage transitioning into mentorship roles, where seasoned individuals use their accrued knowledge and experience to enrich community and family dynamics, fostering a culture of wisdom and continued economic contribution. Under the GI framework, the two-day workweek becomes feasible, reducing the demand for a constant workforce and leading to the obsolescence of various traditional sectors. This results in the systemic phase-out of redundant industries and practices, including:
 
    - **Insurance and Banking**: Comprehensive care and financial security provided by the GI make personal and commercial insurance, along with traditional banking services, redundant.
@@ -176,11 +199,11 @@ As the GI framework takes root and expands, the vision is to transform not just 
 
 
 ## Conclusion
-This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice. This land, which birthed us all, knows no borders in its care and does not favor one child over another.
+This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice. This land, which birthed us all, knows no borders in its care and does not favor one child over another. Together we can craft a world where all individuals can look up and see not a foreign sky but a familiar home.
 
 This document is more than just a proposal—it is an urgent call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
 
-Let us seize this opportunity to ensure that our collective efforts today lay the foundation for a harmonious future, for us and for future generations. Together, let's craft a world where all individuals can look up and see not a foreign sky but a familiar home.
+Let us seize this opportunity to ensure that our collective efforts today lay the foundation for a harmonious future, for us and for future generations, forever and beyond.
 
 
 ## Resources
@@ -190,5 +213,7 @@ Let us seize this opportunity to ensure that our collective efforts today lay th
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2024-08-27**: Converted this [letter](https://github.com/beakbahama/log/blob/b919fd2fdec0723f62fc40cf06c68f9931b73c8e/docs/time-is-freedom.md) into this more expansive and inclusive *Time is Freedom* document
+- **2024-08-30**: Combined sections, added a list of things covered by the GI
 - **2024-08-29**: Significantly updated and expanded *Step Two: Funding the GI Core Fund and Beyond*, enhanced *Key Features: Two-Day Workweek and Early Retirement*
+- **2024-08-27**: Converted this [letter](https://github.com/beakbahama/log/blob/b919fd2fdec0723f62fc40cf06c68f9931b73c8e/docs/time-is-freedom.md) into this more expansive and inclusive *Time is Freedom* document
+
