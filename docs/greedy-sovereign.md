@@ -1,4 +1,6 @@
 # The Tale of the Greedy Sovereign and the Lonely Moon
+![](/assets/images/greedy-sovereign.webp)
+
 In the early days of our world, when nations were young and wisdom was ancient, there lived a sovereign of unparalleled ambition. This ruler, known as Sovereign Avarum, was consumed by a desire not merely to govern but to possess all that the eye could see and beyond.
 
 Avarum’s kingdom, initially prosperous and vast, soon became the heart of his insatiable greed. He took from his people not only their wealth but also the fruits of their labor, the joy of their hearts, and the peace of their days. 
