@@ -5,7 +5,8 @@
 
 - [**PPSD, PPHD, and PP4K**](docs/stress.md): Stress is killing us; we are stressing each other out; we need to stop stressing out ourselves and others. Together, we can begin moving towards a world where we can all thrive and live life to the fullest and most comfortable. In this document, I make up some new terms, not for the sake of making up terms, but for the sake of recognizing humanity's true struggles and outlining a new way forward.
 
-- [**Chins**](docs/chins.md): The only unique thing about humans are chins, not the big brain or anything else. And the reason for them: to help us think and avoid conflict. I explore the history of our understanding of the chin and my relatively recent rediscovery of its purpose. Adult me didn't figure it out, kid me did.
+- [**Chins**](docs/chins.md): The only unique thing about humans are chins, not the big brain or anything else. And the reason for them: to help us think and avoid conflict. In this document, I explore the chin and my relatively recent rediscovery of its purpose. Adult me didn't figure it out, kid me did.
+
 
 
 ## Stories
