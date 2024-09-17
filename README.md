@@ -21,6 +21,6 @@
 
 > I prefer to be called by my given callsign, محمد (MHMMD), pronounced as it was originally intended, and I am thankful for all sincere attempts at pronouncing it correctly. Alternatively, if you prefer, you can simply call me by my first initial, M, and I encourage anyone to translate it into the language spoken at the moment, so in Spanish, for example, it would be pronounced em-é.
 
-> Questions, comments, memes, or anything else on your mind? You can you can send a personal email to *m@whomanatee.org*. I read every email and am much more likely to respond if your message is constructive rather than destructive.
+> Questions, comments, memes, or anything else on your mind? You can send a personal email to *m@whomanatee.org*. I read every email and am much more likely to respond if your message is constructive rather than destructive.
 
 > Holla!
