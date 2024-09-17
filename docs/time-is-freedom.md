@@ -26,7 +26,7 @@ or
 
 #### **Reflections and Resources**  
 7. [Addressing the Elephant in the Room: Deception](#addressing-the-elephant-in-the-room-deception)
-1. [On Those You May Currently Hate, Despise, Or Otherwise](#on-those-you-may-currently-hate-despise-or-otherwise)
+1. [On Those You May Currently Hate, Despise, or View Negatively](#on-those-you-may-currently-hate-despise-or-view-negatively)
 1. [Closing Remarks](#closing-remarks)
 1. [Resources](#resources)
 1. [Updates](#updates)
@@ -248,7 +248,7 @@ And so, the changes to humanity of this manifesto are not merely aspirational bu
 
 
 
-## On Those You May Currently Hate, Despise, Or Otherwise
+## On Those You May Currently Hate, Despise, or View Negatively
 It is understandable to harbor feelings of disdain or even hatred towards individuals or groups who have caused harm or supported oppressive systems. These feelings, deeply personal and often justified, reflect broader societal issues that promote division. At times, such emotions may not stem from direct injustices but from a need to channel unresolved past fears or traumas into anger towards a group—a pattern that can be traced back through countless historical conflicts and wars. Recognizing the dynamics of hatred, and thus fear, necessitates a profound shift—not toward forced reconciliation or forgiveness for past wrongs, but toward a deep, mutual understanding that is essential for effective community interaction.
 
 It is undeniable that shifting from entrenched animosities to a mindset of collective flourishing will be a significant hurdle for many. Throughout history, certain groups have been marginalized, demonized, or dehumanized, leading to deep-seated divisions that have persisted across generations. For some, the thought of collaborating or coexisting peacefully with those they have been taught to see as fundamentally different or even inferior—whom they may have even regarded as less than human—presents a profound challenge.
@@ -278,9 +278,8 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 - [**Global Institution**](https://github.com/whomanatee/plan): Explore the GI plan designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, engaging in more meaningful work, and fostering a life that is truly amazing in every way.
 - [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: This essay makes a compelling case for giving serious consideration to ideas that might initially appear radical. It advocates for a thoughtful evaluation of concepts that seem implausible, resonating especially with proposals like retiring by age 50 and transitioning to a two-day workweek. These ideas, while seemingly radical, are increasingly feasible given today's technological and social advances. This essay encourages us to ponder whether the truly 'crazy' notion is continuing to accept less efficient, traditional work structures when a brighter, more equitable world is within our grasp.
 Here's a suggested entry for the chin document that ties it to the themes discussed in the manifesto:
-- [**The Human Chin**](/docs/chins.md): This document explores the unique role of the human chin as a biofeedback mechanism that promotes cooperation over conflict. It argues that the chin's ability to provide a tingling sensation during moments of insight or resolution is a biological feature designed to enhance group harmony and foster peaceful interactions. This perspective offers a biological basis for the proposed transformations in human interactions and societal structures.
-Thanks for sharing that overview. Here's how you might integrate a reference to the PPSD, PPHD, and PP4K document in the "Resources" section, reflecting the depth and relevance of its content in relation to the broader themes of the manifesto:
-- [**Stress Damage (PPSD, PPHD, PP4K)**](/docs/stress.md): This document explored the pervasive impact of interpersonal stress on individual and societal health. It introduces concepts such as Post People Stress Damage (PPSD) and Post People Humanity Damage (PPHD) to illustrate how continuous stress erodes personal well-being and social cohesion. The vision of Post People Kinship, Knowledge, Kindness, and Keystone (PP4K) presents a future where societal and individual healing are achieved through enhanced relationships and systemic changes. This resource underscores the need for a fundamental reevaluation of societal structures to foster a healthier, more connected humanity, aligning closely with this manifesto’s call for transformative societal changes.
+- [**The Human Chin**](/docs/chins.md) by me: This document explores the unique role of the human chin as a biofeedback mechanism that promotes cooperation over conflict. It argues that the chin's ability to provide a tingling sensation during moments of insight or resolution is a biological feature designed to enhance group harmony and foster peaceful interactions. This perspective offers a biological basis for the proposed transformations in human interactions and societal structures proposed in this manifesto.
+- [**Stress Damage (PPSD, PPHD, PP4K)**](/docs/stress.md) by me: This document explores the pervasive impact of interpersonal stress on individual and societal health. It introduces concepts such as Post People Stress Damage (PPSD) and Post People Humanity Damage (PPHD) to illustrate how continuous stress erodes personal well-being and social cohesion. The vision of Post People Kinship, Knowledge, Kindness, and Keystone (PP4K) presents a future where societal and individual healing are achieved through enhanced relationships and systemic changes. This resource underscores the need for a fundamental reevaluation of societal structures to foster a healthier, more connected humanity, aligning with this manifesto’s call for transformative societal changes.
 
 
 
