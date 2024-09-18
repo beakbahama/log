@@ -1,5 +1,15 @@
 # You've Likely Heard of PTSD, But Have You Heard of PPSD, PPHD, and PP4K?
-> In this document, I introduce the new terms PPSD, PPHD, and PP4K—not merely for the sake of novelty but to facilitate a collective rethinking of our understanding of humanity. These terms and their underlying concepts guide us beyond merely resolving issues, toward a future where we can all thrive together. The document will continually be updated and enhanced; feedback is welcomed in the discussions section of this repository.
+
+or
+# We Are Stressing Ourselves and Damaging Our Brains
+
+or
+# A Path From Global Stress to Global Success
+
+> In this document, I introduce the new terms PPSD, PPHD, and PP4K—not merely for the sake of novelty but to facilitate a collective rethinking of our understanding of humanity.
+
+> These terms and their underlying concepts guide us beyond merely resolving issues, toward a future where we can all thrive together.
+
 
 
 ## Table of Contents
