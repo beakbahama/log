@@ -1,4 +1,5 @@
-> Greetings, this document is a work in progress. I'll be checking in bits and pieces to grow it over the coming days and weeks.
+> [!NOTE]
+> This document is a work in progress, but I’ve committed it to this repo in its preliminary state as it already contains useful information. I will continue to add to it in bits and pieces over the coming days and weeks.
 
 # Anti and Anger: The 'AA' Undermining Humanity
 
