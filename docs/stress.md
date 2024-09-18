@@ -1,7 +1,7 @@
 # You've Likely Heard of PTSD, But Have You Heard of PPSD, PPHD, and PP4K?
 
 or
-# We Are Stressing Ourselves and Damaging Our Brains
+# We Are Stressing Ourselves and Damaging Our Brains and Bodies, too
 
 or
 # A Path From Global Stress to Global Success
