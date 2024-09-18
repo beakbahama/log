@@ -96,7 +96,7 @@ To ensure no one is left behind, the GI encompasses a broad spectrum of essentia
 To deeper explore these benefits and more, visit the [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md).
 
 
-### Key Features in Depth
+### Key Initiatives in Depth
 1. **Two-Day Workweek and Early Retirement:** This proposal significantly reduces the traditional workweek to just two days, paired with the option for early retirement at age 50. This shift aims to lessen work-related stress and enhance personal and community involvement. The concept of retirement is reimagined to encourage transitioning into mentorship roles, where seasoned individuals use their accrued knowledge and experience to enrich community and family dynamics, fostering a culture of wisdom and continued economic contribution. Under the GI framework, the two-day workweek becomes feasible, reducing the demand for a constant workforce and leading to the obsolescence of various traditional sectors. This results in the systemic phase-out of redundant industries and practices, including:
 
    - **Insurance and Banking**: Comprehensive care and financial security provided by the GI make personal and commercial insurance, along with traditional banking services, redundant.
@@ -123,7 +123,7 @@ To deeper explore these benefits and more, visit the [GI Benefits](https://githu
    
 1. **Global Standards, Local Implementation:** The framework promotes the implementation of global standards for essential services while respecting local customs and diversity. By integrating international best practices with local values and needs, it aims to enhance service quality and cultural sensitivity, making the implementation of GI principles more inclusive and effective worldwide.
 
-To explore these features in depth, including the Global Eating Department (GED), the Delicious Eating Department (DED), the Department of Fun (DoF), and numerous other initiatives, visit the [GI Overview](https://github.com/whomanatee/plan/blob/main/docs/overview.md).
+To explore these features in depth, including the Global Eating Department (GED), the Delicious Eating Department (DED), the Department of Fun (DoF), and numerous other initiatives, visit the [GI Initiatives](https://github.com/whomanatee/plan/blob/main/docs/initiatives.md).
 
 
 
@@ -275,11 +275,11 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 
 
 ## Resources
-- [**Global Institution**](https://github.com/whomanatee/plan): Explore the GI plan designed to bring world peace, prosperity, and joy to all by pooling our resources, working less, engaging in more meaningful work, and fostering a life that is truly amazing in every way.
+- [**Global Institution**](https://github.com/whomanatee/plan): For a deeper dive into the GI plan and its comprehensive approach to redefining global living standards, visit this page. You’ll find key documents, aspirational objectives, hypothetical case studies, and extensive resources.
 - [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: This essay makes a compelling case for giving serious consideration to ideas that might initially appear radical. It advocates for a thoughtful evaluation of concepts that seem implausible, resonating especially with proposals like retiring by age 50 and transitioning to a two-day workweek. These ideas, while seemingly radical, are increasingly feasible given today's technological and social advances. This essay encourages us to ponder whether the truly 'crazy' notion is continuing to accept less efficient, traditional work structures when a brighter, more equitable world is within our grasp.
 Here's a suggested entry for the chin document that ties it to the themes discussed in the manifesto:
-- [**The Human Chin**](/docs/chins.md) by me: This document explores the unique role of the human chin as a biofeedback mechanism that promotes cooperation over conflict. It argues that the chin's ability to provide a tingling sensation during moments of insight or resolution is a biological feature designed to enhance group harmony and foster peaceful interactions. This perspective offers a biological basis for the proposed transformations in human interactions and societal structures proposed in this manifesto.
-- [**Stress Damage (PPSD, PPHD, PP4K)**](/docs/stress.md) by me: This document explores the pervasive impact of interpersonal stress on individual and societal health. It introduces concepts such as Post People Stress Damage (PPSD) and Post People Humanity Damage (PPHD) to illustrate how continuous stress erodes personal well-being and social cohesion. The vision of Post People Kinship, Knowledge, Kindness, and Keystone (PP4K) presents a future where societal and individual healing are achieved through enhanced relationships and systemic changes. This resource underscores the need for a fundamental reevaluation of societal structures to foster a healthier, more connected humanity, aligning with this manifesto’s call for transformative societal changes.
+- [**The Human Chin**](/docs/chins.md) by me: This document explores the unique role of the human chin as a biofeedback mechanism that promotes cooperation over conflict. It details how the chin's ability to provide a tingling sensation during moments of insight or resolution serves as a biological feature designed to enhance group harmony and foster peaceful interactions. This perspective provides a biological basis for the transformations in human interactions and societal structures proposed in this manifesto.
+- [**Stress Damage (PPSD, PPHD, PP4K)**](/docs/stress.md) by me: This document explores the pervasive impact of interpersonal stress on individual and societal health. It introduces concepts to illustrate how continuous stress erodes personal well-being and social cohesion. It also presents a future where societal and individual healing are achieved through enhanced relationships and systemic changes, aligning with this manifesto’s call for transformative societal changes.
 
 
 
