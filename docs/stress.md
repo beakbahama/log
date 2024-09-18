@@ -3,20 +3,20 @@
 
 
 ## Table of Contents
-1. [Introduction](#introduction) - Overview of PTSD and related concepts
-1. [Beyond Labels: Understanding and Healing](#beyond-labels-understanding-and-healing) - Introduction to PPSD, HD, and 4K
-1. [Rethinking Our Approach to Mental Health](#rethinking-our-approach-to-mental-health) - Expanding perspectives on mental health beyond traditional models
-1. [Terminology Insight: Why "Post People" and "Damage"?](#terminology-insight-why-post-people-and-damage) - Why the choice of PP and D in PPSD and PPHD?
-1. [Introducing PPSD](#introducing-ppsd) - Detailed explanation of Post People Stress Damage
-1. [Expanding to PPHD](#expanding-to-pphd) - Detailed explanation of Post People Humanity Damage
-1. [Vision for Healing: PP4K](#vision-for-healing-pp4k) - Detailed explanation of Post People Kinship, Knowledge, Kindness, and Keystone
-1. [Revisiting Psychological Disorders](#revisiting-psychological-disorders) - Examines traditional disorders as outcomes of systemic stress and societal issues
-1. [Reframing Autism: A New Perspective Through PPSD and PPHD](#reframing-autism-a-new-perspective-through-ppsd-and-pphd) - A fresh look through societal and environmental lenses
-1. [Call to Action: Integrating Insights into Action](#call-to-action-integrating-insights-into-action) - Encouragement and guidance for readers
-1. [Healing Humanity: A Plan for Systemic Change](#healing-humanity-a-plan-for-systemic-change) - Strategy to heal systemic societal issues
-1. [Measuring Success: Thriving Through Life's Challenges](#measuring-success-thriving-through-lifes-challenges) - Metrics and strategies for assessing success
-1. [A Vision for an Amazing World: Beyond Terms to Transformation](#a-vision-for-an-amazing-world-beyond-terms-to-transformation) - Concluding insights on enhancing the well-being of all
-1. [Recommended Reading](#recommended-reading) - Essential literature for further exploration
+1. [Introduction](#introduction)
+1. [Beyond Labels: Understanding and Healing](#beyond-labels-understanding-and-healing)
+1. [Rethinking Our Approach to Mental Health](#rethinking-our-approach-to-mental-health)
+1. [Terminology Insight: Why "Post People" and "Damage"?](#terminology-insight-why-post-people-and-damage)
+1. [Introducing PPSD](#introducing-ppsd)
+1. [Expanding to PPHD](#expanding-to-pphd)
+1. [Vision for Healing: PP4K](#vision-for-healing-pp4k)
+1. [Revisiting Psychological Disorders](#revisiting-psychological-disorders)
+1. [Reframing Autism: A New Perspective Through PPSD and PPHD](#reframing-autism-a-new-perspective-through-ppsd-and-pphd)
+1. [Call to Action: Integrating Insights into Action](#call-to-action-integrating-insights-into-action)
+1. [Healing Humanity: A Plan for Systemic Change](#healing-humanity-a-plan-for-systemic-change)
+1. [Measuring Success: Thriving Through Life's Challenges](#measuring-success-thriving-through-lifes-challenges)
+1. [A Vision for an Amazing World: Beyond Terms to Transformation](#a-vision-for-an-amazing-world-beyond-terms-to-transformation)
+1. [Recommended Reading](#recommended-reading)
 
 
 ## Introduction
@@ -191,7 +191,7 @@ This vision seeks not just to treat symptoms but to eradicate the societal roots
 
 In this envisioned world, every individual has a role to play. It is through our daily interactions, the choices we make as consumers, educators, policymakers, and community members, that we will forge this new society. Each act of understanding, each policy of inclusion, each educational innovation that recognizes diverse needs is a step toward this goal.
 
-Success will not be measured by the eradication of terms like ASD or PPSD from our medical dictionaries, but by the absence of the need for them. It will be seen in communities thriving with interconnectedness and mutual support, in workplaces that genuinely adapt to the needs of all, and in educational systems that celebrate and nurture diversity in learning and development.
+Success will not be measured by the eradication of terms like ASD or PTSD from our medical dictionaries, but by the absence of the need for them. It will be seen in communities thriving with interconnectedness and mutual support, in workplaces that genuinely adapt to the needs of all, and in educational systems that celebrate and nurture diversity in learning and development.
 
 As we move forward, this document serves as a call to action for everyone—from policymakers to educators, from healthcare professionals to community leaders, and to every individual committed to fostering a healthier society. Together, we can build a world that does not just manage symptoms but prevents them; a world that does not merely survive challenges but thrives on them. Let us embrace this challenge with hope and determination, knowing that our collective efforts can create an amazing world for us and all future generations.
 
@@ -200,12 +200,12 @@ As we move forward, this document serves as a call to action for everyone—from
 ## Recommended Reading
 These recommended books provide essential insights into how societal structures contribute to individual and communal challenges, offering guidance on transforming these structures to foster a healthier, more supportive society:
 
-- **"The Drama of the Gifted Child: The Search for the True Self" by Alice Miller**: Alice's seminal work explores the concept of the "gifted" child, which she suggests refers not to traditional notions of talent or intellect but to a child's capacity to survive stressful and emotionally complex environments. She argues that such "giftedness" arises from the child's need to respond to and cope with their emotional surroundings, often at the cost of their true self. This adaptation can lead to significant psychological challenges later in life, which are fundamental to understanding PPSD. The book, also published under the title "Prisoners of Childhood," provides crucial insights into how seemingly ordinary childhood environments contribute to the formation of stress-related behaviors observed in adulthood.
+- **"The Drama of the Gifted Child: The Search for the True Self" by Alice Miller**: Alice's seminal work explores the concept of the "gifted" child, which she suggests refers not to traditional notions of talent or intellect but to a child's capacity to survive stressful and emotionally complex environments. She argues that such "giftedness" arises from the child's need to respond to and cope with their emotional surroundings, often at the cost of their true self. This adaptation can lead to significant psychological challenges later in life. The book, also published under the title "Prisoners of Childhood," provides crucial insights into how seemingly ordinary childhood environments contribute to the formation of stress-related behaviors observed in adulthood.
 
-- **"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma" by Bessel van der Kolk**: Bessel provides a comprehensive overview of how trauma affects the brain, body, and behavior. His work is pivotal in conceptualizing Developmental Trauma Disorder (DTD), emphasizing the profound and lasting effects of trauma from a young age. This exploration is crucial for understanding the physiological and psychological roots of both PPSD and PPHD, illustrating how pervasive the impact of interpersonal stress can be. Bessel’s insights into trauma’s lasting effects and the pathways towards healing make this book an essential resource for anyone looking to deepen their understanding of these complex dynamics.
+- **"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma" by Bessel van der Kolk**: Bessel provides a comprehensive overview of how trauma affects the brain, body, and behavior. His work is pivotal in conceptualizing Developmental Trauma Disorder (DTD), emphasizing the profound and lasting effects of trauma from a young age. This exploration is crucial for understanding the physiological and psychological roots of stress damage, illustrating how pervasive the impact of interpersonal stress can be. Bessel’s insights into trauma’s lasting effects and the pathways towards healing make this book an essential resource for anyone looking to deepen their understanding of these complex dynamics.
 
-- **"Complex PTSD: From Surviving to Thriving" by Pete Walker**: Pete's book offers a comprehensive exploration of Complex PTSD, a condition resulting from prolonged exposure to traumatic environments, especially in childhood. His approach is particularly relevant to understanding PPSD and PPHD as he delves into the various coping strategies individuals develop in response to persistent emotional neglect or abuse. The book provides practical guidance for navigating the path from merely surviving such conditions to thriving despite them, emphasizing emotional healing and recovery. Pete's insights are invaluable for anyone looking to understand the lasting effects of complex trauma on both personal and societal levels.
+- **"Complex PTSD: From Surviving to Thriving" by Pete Walker**: Pete's book offers a comprehensive exploration of Complex PTSD, a condition resulting from prolonged exposure to traumatic environments, especially in childhood. His approach is particularly relevant as he delves into the various coping strategies individuals develop in response to persistent emotional neglect or abuse. The book provides practical guidance for navigating the path from merely surviving such conditions to thriving despite them, emphasizing emotional healing and recovery. Pete's insights are invaluable for anyone looking to understand the lasting effects of continuous trauma on both personal and societal levels.
 
-- **"How to Talk So Kids Will Listen & Listen So Kids Will Talk" by Adele Faber and Elaine Mazlish**: Adele and Elaine, while primarily focused on parent-child communication, offer universal communication strategies that are essential for mitigating interpersonal stress and conflicts. The techniques discussed are particularly useful in preventing the development of PPSD in children and improving interactions across all age groups.
+- **"How to Talk So Kids Will Listen & Listen So Kids Will Talk" by Adele Faber and Elaine Mazlish**: Adele and Elaine, while primarily focused on parent-child communication, offer universal communication strategies that are essential for mitigating interpersonal stress and conflicts. The techniques discussed are particularly useful in preventing the development of stress damage in children and improving interactions across all age groups.
 
-- **"For Your Own Good: Hidden Cruelty in Child-Rearing and the Roots of Violence" by Alice Miller**: Alice examines the destructive impact of abusive child-rearing practices, which are often overlooked or normalized. Understanding these early experiences is key to comprehending the origins of behaviors that contribute to PPSD and PPHD, and her insights help reveal how these patterns propagate violence and stress within society.
+- **"For Your Own Good: Hidden Cruelty in Child-Rearing and the Roots of Violence" by Alice Miller**: Alice examines the destructive impact of abusive child-rearing practices, which are often overlooked or normalized. Understanding these early experiences is key to comprehending the origins of behaviors that contribute to stress damage, and her insights help reveal how these patterns propagate violence and stress within society.
