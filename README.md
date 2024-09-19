@@ -18,9 +18,9 @@
 
 > Do you have a public log? Why or why not? I encourage everyone to create their own log on GitHub like this one. It's free and you'll have a chance to learn about git, GitHub, Markdown, HTML, CSS and more. No prior software knowledge needed. You'll also grow your writing abilities. Write how you speak to people. Speak to everyone the same. Speak about yourself the same way you speak to and about others. This way you are the same, cohesive person inside and out. ***To be real or not to be.*** That is the only question. From truth and only truth emerges peace, prosperity, harmony, and joy.
 
-> I have been raised and shaped by various cultures and peoples, though my allegiance is to the betterment of all humans and not to one particular group, nation, or cause other than the cause for truth. And in truth we find that all humans have the same intrinsic value and potential ability. All we need is the proper environment to thrive in.  
+> I have been raised and shaped by various cultures and peoples, though my allegiance is to the betterment of all humans and not to one particular group or cause other than the cause for truth. And in truth we find that all humans have the same intrinsic value and potential ability. All we need is the proper environment to thrive in.  
 
-> I prefer to be called by my given callsign, محمد (MHMMD), pronounced as it was originally intended, and I am thankful for all sincere attempts at pronouncing it correctly. Alternatively, if you prefer, you can simply call me by my first initial, M, and I encourage anyone to translate it into the language spoken at the moment, so in Spanish, for example, it would be pronounced em-é.
+> I prefer to be called by my given callsign, محمد (Mohammad), pronounced as it was originally intended, and I am thankful for all sincere attempts at pronouncing it correctly. Alternatively, if you prefer, you can simply call me by my first initial, M, and I encourage anyone to translate it into any language, so in Spanish, for example, it would be pronounced em-é.
 
 > Questions, comments, memes, or anything else on your mind? You can send a personal email to *m@whomanatee.org*
 
