@@ -121,8 +121,8 @@ The chin highlights the intricate connection between our physical form, social b
 
 ## Resources
 - [**Chin Uniqueness Video**](https://www.youtube.com/watch?v=7D5CQ98kll4) by Hank Green: Discover where I first learned about the uniqueness of human chins in late 2020 or early 2021.
-- [**Review of Theories on the Human Chin**](https://onlinelibrary.wiley.com/doi/10.1002/evan.21471) by James Pampush and David Daegling: Explore this scholarly review that delves into the various hypotheses proposed to explain why humans have chins, examining the strengths and weaknesses of each theory and demonstrating the ongoing debate within the scientific community. The paper is behind a paywall, but you may contact the authors for personal access or explore other means to obtain it.
-- [**NPR Interview with James Pampush**](https://www.npr.org/2016/01/29/464893281/why-do-humans-have-chins-a-scientist-explains-the-enduring-puzzle): A brief but informative interview that offers insights into the enduring questions about human chins, featuring James Pampush, one of the authors of the paper "Review of Theories on the Human Chin". Listen time: approximately 3 minutes.
+- [**The Enduring Puzzle of the Human Chin**](https://onlinelibrary.wiley.com/doi/10.1002/evan.21471) by James Pampush and David Daegling: Explore this scholarly review that delves into the various hypotheses proposed to explain why humans have chins, examining the strengths and weaknesses of each theory and demonstrating the ongoing debate within the scientific community. The paper is behind a paywall, but you may contact the authors for personal access or explore other means to obtain it.
+- [**NPR Interview with James Pampush**](https://www.npr.org/2016/01/29/464893281/why-do-humans-have-chins-a-scientist-explains-the-enduring-puzzle): A brief but informative interview that offers insights into the enduring questions about human chins, featuring James Pampush, one of the authors of the paper "The Enduring Puzzle of the Human Chin". Listen time: approximately 3 minutes.
 
 
 
