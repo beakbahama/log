@@ -50,10 +50,10 @@ or
 ## Table of Contents
 1. [Overview of Childhood Sensations and Experiences](#overview-of-childhood-sensations-and-experiences)
 1. [Reflections on Losing the Chin Sensation in Childhood](#reflections-on-losing-the-chin-sensation-in-childhood)
-1. Current Chin Status and Other Associated Body Sensations - ***coming soon!***
-1. Unresolved Stress: A Widespread Condition from Childhood - ***coming soon!***
-1. Transitioning Out of the Stress State - ***coming soon!***
-1. A Hypothesis on the Spontaneous Emergence of the Chin in Hominoids Approximately 200,000 Years Ago - ***coming soon!***
+1. The Current State of My Chin and Other Associated Body Sensations - ***coming soon!***
+1. Regaining the Chin and Transitioning Out of the Unresolved Stress State - ***coming soon!***
+1. Unresolved Stress: A Widespread Condition from Childhood? - ***coming soon!***
+1. A Hypothesis on the Emergence of the Chin in Upright Walkers - ***coming soon!***
 1. [Conclusion: The Chin as a Keystone of Human Development and Social Cooperation](#conclusion-the-chin-as-a-keystone-of-human-development-and-social-cooperation)
 1. [Closing Thoughts](#closing-thoughts)
 1. [Resources](#resources)
@@ -93,7 +93,7 @@ Even though I knew I had lost the chin sensation, which had been a reliable indi
 ## Conclusion: The Chin as a Keystone of Human Development and Social Cooperation
 Exploring the uniqueness of the human chin offers profound insights into our understanding of human development. As a distinct anatomical feature not found in other hominids, including our closest extinct relatives like the Neanderthals, the chin likely played a key role in shaping the adaptive capabilities of Homo sapiens. While Neanderthals possessed larger brains and bodies adapted for individual strength and endurance, the chin's subtle physiological feedback mechanisms may have supported the advanced social interactions and cooperation that are quintessential to human societies.
 
-Sensations linked to the chin, based on personal experiences suggest that once this feature emerged, it would have helped promote group dynamics and social cohesion. This biofeedback mechanism likely encouraged behaviors that resolved conflicts through thought and dialogue, rather than physical aggression. Such a trait would have been invaluable in complex social environments, where cooperation and communication were key to group success and, by extension, individual survival.
+Sensations linked to the chin, based on personal experiences, suggest that once this feature emerged, it would have helped promote group dynamics and social cohesion. This biofeedback mechanism likely encouraged behaviors that resolved conflicts through thought and dialogue, rather than physical aggression. Such a trait would have been invaluable in complex social environments, where cooperation and communication were key to group success and, by extension, individual survival.
 
 This perspective on the chin offers insights into the physical and cognitive distinctions of modern humans, as well as the social structures that likely contributed to our species' success. The ability to harness such nuanced physiological feedback for emotional and cognitive regulation would have been pivotal in human development, distinguishing us not just physically but, more importantly, in our capacity to form, maintain, and expand complex societal structures.
 
@@ -130,7 +130,7 @@ Thus, my exploration of the chin’s function reveals both surprising and antici
 ## Planned Additions
 - **Multimedia Resources**: Relevant videos, pictures, diagrams, and interactive media that can provide a richer, more engaging exploration of the topics covered.
 
-- **Case Studies: Experiences with Chin Sensations**: Narratives and anonymous case studies that illustrate how various individuals have experienced chin-related phenomena, broadening the narrative with empirical support.
+- **Case Studies: Experiences with Chin Sensations**: Narratives and anonymous case studies that illustrate how various individuals have experienced chin-related phenomena.
   
 - **Understanding the Physical Basis of Chin Sensations**: Explore the neurological and physical mechanisms behind chin sensations.
 
