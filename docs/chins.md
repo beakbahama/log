@@ -11,7 +11,7 @@ or
 
 > Did you know that the chin is uniquely human? No other known species, past or present, shares this feature.
 
-> Have you ever wondered why humans have chins or what purpose they serve? This question has long puzzled researchers and thinkers.
+> Have you ever wondered why humans have chins or what purpose they serve? This question has long puzzled humans.
 
 > Unlike other features we share or have shared with other species—like large brains, similar to those of Neanderthals, or feet like those of the earliest upright walkers who roamed this planet over 6 million years ago—the chin stands alone as a distinctive feature of human anatomy. 
 
