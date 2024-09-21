@@ -1,17 +1,10 @@
 # 💩 MY PERSONAL PUBLIC LOG
 
-## Ideas, Manifestos, Discoveries, and More...
+## Thoughts
 - [**Time is Freedom**](docs/time-is-freedom.md): We are working too much and it doesn't make sense. We can all work way less just by being efficient with our time and resources, and in this document, a manifesto for freedom, I discuss how we can get our time, and freedom, back. I'm talking working 2 days a week on average, retiring from any intense physical or mental labor by 50, and living a life focused on self, family, community, and beyond, giving everyone a chance to excel in all areas of human ability. Proceed with caution and an open mind.
 
 - [**The Human Chin**](docs/chins.md): The only unique thing about humans are chins, not the big brain or anything else. And the reason for them: to help us think and avoid conflict. In this document, I explore the chin and my relatively recent rediscovery of its purpose. Adult me didn't figure it out—kid me did.
 
-- [**Stress Damage (PPSD, PPHD, and PP4K)**](docs/stress.md): Stress is killing us; we are stressing each other out; we need to stop stressing out ourselves and others. Together, we can begin moving towards a world where we can all thrive and live life to the fullest and most comfortable. In this document, I make up some new terms, not for the sake of making up terms, but for the sake of recognizing humanity's true struggles and outlining a new way forward.
-
-
-<!--
-## Stories
-- [**The Tale of the Greedy Sovereign and the Lonely Moon**](docs/greedy-sovereign.md): I used ChatGPT-4 to help me flesh out a short story about a ruler that wanted it all. I gave it the story outline and that I wanted a style written similar to *The Little Prince*, and with quite a bit of back and forth and lots of tweaking, I present to you my first publicly shared short story about a greedy sovereign.
--->
 
 ## About
 > Welcome. This is a place I started to publicly share my 💩.
