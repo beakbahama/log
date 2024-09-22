@@ -13,7 +13,7 @@
 
 > I have been raised and shaped by various cultures and peoples, though my allegiance is to the betterment of all humans and not to one particular group or cause other than the cause for truth. And in truth we find that all humans have the same intrinsic value and potential ability. All we need is the proper environment to thrive in.  
 
-> I prefer to be called by my given callsign, محمد (Mohammad), pronounced as it was originally intended, and I am thankful for all sincere attempts at pronouncing it correctly. Alternatively, if you prefer, you can simply call me by my first initial, M, and I encourage anyone to translate it into any language, so in Spanish, for example, it would be pronounced em-é.
+> I prefer to be called by my given callsign, محمد, pronounced as it was originally intended, and I am thankful for all sincere attempts at pronouncing it correctly.
 
 > Questions, comments, memes, or anything else on your mind? You can send a personal email to *m@whomanatee.org*
 
