@@ -1,5 +1,5 @@
-> [!NOTE]
-> This document is a work in progress.
+> [!WARNING]
+> This document is an unpublished draft but is likely to undergo only minor enhancements in future updates.
 
 # You've Likely Heard of PTSD, But Have You Heard of PPSD, PPHD, and PP4K?
 
@@ -9,9 +9,9 @@ or
 or
 # A Path From Global Stress to Global Success
 
-> In this document, I introduce the new terms PPSD, PPHD, and PP4K—not merely for the sake of novelty but to facilitate a collective rethinking of our understanding of humanity.
+> In this document, I introduce the new terms PPSD, PPHD, and PP4K—not for novelty’s sake, but to encourage a deeper reflection on the human experience and how stress affects us all.
 
-> These terms and their underlying concepts guide us beyond merely resolving issues, toward a future where we can all thrive together.
+> These concepts invite us to move beyond addressing isolated issues and instead focus on reshaping the very foundation of how we understand human well-being. Together, we’ll explore how these ideas can guide us toward a future where everyone can thrive in a truly connected, supportive, and healing world.
 
 
 
