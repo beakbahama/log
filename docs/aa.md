@@ -1,5 +1,5 @@
-> [!NOTE]
-> This document is a work in progress.
+> [!WARNING]
+> This document is an unpublished draft and may change significantly.
 
 # Anti and Anger: The 'AA' Undermining Humanity
 
