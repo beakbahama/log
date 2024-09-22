@@ -1,3 +1,6 @@
+> [!WARNING]
+> This story is complete, but remains unpublished while background information on its inspiration and creation is being prepared.
+
 # The Tale of the Greedy Sovereign and the Lonely Moon
 <!--![](/assets/images/greedy-sovereign.webp)-->
 
