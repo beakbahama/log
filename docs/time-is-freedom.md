@@ -242,7 +242,7 @@ So while the ideas presented may appear overly optimistic to some, it is importa
 
 The resurgence of cooperative models in various modern initiatives provides contemporary evidence that collaboration is not only feasible but often more effective than competitive frameworks. Furthermore, the misunderstanding that humans are primarily competitive overlooks the flexibility of human behavior, which is highly adaptable to the structures and incentives that society constructs. By designing systems that reward and facilitate cooperation, such as the framework proposed here, we can cultivate environments that bring out the most constructive and harmonious aspects of human nature.
 
-Further, humans are biologically wired for cooperation. Interestingly, and quite shockingly, a certain unique human feature, the chin, as detailed [here](/docs/chins.md), plays a vital role in promoting cooperation, serving as a biofeedback mechanism that fosters group harmony. You may recall from childhood that the chin provides tingling sensations to avoid conflict and reinforce cooperative behavior.
+Further, humans are biologically wired for cooperation. Interestingly, and quite shockingly, a certain unique human feature, the chin, as detailed [here](/docs/chins.md), plays a vital role in promoting cooperation, serving as a biofeedback mechanism that fosters group harmony. You may recall from childhood that the chin provides sensations to avoid conflict and reinforce cooperative behavior, though it’s possible you may not have noticed or taken note of this sensation.
 
 And so, the changes to humanity of this manifesto are not merely aspirational but are grounded in a deep understanding of human psychology, physiology, and social dynamics. By fostering environments that prioritize our innate tendencies, we can transform our societies from competitive battlegrounds into cooperative havens. This shift is not only possible but necessary for the long-term sustainability and well-being of our global community. This manifesto proposes not just a societal reformation but a reclamation of our natural state and use of our chins. And by restructuring our societal frameworks to eliminate unnecessary competition and promote mutual support, we can address the root causes of many, if not all, antisocial behaviors. 
 
@@ -288,5 +288,5 @@ Here's a suggested entry for the chin document that ties it to the themes discus
 - **2024-09-13**: Added *A Personal Note*, added alternate titles
 - **2024-08-30**: Combined sections, added a list of things covered by the GI
 - **2024-08-29**: Significantly updated and expanded *Step Two: Funding the GI Core Fund and Beyond*, enhanced *Key Features: Two-Day Workweek and Early Retirement*
-- **2024-08-27**: Converted this [letter](https://github.com/beakbahama/log/blob/b919fd2fdec0723f62fc40cf06c68f9931b73c8e/docs/time-is-freedom.md) into this more expansive and inclusive *Time is Freedom* document
+- **2024-08-27**: First major version of this document *Time is Freedom*
 
