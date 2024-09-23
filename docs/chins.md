@@ -106,6 +106,20 @@ Even though I knew I had lost the chin sensation, which had been a reliable indi
 
 
 
+## The Current State of My Chin and Other Associated Body Sensations
+> ***coming soon!***
+
+## Regaining the Chin and Transitioning Out of the Unresolved Stress State
+> ***coming soon!***
+
+## Unresolved Stress: A Widespread Condition from Childhood?
+> ***coming soon!***
+
+## A Hypothesis on the Emergence of the Chin in Upright Walkers
+> ***coming soon!***
+
+
+
 ## Conclusion: The Chin as a Keystone of Human Development and Social Cooperation
 Exploring the uniqueness of the human chin offers profound insights into our understanding of human development. As a distinct anatomical feature not found in other hominids, including our closest extinct relatives like the Neanderthals, the chin likely played a key role in shaping the adaptive capabilities of Homo sapiens. While Neanderthals possessed larger brains and bodies adapted for individual strength and endurance, the chin's subtle physiological feedback mechanisms may have supported the advanced social interactions and cooperation that are quintessential to human societies.
 
@@ -124,7 +138,7 @@ Thus, my exploration of the chin’s function reveals both surprising and antici
 
 > Does it tingle today?
 
-> And do you remmeber the "pop" and cascading sensations?
+> And do you remmeber the "pop" and cascading sensations around the head?
 
 > I hope to "***share a chin***" with everyone soon, which is a way I came up with for saying "to think with others". What do you think of the phrase?
 
