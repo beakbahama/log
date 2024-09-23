@@ -1,5 +1,5 @@
 > [!NOTE]
-> This document is a work in progress, but I’m sharing it now as it already contains useful information. Last major update: [2024-09-22](#updates)
+> This document is a work in progress, but I’m sharing it early as it already contains important information. Last major update: [2024-09-23](#updates)
 
 # On the Emergence and Purpose of the Human Chin: The Only Unique Human Feature
 
@@ -7,7 +7,7 @@ or
 # Why Did the Chin Stick Around?
 
 or  
-# The Human Chin: Its Role in Preventing Conflict by Promoting Problem Solving and Cooperation, Building Mental Fortitude, Devloping the Ability to Understand, and Fostering Creativity
+# The Human Chin: Its Role in Preventing Conflict by Promoting Problem Solving and Cooperation, Building Mental Fortitude, Developing Understanding, and Fostering Creativity
 
 > Did you know that the chin is uniquely human? No other known species, past or present, shares this feature.
 
@@ -23,8 +23,6 @@ or
 
 > Have you come across any of the [prevailing theories](https://www.npr.org/2016/01/29/464893281/why-do-humans-have-chins-a-scientist-explains-the-enduring-puzzle) about why humans have chins? None have been definitively proven true. You might have heard that chins aid in chewing or speaking. Or perhaps you've heard theories suggesting chins emerged to help withstand punches or that chins play a role in reproductive selection. All reasonable ideas, yet, none of these explanations has been conclusively supported by evidence.
 
-> So, what's a chin for? The answer may surprise you.
-
 
 
 ## Table of Contents
@@ -35,8 +33,8 @@ or
 1. The Current State of My Chin and Other Associated Body Sensations - ***coming soon!***
 1. Regaining the Chin and Transitioning Out of the Unresolved Stress State - ***coming soon!***
 1. Unresolved Stress: A Widespread Condition from Childhood? - ***coming soon!***
-1. A Hypothesis on the Emergence of the Chin in Upright Walkers - ***coming soon!***
-1. [Conclusion: The Chin as a Keystone of Human Development and Social Cooperation](#conclusion-the-chin-as-a-keystone-of-human-development-and-social-cooperation)
+1. On the Emergence of the Chin in Upright Walkers - ***coming soon!***
+1. Conclusion: The Chin as a Keystone of Human Development - ***coming soon!***
 1. [Closing Thoughts](#closing-thoughts)
 1. [Resources](#resources)
 1. [Planned Additions](#planned-additions)
@@ -115,19 +113,11 @@ Even though I knew I had lost the chin sensation, which had been a reliable indi
 ## Unresolved Stress: A Widespread Condition from Childhood?
 > ***coming soon!***
 
-## A Hypothesis on the Emergence of the Chin in Upright Walkers
+## On the Emergence of the Chin in Upright Walkers
 > ***coming soon!***
 
-
-
-## Conclusion: The Chin as a Keystone of Human Development and Social Cooperation
-Exploring the uniqueness of the human chin offers profound insights into our understanding of human development. As a distinct anatomical feature not found in other hominids, including our closest extinct relatives like the Neanderthals, the chin likely played a key role in shaping the adaptive capabilities of Homo sapiens. While Neanderthals possessed larger brains and bodies adapted for individual strength and endurance, the chin's subtle physiological feedback mechanisms may have supported the advanced social interactions and cooperation that are quintessential to human societies.
-
-Sensations linked to the chin, based on personal experiences, suggest that once this feature emerged, it would have helped promote group dynamics and social cohesion. This biofeedback mechanism likely encouraged behaviors that resolved conflicts through thought and dialogue, rather than physical aggression. Such a trait would have been invaluable in complex social environments, where cooperation and communication were key to group success and, by extension, individual survival.
-
-This perspective on the chin offers insights into the physical and cognitive distinctions of modern humans, as well as the social structures that likely contributed to our species' success. The ability to harness such nuanced physiological feedback for emotional and cognitive regulation would have been pivotal in human development, distinguishing us not just physically but, more importantly, in our capacity to form, maintain, and expand complex societal structures.
-
-Thus, my exploration of the chin’s function reveals both surprising and anticipated insights into what it means to be human. As the only uniquely human anatomical trait, it’s fitting that the chin is closely tied to our identity as beings who think, solve problems, and avoid conflict. The chin highlights the intricate connection between our physical form, social behaviors, and cognitive capabilities, showing how even the smallest anatomical feature can significantly impact our development.
+## Conclusion: The Chin as a Keystone of Human Development
+> ***coming soon!***
 
 
 
@@ -172,6 +162,7 @@ Thus, my exploration of the chin’s function reveals both surprising and antici
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2024-09-23**: Removed conclusion for time being as it needs additional information
 - **2024-09-22**: Added *Addressing Skepticism and Future Steps for Verification*, moved and enhanced part of preface into *Introduction: So What's a Chin For?*, and updated titles
 - **2024-09-21**: Added *Reflections on Losing the Chin Sensation in Childhood*, did some cleanup
 - **2024-09-18**: Added *Overview of Childhood Sensations and Experiences*, revised conclusion, and added *Closing Thoughts* section, including a poem
