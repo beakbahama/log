@@ -1,10 +1,11 @@
-# Time is Freedom: A Manifesto On Expanding Liberty For All
+# Project 2050: World Amazing or Bust
 
 or
 # A Proposal For a New Global Institution: A Framework For All To Live Extremely Comfortable, Safe, and Amazing
 
 or
-# Project 2050: World Amazing or Bust
+# Time is Freedom: A Manifesto On Expanding Liberty For All
+
 > At the heart of the foundational truths upon which democracy was built lies a promise: the promise of freedom.
 
 > Yet, in the modern world, this promise is often undermined by the very systems meant to uphold it. The relentless demands of the workweek, the stress of maintaining economic stability, and the shrinking space for personal growth are not merely challenges; they are barriers to the freedom we cherish.
