@@ -1,14 +1,13 @@
 > [!NOTE]
 > This document is a work in progress, but I’m sharing it now as it already contains useful information. Last major update: [2024-09-22](#updates)
 
-
-# The Human Chin: Unlocking its Role in Human Development, Emotional Regulation, and Cognitive Resilience
-
-or  
-# The Chin is the Only Unique Human Feature: Why?
+# On the Emergence and Purpose of the Human Chin: The Only Unique Human Feature
 
 or  
-# On the Origin and Purpose of the Human Chin
+# Why Did the Chin Stick Around?
+
+or  
+# The Human Chin: Its Role in Preventing Conflict by Promoting Problem Solving and Cooperation, Building Mental Fortitude, Devloping the Ability to Understand, and Fostering Creativity
 
 > Did you know that the chin is uniquely human? No other known species, past or present, shares this feature.
 
@@ -159,7 +158,7 @@ Thus, my exploration of the chin’s function reveals both surprising and antici
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2024-09-22**: Added "Addressing Skepticism and Future Steps for Verification" and moved and enhanced part of preface into "Introduction: So What's a Chin For?"
-- **2024-09-21**: Added "Reflections on Losing the Chin Sensation in Childhood", did some cleanup
-- **2024-09-18**: Added "Overview of Childhood Sensations and Experiences", revised conclusion, and added "Closing Thoughts" section, including a poem
+- **2024-09-22**: Added *Addressing Skepticism and Future Steps for Verification*, moved and enhanced part of preface into *Introduction: So What's a Chin For?*, and updated titles
+- **2024-09-21**: Added *Reflections on Losing the Chin Sensation in Childhood*, did some cleanup
+- **2024-09-18**: Added *Overview of Childhood Sensations and Experiences*, revised conclusion, and added *Closing Thoughts* section, including a poem
 - **2024-09-15**: Added preface, alternate titles, resources, planned additions, and a placeholder TOC for the planned sections
