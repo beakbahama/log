@@ -1,4 +1,4 @@
-# Project 2050: World Amazing or Bust
+# Project 2050: World Amazing or Bust!
 
 or
 # A Proposal For a New Global Institution: A Framework For All To Live Extremely Comfortable, Safe, and Amazing
@@ -285,6 +285,7 @@ Here's a suggested entry for the chin document that ties it to the themes discus
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2024-09-25**: Added one exclamation point
 - **2024-09-16**: Added section explaining use of the word 'manifesto', added section titled *Addressing the Elephant in the Room*, added section *On Those You May Currently Hate, Despise, Or Otherwise*, and added additonal resources
 - **2024-09-13**: Added *A Personal Note*, added alternate titles
 - **2024-08-30**: Combined sections, added a list of things covered by the GI
