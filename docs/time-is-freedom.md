@@ -63,28 +63,23 @@ The GI framework is designed to envelop the entire planet, serving as a universa
 
 ### All Batteries Included
 To ensure no one is left behind, the GI encompasses a broad spectrum of essential services provided at no additional cost to all humans once they join and become active working members of the GI:
+
 1. **Housing**: Including utilities (electricity, water, heating, cooling).
-2. **Healthcare**: Comprehensive medical, dental, mental health services, and wellness programs.
+2. **Healthcare**: Comprehensive medical, dental, wellness programs, and personal care (hygiene products).
 3. **Education**: All levels of education, from early childhood to higher education and lifelong learning.
 4. **Food**: Basic groceries and meals.
 5. **Transportation**: Public transportation and essential personal transportation services.
 6. **Clothing**: Basic clothing and footwear.
-7. **Childcare**: Daycare, after-school programs, and early childhood education.
-8. **Elderly Care**: Assisted living and senior care services.
-9. **Communication**: Internet, phone, and postal services.
-10. **Entertainment**: Access to cultural events, sports, and recreational activities.
-11. **Personal Care**: Basic hygiene products and services.
-12. **Community Services**: Libraries, parks, recreational facilities, and community centers.
-13. **Fitness**: Gym memberships, fitness classes, and wellness programs.
-14. **Technology**: Essential personal electronics and maintenance.
-15. **Home Maintenance**: Repairs and general upkeep.
-16. **Financial Services**: Basic banking services without fees.
-17. **Agriculture**: Community-supported agriculture programs and urban farming initiatives.
-18. **Pets**: Veterinary care and basic pet supplies.
-19. **Travel**: Basic travel expenses for personal and cultural exploration.
-20. **Cultural Activities**: Museum and gallery admissions, concerts, and theater.
-21. **Environmental Services**: Waste management, recycling, and sustainable practices.
-22. **Safety Services**: Emergency services, fire protection, and disaster response.
+7. **Care Services**: Childcare, after-school programs, early childhood education, elderly care, and senior care services.
+8. **Communication**: Internet, phone, and postal services.
+9. **Cultural and Community Services**: Access to cultural events, sports, recreational activities, libraries, parks, museums, and community centers.
+10. **Technology**: Essential personal electronics and maintenance.
+11. **Home and Environmental Services**: Repairs, general upkeep, waste management, recycling, and sustainable practices.
+12. **Financial Services**: Basic banking services without fees.
+13. **Agriculture**: Community-supported agriculture programs and urban farming initiatives.
+14. **Pets**: Veterinary care and basic pet supplies.
+15. **Travel**: Basic travel expenses for personal and cultural exploration.
+16. **Safety Services**: Emergency services, fire protection, and disaster response.
 
 To deeper explore these benefits and more, visit the [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md).
 
@@ -249,7 +244,7 @@ Here's a suggested entry for the chin document that ties it to the themes discus
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2024-09-25**: Added one exclamation point, updated introductory section, and removed sections to help streamline document
+- **2024-09-25**: Added one exclamation point, updated intro section, updated GI overview, and removed sections to help streamline document
 - **2024-09-16**: Added section explaining use of the word 'manifesto', added section titled *Addressing the Elephant in the Room*, added section *On Those You May Currently Hate, Despise, Or Otherwise*, and added additonal resources
 - **2024-09-13**: Added *A Personal Note*, added alternate titles
 - **2024-08-30**: Combined sections, added a list of things covered by the GI
