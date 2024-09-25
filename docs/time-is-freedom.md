@@ -13,19 +13,10 @@ or
 > So what does it mean to become truly free—a freedom where innovation, creation, and societal improvement reflect the highest aspirations of every global citizen? A society where liberty is not just a principle inscribed in documents but a reality lived daily by everyone.
 
 ## Table of Contents
-
-#### **The Basics**  
 1. [On the Path Forward](#on-the-path-forward)
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
-
-#### **Four Critical Steps**  
-3. [Step One: Global Discussion](#step-one-global-discussion)
-1. [Step Two: Funding the Core Fund and Beyond](#step-two-funding-the-core-fund-and-beyond)
-1. [Step Three: Implementation Phases](#step-three-implementation-phases)
-1. [Step Four: World Amazing](#step-four-world-amazing)
-
-#### **Reflections and Resources**  
-7. [Addressing the Elephant in the Room: Deception](#addressing-the-elephant-in-the-room-deception)
+1. [Four Steps to World Amazing](#four-steps-to-world-amazing)
+1. [Addressing the Elephant in the Room: Deception](#addressing-the-elephant-in-the-room-deception)
 1. [On Those You May Currently Hate, Despise, or View Negatively](#on-those-you-may-currently-hate-despise-or-view-negatively)
 1. [Closing Remarks](#closing-remarks)
 1. [Resources](#resources)
@@ -87,109 +78,40 @@ To explore all GI initiatives in depth, including the Global Eating Department (
 
 
 
-## Step One: Global Discussion
-The initial phase of establishing the GI involves initiating a global discussion that transcends geographical and cultural boundaries, inviting people from all walks of life to participate. This dialogue will not only focus on the core values and objectives of the GI but also serve as a platform for connection, idea exchange, and collective inspiration.
+## Four Steps to World Amazing
 
-### Platforms for Engagement
-To facilitate these discussions, the plan is to host a series of interactive events both online and in person. Utilizing digital media, online forums, public conferences, and webinars ensures that every individual, regardless of their location or economic status, can engage with and contribute to shaping the GI framework.
-
-### Dynamic and Inclusive Events
-Global discussions will be more than just meetings; they will be dynamic gatherings that offer a range of activities to ensure they are enjoyable and engaging for all participants. Each discussion will be designed to be a full-day event with activities before and after the core dialogues, including:
-- **Cultural Performances and Local Art Displays:** Each event will celebrate the local culture of the host city through music, dance, art, and food, enriching the experience and fostering a deeper connection among participants.
-- **Virtual Reality Participation:** For those who cannot attend in person, we will provide virtual reality experiences that replicate being at the event, complete with the ability to interact in real-time.
-- **Workshops and Collaborative Sessions:** Following the discussions, participants can join workshops that delve deeper into specific topics, allowing for small group interactions and the development of actionable ideas.
-- **Town Hall Meetings:** Integral to each event will be a town hall segment, where participants can voice their thoughts, ask questions, and directly engage with hosts and fellow attendees in an informal and open forum. This town hall approach ensures that everyone's voice can be heard and that community feedback directly influences the ongoing development of the GI framework.
-
-### Global Accessibility and Continuous Engagement
-- **Broadcast Live with Real-Time Translation:** Events will be simulcast globally with real-time translation into multiple languages, breaking down language barriers and allowing instant worldwide participation.
-- **Continuous Feedback Mechanisms:** A system for ongoing feedback will be implemented, enabling participants to submit ideas and comments before, during, and after the events through a dedicated digital platform.
-
-### Special Initiatives
-- **Youth Engagement:** Special sessions and partnerships with educational institutions worldwide will engage young people, encouraging them to bring fresh perspectives and innovative ideas to the table.
-- **Entertainment and Networking Opportunities:** Each event will feature entertainment segments and networking opportunities to keep the atmosphere vibrant and allow for informal interactions among participants.
-- **Documentary and Art Projects:** The series of discussions will be documented for a global audience and integrated into a documentary series. Additionally, a collaborative global art project will be initiated, inviting contributions from participants which will be displayed at events and potentially compiled into a traveling exhibition.
-- **Accessibility and Inclusion:** All physical and virtual venues will be fully accessible, with materials available in multiple formats and sign language interpreters present to ensure everyone can participate fully.
+### Step One: Global Discussion
+The first step in establishing the GI is to launch a worldwide discussion, inviting people from all walks of life to share ideas, connect, and collectively influence the development of the GI framework. This global dialogue will transcend borders, fostering collaboration and mutual understanding that shapes the core principles of the GI.
 
 
+### Step Two: Funding the Core Fund and Beyond
+The GI aims to raise $25 trillion by engaging one billion people, each contributing $25,000. From this, 4%—or $1 trillion—will be allocated annually to fund operations and projects from 2025 to 2050. These resources will be used to acquire land, build infrastructure, and create self-sufficient communities.
 
-## Step Two: Funding the Core Fund and Beyond
-The GI framework is designed to mobilize significant resources by engaging approximately 10% of the global population, targeting one billion people to contribute a base membership fee of $25,000 each. This strategy would create a fund totaling $25 trillion. Annually, the institution plans to use 4% of this total fund—amounting to $1 trillion—to finance its operations and initiatives from 2025 through at least 2050. This substantial budget will be primarily allocated to acquiring land and resources, essential for building a self-sufficient infrastructure and laying the groundwork for a globally integrated community.
+Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. The funds are used solely to acquire resources and support the community, with no portion going to personal salaries or enrichment.
 
-- **Member-Controlled Financial Contributions**: Upon joining, each member's contribution is deposited into a personal account, akin to a savings account, where control over these funds remains legally with the member. This ensures that all spending decisions require member approval, embodying a democratic and transparent process where your money is your vote, and each dollar remains under your legal control indefinitely.
-- **Ethical and Strategic Use of Funds**: No part of the membership fees will be used for salaries or personal enrichment. All collected funds are dedicated to acquiring land and resources necessary for providing goods and services to all members. This approach ensures that the GI core fund operates on a non-profit basis, focusing solely on enhancing the community's collective well-being.
-- **Inclusive and Equitable Participation**: The GI framework is inclusive, offering pathways to membership through meaningful work for those who cannot afford the $25,000 fee. This ensures that financial barriers do not exclude willing and valuable individuals from contributing to and benefiting from the GI's initiatives. It reinforces the institution’s commitment to inclusivity and equal opportunity for all, regardless of economic status.
-- **Democratic Decision-Making and Resource Allocation**: Every member is given the opportunity to influence how funds are allocated. This democratic approach ensures that everyone, regardless of their financial contribution, has a seat at the decision-making table. Members can persuade others on the best uses of the core fund, promoting a culture of active participation and shared governance.
-- **Option for Personal Salary Fund**: Members have the opportunity to grow their personal funds by engaging in or starting projects within the institution. While no member will require a salary to cover essential living costs—since these are provided by the institution—the ability to earn through contributions to institution projects ensures that members can achieve financial growth and personal development within the GI framework.
+For those unable to pay upfront, membership can be earned through meaningful work, ensuring that financial barriers do not limit participation. This guarantees inclusivity and equal opportunity for all. All members, regardless of financial contribution, have a voice in how funds are allocated, fostering shared governance.
 
-### Membership Levels Beyond the Core
-The GI framework introduces a tiered membership system designed to recognize various forms of member contributions. Members can ascend to higher levels through one of three ways: direct financial contributions, revenue from successful GI projects, or recognition for exceptional non-financial contributions. Each level signifies a deeper engagement with and contribution to the GI, carrying perks and increased financial influence within the community. The specifics of the benefits associated with each tier will be developed collaboratively within the GI community, ensuring they reflect the collective values and goals of all members.
+Members can also grow their personal funds by participating in or initiating GI projects. Those who contribute to projects that generate revenue retain full control over the profits, which are split 50/50. Half of the earnings are directed to funding additional GI initiatives, while the other half goes into the personal funds of those involved. This structure allows members to use their earnings for non-essential purchases not covered by the GI core fund.
 
-#### Membership Tiers
-The proposed levels include:
-
-- **$100,000**
-- **$1 million**
-- **$10 million**
-- **$100 million**
-- **$1 billion**
-- **$10 billion**
-- **$100 billion**
-- **Beyond $100 billion**
+Higher membership levels beyond the core GI membership will be available to reflect deeper engagement. These levels can be achieved through direct contributions, project revenues, or exceptional service. This tiered membership system incentivizes active participation and ensures that project success directly benefits both individual members and the broader GI community, expanding the GI’s global impact.
 
 
-### Pathways to Higher Membership Levels
-Members can achieve higher tiers through one of three primary pathways:
+### Step Three: Implementation Phases
+The implementation of the Global Institution will be carried out in distinct phases to ensure efficiency, adaptability, and sustainability. Early members will play a crucial role in setting up and maintaining the infrastructure required for self-sustaining communities.
 
-1. **Direct Financial Contributions:** Members can achieve higher membership levels by directly investing amounts that correspond to specific tiers. For example, by investing $100,000, a member qualifies for the corresponding membership level. This investment grants them the ability to personally spend an equivalent amount—$100,000—in the GI marketplace. Due to the GI's operational efficiencies and the unique economic model, spending within the GI marketplace will offer a higher value compared to traditional markets. This means that the $100,000 spent in the GI marketplace could have the purchasing power equivalent to a significantly higher amount in a conventional market, effectively doubling or even tripling the value of their spending. Thus, their initial financial contribution not only supports the GI’s projects and initiatives but also retains substantial value for personal use within the ecosystem, preserving and likely enhancing their purchasing power.
+In the initial phase, the GI will focus on acquiring buildings and developing new properties to provide housing for its members. These living spaces will also serve as operational hubs where members contribute to essential activities, such as food production, healthcare services, education, and community management. Early members will be integral to these day-to-day operations, ensuring the smooth functioning of the community and helping achieve the GI's short- and long-term goals.
 
-2. **Revenue from GI Projects:** Members can achieve higher membership levels by leading or significantly contributing to projects that generate revenue within the GI. For instance, to reach the $100,000 tier, a member would need their project to generate a net profit of $200,000. This profit is then divided equally, with $100,000 going into the member's GI project fund, which they directly control and can use to fund future projects or initiatives. The other $100,000 is credited to their personal salary fund, available for use within the GI marketplace or for personal saving. This structure rewards members for successful project outcomes and enhances their financial influence within the GI.
+As the community stabilizes and expands, the GI will acquire additional land and resources to support growth. This expansion will include the construction of new facilities, such as advanced manufacturing centers, agricultural sites, and other essential infrastructure. Members will also be engaged in the development of innovative technologies, particularly those that enhance sustainability, energy efficiency, and productivity.
 
-3. **Recognition for Outstanding Contributions:** Members who make significant non-financial contributions—such as exceptional community service, innovation, or leadership—can be elevated to higher membership levels in recognition of their efforts. For instance, if a member's contributions are deemed extraordinary enough to warrant elevation to the $100,000 level, they will be awarded $100,000 for their personal project fund and an additional $100,000 in their salary fund. This acknowledgment ensures that invaluable contributions of skills, expertise, and leadership are rewarded equivalently to financial investments or project revenue, empowering these members to have a greater impact within the GI while enjoying enhanced benefits in the GI marketplace.
+Member feedback will play a key role in driving continuous improvements. As challenges and opportunities arise, the GI will rely on insights and experiences from its members to adjust and refine its approach, fostering a culture of active participation and shared responsibility.
 
-### Benefits of Higher Levels
-- **Enhanced Economic Impact**: The influx of funds from these higher tiers significantly expands the GI's financial capabilities, enabling a broader range of ambitious projects and infrastructure developments. This additional capital ensures that the GI can pursue large-scale endeavors that might be beyond the scope of the initial core fund, from advanced technological research to expansive ecological restoration projects.
-- **Strategic Goal: Transition to GI Economy**: The ultimate objective of introducing these tiers is to encourage the transition of personal, corporate, and institutional funds from traditional economies into the GI economy. By offering superior value and impact per dollar spent within the GI marketplace, the framework aims to render traditional economic systems obsolete. This shift not only consolidates the GI's economic base but also aligns global financial resources with sustainable and equitable growth, making the GI a central hub for future economic activity worldwide.
-- **Broadening the GI's Impact**: With these additional resources, the GI can extend its influence and capabilities, funding a wide array of projects that can have transformative effects on both local and global scales. This not only furthers the GI's mission but also attracts further investments and projects, creating a virtuous cycle of growth and innovation.
-
-### Empowering Economic Engagement: Removing Barriers to Wealth
-In the Global Institution, the concept of wealth is reimagined to remove barriers traditionally associated with financial success. Members are encouraged to use their additional free time—afforded by the GI’s two-day workweek—to engage in or initiate projects within the institution. This flexibility allows members to contribute to existing projects or start new ones that align with the GI’s principles and their personal interests. While these endeavors are not primarily driven by profit motives, they could potentially generate revenue. This not only supports the institution's initiatives but also enhances the economic well-being of its members, fostering a dynamic environment where creativity and enterprise thrive.
-
-The GI framework envisions a community where having substantial financial resources is not seen as a problem but as an opportunity to drive communal and global improvement. By encouraging all members to potentially accumulate significant financial resources, the GI aims to dismantle the old paradigms of economic exclusivity. This strategy ensures that every member has the chance to achieve financial success without the traditional barriers, contributing both to personal prosperity and the collective good. The institution's framework is designed to ensure that profits are used ethically, supporting sustainable projects that align with the GI’s core values of inclusivity, sustainability, and community development.
-
-Every contribution within the GI, whether through direct financial investments, project-based earnings, or recognized non-financial efforts, serves a dual purpose. Not only does it enhance the member's position and experience within our community, but it also directly contributes to the broader vision of eradicating economic barriers and fostering a sustainable and equitable world. As members invest in the GI, they're investing in a future where economic systems are not just fairer but also purposefully aligned with global well-being. This ensures that their actions, both large and small, are integral to the collective journey towards a world where freedom and prosperity are accessible to all, demonstrating the power of a united effort in making substantial, lasting changes.
+These first communities will not only meet the immediate needs of their members but will also serve as blueprints for the future. As these initial models prove successful, the GI’s principles and infrastructure will be scaled globally, establishing a network of thriving, self-sustaining communities committed to collaboration, innovation, and human well-being.
 
 
+### Step Four: World Amazing
+As the GI framework takes root and expands, the vision is to transform not just individual communities but the entire world. The ultimate goal is to replicate the success of the initial community globally, creating a network of interconnected communities that embody the principles of the Global Institution. This global network will promote a shared culture of peace, innovation, and prosperity, making the world not just livable, but truly amazing for all.
 
-## Step Three: Implementation Phases
-The implementation of the Global Institution will be carried out in distinct phases to ensure efficiency and adaptability. The initial phase focuses on establishing a solid foundation by acquiring properties to house members. These early members will play a crucial role in setting up and maintaining the infrastructure necessary for a self-sustaining community.
-
-### Initial Infrastructure and Member Housing
-In the initial phase, the GI will prioritize acquiring buildings and developing properties to provide housing for its members. These accommodations will not only serve as living spaces but also as operational hubs where members can engage in various productive activities. The housed members will be integral to the institution's operations, contributing to food production, healthcare provision, and the overall maintenance of GI properties.
-
-### Development of Community Services
-Members will be involved in establishing essential community services, including but not limited to:
-- **Food Production:** Implementing sustainable agricultural practices to ensure a steady supply of food for all members.
-- **Healthcare Services:** Setting up comprehensive healthcare facilities staffed by GI members trained in various medical disciplines to provide free healthcare services to all members.
-- **Educational Programs:** Developing educational programs and facilities to cater to the learning needs of all age groups within the community, emphasizing the GI’s commitment to lifelong learning and personal development.
-
-### Sustainable Expansion
-As the community stabilizes and grows, the GI will expand its reach by acquiring more land and resources to accommodate an increasing number of members. This expansion will be guided by the principles of sustainability and minimal environmental impact, ensuring that growth does not compromise the ecological balance.
-
-### Integration of Advanced Technologies
-To enhance efficiency and productivity within the community, the GI will integrate advanced technologies in various sectors:
-- **Automated Systems** for food production and distribution to reduce labor needs and increase efficiency.
-- **Health Technology Innovations**, such as telemedicine and AI diagnostics, to enhance healthcare delivery.
-- **Educational Technologies**, including virtual reality and AI tutors, to provide immersive and personalized learning experiences.
-
-### Continuous Improvement and Adaptation
-The implementation phases will be subject to ongoing evaluation and adaptation to respond effectively to new challenges and opportunities. Feedback from members will be crucial in refining operational strategies and making necessary adjustments to the GI’s approach.
-
-By strategically implementing these phases, the GI aims to create a model community that exemplifies efficiency, sustainability, and inclusivity. This community will not only serve the needs of its members but also act as a blueprint for expanding the GI's principles globally.
-
-
-
-## Step Four: World Amazing
-As the GI framework takes root and expands, the vision is to transform not just individual communities but the entire world. The ultimate goal is to replicate the success of the initial community globally, creating a network of interconnected communities that embody the principles of the Global Institution. This global network will promote a shared culture of peace, innovation, and prosperity, making the world a truly amazing place for all.
+For more details on these steps, visit the [GI Steps](https://github.com/whomanatee/plan/blob/main/docs/steps.md).
 
 
 
@@ -244,7 +166,7 @@ Here's a suggested entry for the chin document that ties it to the themes discus
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2024-09-25**: Added one exclamation point, updated intro section, updated GI overview, and removed sections to help streamline document
+- **2024-09-25**: Added one exclamation point, updated intro section, updated GI overview, and shortened the steps
 - **2024-09-16**: Added section explaining use of the word 'manifesto', added section titled *Addressing the Elephant in the Room*, added section *On Those You May Currently Hate, Despise, Or Otherwise*, and added additonal resources
 - **2024-09-13**: Added *A Personal Note*, added alternate titles
 - **2024-08-30**: Combined sections, added a list of things covered by the GI
