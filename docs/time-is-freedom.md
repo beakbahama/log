@@ -159,8 +159,6 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 ## Resources
 - [**Global Institution**](https://github.com/whomanatee/plan): For a deeper dive into the GI plan and its comprehensive approach to redefining global living standards, visit this page. You’ll find key documents, aspirational objectives, hypothetical case studies, and extensive resources.
 - [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: This essay makes a compelling case for giving serious consideration to ideas that might initially appear radical. It advocates for a thoughtful evaluation of concepts that seem implausible, resonating especially with proposals like retiring by age 50 and transitioning to a two-day workweek. These ideas, while seemingly radical, are increasingly feasible given today's technological and social advances. This essay encourages us to ponder whether the truly 'crazy' notion is continuing to accept less efficient, traditional work structures when a brighter, more equitable world is within our grasp.
-Here's a suggested entry for the chin document that ties it to the themes discussed in the manifesto:
-
 
 
 
