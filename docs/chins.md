@@ -1,17 +1,19 @@
 > [!NOTE]
-> This document is a work in progress, but I’m sharing it early as it already contains important information. Last major update: [2024-09-23](#updates)
+> - This document is a work in progress, but I’m sharing it early as it already contains important information and to motivate myself to keep working on it, which has proven more tedious than I anticipated.  
+> - If anything here sparks memories, I’d bigly appreciate it if you shared your experiences at m@whomanatee.org 🙏 Anything you share will remain private, and I will ask for your permission before sharing any details.
+> - *Last major update:* [2024-09-23](#updates)
 
-# On the Emergence and Purpose of the Human Chin: The Only Unique Human Feature
+# When was the last time you felt your chin tingle? I noticed in my early years that it helped me think and become a cooperative group member. Did you notice it too in childhood? Do you feel it today? These days, I feel mine tingle most every day, and in this document, I'll show you how to feel your chin again—or maybe for the first time
+
+or
+# On the emergence and purpose of the human chin: The only unique human feature
 
 or  
-# Why Did the Chin Stick Around?
-
-or  
-# The Human Chin: Its Role in Preventing Conflict by Promoting Problem Solving and Cooperation, Building Mental Fortitude, Developing Understanding, and Fostering Creativity
+# The human chin: Its role in preventing conflict, promoting problem-solving and cooperation, building mental resilience, fostering deep thought, and sparking creative ideas
 
 > Did you know that the chin is uniquely human? No other known species, past or present, shares this feature.
 
-> Have you ever wondered why humans have chins or what purpose they serve? This question has long puzzled humans.
+> Have you ever wondered why humans have chins or what purpose they serve? This question has puzzled humans since the 1800s.
 
 > Unlike other features we share or have shared with other species—like large brains, similar to those of Neanderthals, or feet like those of the earliest upright walkers who roamed this planet over 6 million years ago—the chin stands alone as a distinctive feature of human anatomy. 
 
