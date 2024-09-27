@@ -1,6 +1,6 @@
 > [!NOTE]
 > This document is a living resource and is continually being expanded and refined.  
-> *Last major update:* [2024-09-26](#updates)
+> *Last major update:* [2024-09-27](#updates)
 
 # Project 2050: World Amazing or Bust!
 
@@ -10,11 +10,15 @@ or
 or
 # Time is Freedom: A Manifesto On Expanding Liberty For All
 
-> At the heart of the foundational truths upon which democracy was built lies a promise: the promise of freedom.
+> At the heart of the foundational truths upon which democracy was built lies a promise: the protection of freedom.
 
-> Yet, in the modern world, this promise is often undermined by the very systems meant to uphold it. The relentless demands of the workweek, the stress of maintaining economic stability, and the shrinking space for personal growth are not merely challenges; they are barriers to the freedom we cherish.
+> Yet, in today’s world, this promise is often undermined by systems that demand too much while delivering too little. The grind of the 40+ hour workweek, the perpetual stress of maintaining economic stability, and the shrinking time for personal growth are not just modern inconveniences, they are barriers to the freedom we all deserve.
 
-> So what does it mean to become truly free—a freedom where innovation, creation, and societal improvement reflect the highest aspirations of every global citizen? A society where liberty is not just a principle inscribed in documents but a reality lived daily by everyone.
+> Imagine a world where freedom is not confined to words, but lived daily by everyone. A world where a two-day workweek is the norm, where retirement by age 50 frees individuals to mentor and pursue passions. A world free from war and conflict, where every person enjoys the best of life—stable housing, healthcare, and the ability to thrive without the fear of ever having to pay for another bill. This is the kind of freedom that awaits when we align our systems with the promise of human potential.
+
+> Imagine a world where every human has the opportunity to unlock their full potential across all dimensions of human ability—intellectual, emotional, creative, and physical. A world where barriers to personal growth no longer exist, and where every individual can excel in areas ranging from critical thinking and problem-solving to artistic expression, empathy, and leadership. In this society, no one is held back by circumstances, and each person is empowered to contribute their best self to the collective progress of humanity. This future is not a distant utopia, but a realistic pathway grounded in the resources and capabilities we already possess.
+
+> True freedom means the ability to create, innovate, and improve society for all. It is a liberty not just written in constitutions, but embodied in every action, every choice, and every opportunity shared equally by every global citizen.
 
 
 ## Table of Contents
@@ -24,6 +28,7 @@ or
 1. [Addressing the Elephant in the Room: Deception](#addressing-the-elephant-in-the-room-deception)
 1. [On Those You May Currently Hate, Despise, or View Negatively](#on-those-you-may-currently-hate-despise-or-view-negatively)
 1. [Closing Remarks](#closing-remarks)
+1. Questions and Answers - ***coming soon!***
 1. [Resources](#resources)
 1. [Updates](#updates)
 
@@ -31,7 +36,7 @@ or
 ## On the Path Forward
 Over the past several years, I've embarked on an unexpected and profound period of introspection and exploration, initially driven by a personal need for solitude. This reflection was not intended to produce a plan to solve humanity's problems, but rather to understand myself in deeper, clearer ways. However, as I delved further into the complexities of my experiences and thoughts, it became evident that the challenges we face collectively are intricately tied to the individual struggles we all endure.
 
-The understanding I’ve gained about humanity’s struggles—particularly the failure to create environments where humans can thrive from birth in supportive conditions—has not only been enlightening, but it has also revealed a tangible pathway toward an incredible future for all. A future where everyone prospers, free from conflict and harm, and where each individual enjoys extreme comfort and safety.
+The understanding I’ve gained about humanity’s struggles—particularly the consistent failure to create environments where humans can thrive from birth in supportive conditions—has illuminated a clear and tangible pathway toward an incredible future. A future where each person is given the foundation to prosper from the very start, without the burden of unnecessary conflict or harm. It’s a future in which human potential is no longer stifled by outdated systems, and where personal safety, comfort, and fulfillment are not luxuries, but guarantees. This understanding redefines what it means to thrive, reshaping how we build society from the ground up, ensuring every individual has the opportunity to flourish.
 
 In this future, every hand is held through genuine and robust support systems integrated into the fabric of daily life. Every heart loved through community structures that ensure no one is isolated or overlooked. Every thought nurtured with educational systems designed to foster critical thinking and creativity from the earliest ages. And every word spoken is heard, valued, and integrated, creating a society where communication and deep understanding form the backbone of our collective decision-making, reflecting our new, incredible, interconnected, community based, and family-strong global civilization.
 
@@ -39,7 +44,9 @@ The concept of luxury will become outdated because the basics of everyday human 
 
 Housing will not merely be about providing shelter but about crafting spaces where individuals and families can thrive. Homes where even the smallest apartment is a haven of comfort and functionality, equipped with amenities that enrich daily living. In this society, the outdated notion of a middle class dissolves as everyone accesses a quality of life that includes the best of what we can achieve.
 
-The idea of labor itself needs a complete reevaluation. Do most people really need to work 40+ hours a week? The pandemic revealed just how much of the working world is redundant and unnecessary. With current capabilities, we can recalibrate the global workweek to prioritize personal growth and community involvement over exhaustive labor. We have the resources to create an incredible society while limiting intensive work to an average of just two days a week. Further, by fostering early retirement into mentorship roles by age 50, individuals will have the freedom to invest their time in passions, relationships, and civic duties. These fundamental shifts will enhance both the quality of life and societal health for everyone.
+The idea of labor itself needs a complete reevaluation. Do most people really need to work 40+ hours a week? The pandemic revealed just how much of the working world is redundant or unnecessary. By eliminating inefficiencies, removing unnecessary work, and creating a society where everyone contributes meaningfully to the essential tasks required to run a global civilization, we can recalibrate the workweek to an average of just two days. This shift ensures that the necessary work is shared, while freeing people to focus on personal growth, relationships, and community involvement.
+
+With the removal of unnecessary work and a focus on essential tasks, we can create a world where people transition from the intensive physical and mental labor required to run civilization into roles of mentorship by age 50. This shift ensures that the next generation can continue and expand our collective wealth of knowledge, while those who retire from traditional work can invest their time in passions, relationships, and civic duties. This reimagined approach to retirement enhances both individual fulfillment and societal growth, creating a more engaged, enriched, and healthier world.
 
 And so, as my solitude turned into a broader social awareness, it became clear that the path to an improved future was not just a series of steps to be taken but a shift in understanding what is fundamentally possible. We have never been closer to achieving a society where suffering is not an inevitable part of the human condition but a relic of past systems and attitudes.
 
@@ -81,7 +88,7 @@ In addition to these comprehensive benefits, the GI will also:
 - **Resolve Societal Issues at Their Root**: By providing equitable access to resources and fostering a society built on well-being, the GI tackles systemic issues like economic inequality, environmental degradation, and public health challenges, creating a more just and sustainable world.
 - **Eliminate Crime by Addressing Root Causes**: Through universal access to essential resources, education, and opportunities, the GI eliminates the conditions that lead to crime, fostering safer and more harmonious communities without reliance on punitive systems.
 
-For a deeper dive into these transformations, check out the full [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md) document.
+For a deeper dive into these benefits, visit the [GI Benefits](https://github.com/whomanatee/plan/blob/main/docs/benefits.md) document.
 
 
 
@@ -104,7 +111,7 @@ At the heart of the GI lies a series of transformative initiatives designed to e
 1. **The Department of Fun (DoF)**: Ensuring joy is a central part of life, with interactive experiences, festivals, and playful initiatives that integrate creativity, well-being, and global community bonding.
 1. **Additional Inititiaves**: A yearly world pizza party, adventure vehicles for personal use, urban wildlife tracking, setting global cultural norms, reducing redundant work through automation, and much more.
 
-For a deeper exploration of each initiative and its role in shaping our shared future, visit the [GI Initiatives](https://github.com/whomanatee/plan/blob/main/docs/initiatives.md) document.
+For a deeper dive into these initiatives, visit the [GI Initiatives](https://github.com/whomanatee/plan/blob/main/docs/initiatives.md) document.
 
 
 ## Four Critical Steps to World Amazing
@@ -119,6 +126,8 @@ The first step in establishing the GI is to launch a worldwide discussion, invit
 - **Feedback Loops**: As discussions evolve, participants will have the opportunity to provide feedback on key proposals. These feedback loops will be transparent, ensuring that all contributions are considered in the development of the GI framework. Regular updates will be provided to keep the global community informed and engaged.
 - **Long-Term Vision**: This global dialogue will not be a one-time event but an ongoing process. As the GI framework evolves, the dialogue will continue, fostering constant adaptation, innovation, and refinement of the institution based on the needs and desires of the global population.
 
+For a deeper dive into discussions, visit the [GI Discussion](https://github.com/whomanatee/plan/blob/main/docs/discussions.md) document.
+
 
 ### Step Two: Funding the Core Fund and Beyond
 The GI aims to raise $25 trillion by engaging one billion people, each contributing $25,000. From this, 4%—or $1 trillion—will be allocated annually to fund operations and projects from 2025 to 2050. These resources will be used to acquire land, build infrastructure, and create self-sufficient communities.
@@ -130,6 +139,8 @@ For those unable to pay upfront, membership can be earned through meaningful wor
 Members can also grow their personal funds by participating in or initiating GI projects. Those who contribute to projects that generate revenue retain full control over the profits, which are split 50/50. Half of the earnings are directed to funding additional GI initiatives, while the other half goes into the personal funds of those involved. This structure allows members to use their earnings for non-essential purchases not covered by the GI core fund.
 
 Higher membership levels beyond the core GI membership will be available to reflect deeper engagement. These levels can be achieved through direct contributions, project revenues, or exceptional service. This tiered membership system incentivizes active participation and ensures that project success directly benefits both individual members and the broader GI community, expanding the GI’s global impact.
+
+For a deeper dive into funding, visit the [GI Funding](https://github.com/whomanatee/plan/blob/main/docs/funding.md) document.
 
 
 ### Step Three: Implementation Phases
@@ -143,11 +154,22 @@ Member feedback will play a key role in driving continuous improvements. As chal
 
 These first communities will not only meet the immediate needs of their members but will also serve as blueprints for the future. As these initial models prove successful, the GI’s principles and infrastructure will be scaled globally, establishing a network of thriving, self-sustaining communities committed to collaboration, innovation, and human well-being.
 
+For a deeper dive into implementation, visit the [GI Implementation](https://github.com/whomanatee/plan/blob/main/docs/implementation.md) document.
+
 
 ### Step Four: World Amazing
-As the GI framework takes root and expands, the vision is to transform not just individual communities but the entire world. The ultimate goal is to replicate the success of the initial community globally, creating a network of interconnected communities that embody the principles of the Global Institution. This global network will promote a shared culture of peace, innovation, and prosperity, making the world not just livable, but truly amazing for all.
+Imagine a world where every person wakes up with purpose, knowing that they live in a society built to nurture their potential. In this world, stress, scarcity, and conflict are no longer defining features of life. Instead, collaboration, fulfillment, and joy guide every action.
 
-For more details on these steps, visit the [GI Steps](https://github.com/whomanatee/plan/blob/main/docs/steps.md) document.
+In this future:
+- **People live with time**—time to explore their personal ambitions, build relationships, and simply enjoy life. No longer tied to grueling work schedules, individuals can dedicate themselves to their passions, learning, and loved ones.
+  
+- **Meaningful work** becomes the standard. Every person is empowered to contribute in ways that align with their talents and interests, knowing that their efforts directly enhance the well-being of others and the world at large.
+
+- **Endless opportunities** are available to everyone. Whether it's mastering new skills, switching careers, or pursuing lifelong dreams, the barriers of cost, time, and access are gone. All fields of learning, from the technical to the artistic, to medicine and beyond, are open to everyone, enabling people to explore, create, and innovate freely.
+
+- **True human connection** defines the global community. Cultures and communities are celebrated, not divided, and cooperation becomes the driving force behind societal progress. The bonds we share grow stronger as we lift each other up.
+
+- **A new humanity emerges**—a humanity that has transcended the limitations of the past. Crime, hatred, and division give way to understanding, peace, and shared prosperity. We become the best versions of ourselves, individually and collectively.
 
 
 
@@ -190,6 +212,11 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 
 
 
+## Questions and Answers
+> ***coming soon!***
+
+
+
 ## Resources
 - [**Global Institution**](https://github.com/whomanatee/plan): For a deeper dive into the GI plan and its comprehensive approach to redefining global living standards, visit this page. You’ll find key documents, aspirational objectives, hypothetical case studies, and extensive resources.
 - [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: This essay makes a case for giving serious consideration to ideas that might initially appear radical. It advocates for a thoughtful evaluation of concepts that seem implausible, like retiring by age 50 and transitioning to a two-day workweek. These ideas, while seemingly radical, are increasingly feasible given today's technological and social advances. This essay encourages us to ponder whether the truly 'crazy' notion is continuing to accept less efficient, traditional work structures when a brighter, more equitable world is within our grasp.
@@ -198,9 +225,10 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
+- **2024-09-27**: Expanded step four, expanded *On the Path Forward*, and expanded preface
 - **2024-09-26**: Expanded initiatives, benefits, and step one
 - **2024-09-25**: Added one exclamation point, updated intro section, updated GI overview, and shortened the steps
-- **2024-09-16**: Added section explaining use of the word 'manifesto', added section titled *Addressing the Elephant in the Room*, added section *On Those You May Currently Hate, Despise, Or Otherwise*, and added additonal resources
+- **2024-09-16**: Added section explaining use of the word 'manifesto' (note: this has been removed recently), added section titled *Addressing the Elephant in the Room*, added section *On Those You May Currently Hate, Despise, Or Otherwise*, and added additonal resources
 - **2024-09-13**: Added *A Personal Note*, added alternate titles
 - **2024-08-30**: Combined sections, added a list of things covered by the GI
 - **2024-08-29**: Significantly updated and expanded *Step Two: Funding the GI Core Fund and Beyond*, enhanced *Key Features: Two-Day Workweek and Early Retirement*
