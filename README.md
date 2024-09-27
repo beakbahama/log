@@ -1,7 +1,7 @@
 # 💩 MY PERSONAL PUBLIC LOG
 
 ## Thoughts and Ideas
-- [**Project 2050: World Amazing or Bust!**](docs/time-is-freedom.md): We have the resources and knowledge to ensure that everyone can live an amazing life including working just two days a week, retiring from intensive labor by 50, and never worrying about paying for another bill including healthcare, education, housing, groceries, and even vacations. This document presents a framework for everyone worldwide to thrive and experience the most comfortable, safe, and fulfilling life. Proceed with caution and an open mind.
+- [**Project 2050: World Amazing or Bust!**](docs/world-amazing.md): We have the resources and knowledge to ensure that everyone can live an amazing life including working just two days a week, retiring from intensive labor by 50, and never worrying about paying for another bill including healthcare, education, housing, groceries, and even vacations. This document presents a framework for everyone worldwide to thrive and experience the most comfortable, safe, and fulfilling life. Proceed with caution and an open mind.
 
 - [**On the Emergence and Purpose of the Human Chin: The Only Unique Human Feature**](docs/chins.md): Nothing else is unique to us. Not our big brains, feet, ability to walk, hearts, or anything else. And the purpose of the chin? To help us think and avoid conflict. In this document, I explore the chin and my relatively recent rediscovery of its purpose. Adult me didn't figure it out—kid me did.
 
