@@ -213,7 +213,7 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 
 
 ## Questions and Answers
-> Don't see your question? Send an email to human@whomanatee.org, and a human (me) will read your question and send you a response if it has been added to this page. Thanks in advance for all questions. You can also send comments if you don't have a specific question.
+> Don't see your question? Send an email to m@whomanatee.org and I will read your question and send you a response if it has been added to this page. Thanks in advance for all questions. You can also send comments if you don't have a specific question.
 
 
 1. [How will the GI achieve a 2-day workweek?](#q-how-will-the-gi-achieve-a-2-day-workweek)
