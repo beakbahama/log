@@ -1,5 +1,5 @@
 > [!WARNING]
-> This document is an unpublished draft and may change significantly.
+> This document is an unpublished draft and still needs to be expanded significantly
 
 # Anti and Anger: The 'AA' Undermining Humanity
 
@@ -20,7 +20,9 @@ By the end of this exploration, the goal is to foster a deeper understanding of 
 ### Overview of Tools
 In every interaction, whether personal or professional, subtle tools of influence shape the dynamics of communication and behavior. These tools, while often not overtly aggressive or hostile, can nonetheless significantly undermine trust and cooperation. This section serves as both an introduction and a reference to a spectrum of behaviors and strategies commonly utilized in daily life.
 
-Although these tools can sometimes serve benign purposes, their frequent employment in ways that perpetuate hidden anger and the "anti" attitude—stances that subtly but effectively oppose openness, honesty, and collaboration—demonstrates the need for a fundamental reevaluation. To truly transform our social interactions and eradicate the negative contexts in which these tools are used, we must cease to employ them even in seemingly harmless situations. Only by completely rethinking our methods of influence and interaction can we foster an environment where collaboration and honesty are not just idealized but practiced universally.
+Although these tools can sometimes serve benign purposes, their frequent employment in ways that perpetuate hidden anger and the "anti" attitude—stances that subtly but effectively oppose openness, honesty, and collaboration—demonstrates the need for a fundamental reevaluation.
+
+To truly transform our social interactions and eradicate the negative contexts in which these tools are used, we must cease to employ them even in seemingly harmless situations. Only by completely rethinking our methods of influence and interaction can we foster an environment where collaboration and honesty are not just idealized but practiced universally.
 
 ### Glossary of Tools
 1. **Deception**
@@ -78,7 +80,7 @@ Although these tools can sometimes serve benign purposes, their frequent employm
     - Failure to provide support or assistance when able
 
 
-## Managing Emotional Responses to AA Tools
+### Managing Emotional Responses to AA Tools
 Encountering the use of Anti and Anger tools can provoke a wide range of emotions, from dismay and frustration to anger and outrage. Recognizing these tools in action can be unsettling, and it's natural to experience strong emotional reactions.
 
 This document emphasizes the importance of acknowledging and accepting your emotional responses. Feeling upset, shocked, or enraged upon recognizing manipulative behaviors is a valid reaction. It’s crucial to sit with these feelings and not dismiss or suppress them, as they are legitimate indicators of the negative impact these behaviors have on interpersonal dynamics.
