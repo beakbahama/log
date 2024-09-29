@@ -206,14 +206,14 @@ By understanding that our shared humanity is far more powerful than the artifici
 ## Closing Remarks
 This plan transcends the arbitrary borders that have long divided humanity, embracing the common values that unite us on this singular, shared planet, dispensing national boundaries to envelop every corner of the globe, championing a world that regards each individual equally, without preference or prejudice. This land, which birthed us all, knows no borders in its care and does not favor one child over another. Together, we can craft a world where all individuals can roam every inch of this planet and look up to see not a foreign sky, but a familiar home.
 
-This document is more than just a proposal—it is an urgent call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
+This document is more than just a proposal—it is a call to embrace our shared humanity, to build bridges across continents and cultures, and to establish a global network of cooperation and understanding. The Global Institution framework represents an opportunity for all of humanity to unite in crafting a durable, peaceful world that cherishes every individual equally.
 
 Together, we can seize this opportunity to ensure that our collective efforts today lay the foundation for a harmonious humanity, for us and for future generations, forever and beyond.
 
 
 
 ## Questions and Answers
-> Don't see your question? Send an email to m@whomanatee.org and I will read your question and send you a response if it has been added to this page. Thanks in advance for all questions. You can also send comments if you don't have a specific question.
+> Don't see your question? Send an email to m@whomanatee.org and I will let you know if it has been added to this page. You can also send comments if you don't have a specific question.
 
 
 1. [How will the GI achieve a 2-day workweek?](#q-how-will-the-gi-achieve-a-2-day-workweek)
