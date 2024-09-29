@@ -16,9 +16,9 @@ or
 
 > Imagine a world where freedom is not confined to words, but lived daily by everyone. A world where a two-day workweek is the norm, where retirement by age 50 frees individuals to mentor and pursue passions. A world free from war and conflict, where every person enjoys the best of life—stable housing, healthcare, and the ability to thrive without the fear of ever having to pay for another bill. This is the kind of freedom that awaits when we align our systems with the promise of human potential.
 
-> Imagine a world where every human has the opportunity to unlock their full potential across all dimensions of human ability—intellectual, emotional, creative, and physical. A world where barriers to personal growth no longer exist, and where every individual can excel in areas ranging from critical thinking and problem-solving to artistic expression, empathy, and leadership. In this society, no one is held back by circumstances, and each person is empowered to contribute their best self to the collective progress of humanity. This future is not a distant utopia, but a realistic pathway grounded in the resources and capabilities we already possess.
+> A world where every human has the opportunity to unlock their full potential across all dimensions of human ability—intellectual, emotional, creative, and physical. A world where barriers to personal growth no longer exist, and where every individual can excel in areas ranging from critical thinking and problem-solving to artistic expression, empathy, and leadership. In this society, no one is held back by circumstances, and each person is empowered to contribute their best self to the collective progress of humanity. This future is not a distant utopia, but a realistic pathway grounded in the resources and capabilities we already possess.
 
-> True freedom means the ability to create, innovate, and improve society for all. It is a liberty not just written in constitutions, but embodied in every action, every choice, and every opportunity shared equally by every global citizen.
+> True freedom means the ability to create, innovate, and improve society for all. It is a liberty not just written in documents, but embodied in every action, every choice, and every opportunity shared equally by every global citizen.
 
 
 ## Table of Contents
@@ -34,7 +34,7 @@ or
 
 
 ## On the Path Forward
-Over the past several years, I've embarked on an unexpected and profound period of introspection and exploration, initially driven by a personal need for solitude. This reflection was not intended to produce a plan to solve humanity's problems, but rather to understand myself in deeper, clearer ways. However, as I delved further into the complexities of my experiences and thoughts, it became evident that the challenges we face collectively are intricately tied to the individual struggles we all endure.
+Over the past several years, I've embarked on an unexpected and profound period of introspection and exploration, initially driven by a personal need for solitude. This period of reflection was not originally intended to produce a plan to address humanity's issues, but rather to understand myself in deeper, clearer ways. However, as I delved further into the complexities of my experiences and thoughts, it became evident that the challenges we face collectively are intricately tied to the individual struggles we all endure.
 
 The understanding I’ve gained about humanity’s struggles—particularly the consistent failure to create environments where humans can thrive from birth in supportive conditions—has illuminated a clear and tangible pathway toward an incredible future. A future where each person is given the foundation to prosper from the very start, without the burden of unnecessary conflict or harm. It’s a future in which human potential is no longer stifled by outdated systems, and where personal safety, comfort, and fulfillment are not luxuries, but guarantees. This understanding redefines what it means to thrive, reshaping how we build society from the ground up, ensuring every individual has the opportunity to flourish.
 
@@ -48,7 +48,7 @@ The idea of labor itself needs a complete reevaluation. Do most people really ne
 
 With the removal of unnecessary work and a focus on essential tasks, we can create a world where people transition from the intensive physical and mental labor required to run civilization into roles of mentorship by age 50. This shift ensures that the next generation can continue and expand our collective wealth of knowledge, while those who retire from traditional work can invest their time in passions, relationships, and civic duties. This reimagined approach to retirement enhances both individual fulfillment and societal growth, creating a more engaged, enriched, and healthier world.
 
-And so, as my solitude turned into a broader social awareness, it became clear that the path to an improved future was not just a series of steps to be taken but a shift in understanding what is fundamentally possible. We have never been closer to achieving a society where suffering is not an inevitable part of the human condition but a relic of past systems and attitudes.
+It’s clear that the path to an improved future is not just a series of steps, but a shift in understanding what is fundamentally possible. We have never been closer to achieving a society where suffering is not an inevitable part of the human condition but a relic of past systems and attitudes.
 
 To all who have felt the weight of the world's challenges: we hold the power to reshape our reality into one of universal support, respect, and prosperity. Together, we can liberate individuals to pursue lives filled with learning, creativity, and personal fulfillment.
 
@@ -217,13 +217,13 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 
 
 1. [How will the GI achieve a 2-day workweek?](#q-how-will-the-gi-achieve-a-2-day-workweek)
+1. [If everyone has the time and resources to excel, is everyone going to be a genius in everything?](#q-if-everyone-has-the-time-and-resources-to-excel-is-everyone-going-to-be-a-genius-in-everything)
 1. [I run a small business today—what happens to my business if I join the GI?](#q-i-run-a-small-business-todaywhat-happens-to-my-business-if-i-join-the-gi)
 1. [Can I start a small business or new project within the GI?](#q-can-i-start-a-small-business-or-new-project-within-the-gi)
 1. [What happens to large companies or multinational corporations under the GI? Will the GI purchase them?](#q-what-happens-to-large-companies-or-multinational-corporations-under-the-gi-will-the-gi-purchase-them)
 1. [Will the GI be open to people from all walks of life, including people with criminal records or no formal education?](#q-will-the-gi-be-open-to-people-from-all-walks-of-life-including-people-with-criminal-records-or-no-formal-education)
 1. [What happens to people in prison? How about those on death row or serving life sentences?](#q-what-happens-to-people-in-prison-how-about-those-on-death-row-or-serving-life-sentences)
 1. [But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.](#q-but-what-if-i-want-to-hate-people-and-make-them-suffer-for-their-pasts-the-gi-doesnt-align-with-this-need-of-mine)
-1. [If everyone has the time and resources to excel, is everyone going to be a genius in everything?](#q-if-everyone-has-the-time-and-resources-to-excel-is-everyone-going-to-be-a-genius-in-everything)
 1. [How will the $25,000 contribution from each member be used?](#q-how-will-the-25000-contribution-from-each-member-be-used)
 1. [But what if I don't have $25,000 to join? I'm broke!](#q-but-what-if-i-dont-have-25000-to-join-im-broke)
 1. [Where does the money go when the GI makes purchases?](#q-where-does-the-money-go-when-the-gi-makes-purchases)
@@ -239,10 +239,10 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 1. [What will the GI build and provide for its members?](#q-what-will-the-gi-build-and-provide-for-its-members)
 1. [How will the GI manage airlines and transportation for its members?](#q-how-will-the-gi-manage-airlines-and-transportation-for-its-members)
 1. [How will the GI ensure safety in all forms of transportation?](#q-how-will-the-gi-ensure-safety-in-all-forms-of-transportation)
+1. [How will the GI timeline unfold? When will things start to happen?](#q-how-will-the-gi-timeline-unfold-when-will-things-start-to-happen)
 1. [Is this some form of socialism, fascism, or another 'ism'?](#q-is-this-some-form-of-socialism-fascism-or-another-ism)
 1. [Is this anti-capitalism?](#q-is-this-anti-capitalism)
 1. [Will the GI phase out traditional governments?](#q-will-the-gi-phase-out-traditional-governments)
-1. [How will the GI timeline unfold? When will things start to happen?](#q-how-will-the-gi-timeline-unfold-when-will-things-start-to-happen)
 1. [But isn't this creating some sort of central governing body that will have control of every aspect of my life?](#q-but-isnt-this-creating-some-sort-of-central-governing-body-that-will-have-control-of-every-aspect-of-my-life)
 1. [Is the GI some kind of cult or forced membership organization?](#q-is-the-gi-some-kind-of-cult-or-forced-membership-organization)
 1. [Will I have to give up all my personal property to join the GI?](#q-will-i-have-to-give-up-all-my-personal-property-to-join-the-gi)
@@ -262,6 +262,11 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 Additionally, the GI will centralize and streamline essential services such as repairs, maintenance, healthcare, food production and distribution, public transportation, and energy management. This consolidation removes the need for countless small, fragmented businesses that often create redundancy and inefficiency. By coordinating these critical areas, the GI ensures that services like infrastructure upkeep, food security, and technological support are provided efficiently and universally, minimizing resource waste and reducing the overall demand for labor.
 
 By focusing on what truly matters—housing, food, education, healthcare, technology, and cultural enrichment—the GI can significantly reduce the amount of work needed to maintain a high quality of life. This shift allows people to work only two days a week, giving them more time to pursue creative, educational, and personal growth opportunities.
+
+### Q: If everyone has the time and resources to excel, is everyone going to be a genius in everything?
+**A:** In a way, pretty much. Just like how all birds of a species can reach their highest potential in flight and survival, every human can reach the highest levels of their abilities in all aspects of human potential, which you might call "genius." The GI's framework is designed to provide the tools, time, and opportunities for everyone to excel in their own unique way, whether that’s in creating new technologies, developing innovative solutions, exploring the mysteries of existence, building strong communities, or mastering a wide range of skills and crafts.
+
+In this sense, the GI isn't creating a world full of "geniuses" in the traditional sense, but a world where every person is empowered to become their best self, contributing in ways that are valuable and fulfilling. By removing barriers like financial stress, lack of access to education, and societal limitations, the GI helps unlock human potential across a wide spectrum, encouraging everyone to grow into their unique capacities and talents.
 
 ### Q: I run a small business today—what happens to my business if I join the GI?  
 **A:** The GI values all useful businesses, no matter how small or specialized. If your business provides services or products that are needed within the community, it can be integrated into the GI. This allows you to continue operating independently while benefiting from the GI's infrastructure, resources, and support. Whether you’re making cupcakes, providing specialized repairs, or running a local shop, if your business serves a purpose, it will find a home in the GI.
@@ -296,9 +301,9 @@ Ultimately, the GI’s vision is one of inclusivity, ensuring that no one is lef
 ### Q: What happens to people in prison? How about those on death row or serving life sentences?  
 **A:** In the GI framework, the focus shifts from punishment to healing and rehabilitation. People currently in prison will have the opportunity to join the GI and begin the process of reintegration into society. Rather than continuing a system based on retribution, the GI will prioritize mental health support, education, and skill-building to help individuals grow and contribute meaningfully to the community.
 
-For those on death row or serving life sentences, the GI will aim to ensure that every life is preserved, regardless of past actions. Members of the GI will work to see that no one is left behind, including those who have taken a life. This will be a long process of recovery, both for the individual and for those affected by their actions. The goal is to move everyone toward an understanding that we are all products of our environments, and with the GI’s supportive framework, no one will need to resort to harmful actions as a way of dealing with personal struggles.
+For those on death row or serving life sentences, the GI will aim to ensure that every life is preserved, regardless of past actions. Members of the GI are committed to ensuring that no one is left behind, including those who have taken a life or previously caused deep harm to others. This will be a long process of recovery, both for the individual and for those affected by their actions. The goal is to move everyone toward an understanding that we are all products of our environments, and with the GI’s supportive framework, no one will need to resort to harmful actions as a way of dealing with personal struggles.
 
-For those who have caused harm, this journey will involve deep reflection, community support, and a commitment to growth. By addressing the root causes of harmful behavior—whether it's systemic inequality, trauma, or other factors—the GI will create an environment where everyone can thrive, grow, and heal, ensuring that no one ever feels forced into destructive actions again. The focus will be on ensuring that individuals are given the support and resources they were never offered in their earlier environments, creating a future where harmful acts are no longer necessary or even conceivable.
+For those who have caused harm, this journey will involve deep reflection, community support, and a commitment to growth. By addressing the root causes of harmful behavior—whether it's systemic inequality, trauma, or other factors—the GI will create an environment where everyone can thrive, grow, and heal, ensuring that no one ever feels forced into destructive actions again. The focus will be on providing the support and resources that individuals may have lacked in earlier environments, creating a future where harmful acts are no longer necessary or even conceivable. Ultimately, the goal is to eliminate the need for prisons by building a society where harm is prevented, and rehabilitation replaces punishment.
 
 ### Q: But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.
 **A:** The GI’s framework is rooted in healing, growth, and fostering environments where every individual has the opportunity to thrive. While it’s natural to feel anger or resentment based on past experiences, the GI aims to create a world where these emotions can be processed and transformed into understanding, compassion, and positive action.
@@ -306,11 +311,6 @@ For those who have caused harm, this journey will involve deep reflection, commu
 The GI doesn’t support the idea of punishing people for their pasts or perpetuating cycles of suffering. Instead, it recognizes that many harmful actions stem from environments of inequality, trauma, and scarcity. By addressing these root causes and creating a society built on support, education, and opportunity, the GI provides a space where everyone can break free from these cycles and contribute meaningfully to the community.
 
 If your goal is to hold onto anger and make others suffer, the GI may indeed not align with that mindset. However, the GI offers the chance to channel those emotions into something constructive—helping others heal, finding solutions to prevent harm, and working together to ensure no one has to resort to destructive behaviors again. It’s about creating a future where no one is left behind, and where everyone can find a path toward growth and redemption.
-
-### Q: If everyone has the time and resources to excel, is everyone going to be a genius in everything?
-**A:** In a way, pretty much. Just like how all birds of a species can reach their highest potential in flight and survival, every human can reach the highest levels of their abilities in all aspects of human potential, which you might call "genius." The GI's framework is designed to provide the tools, time, and opportunities for everyone to excel in their own unique way, whether that’s in creating new technologies, developing innovative solutions, exploring the mysteries of existence, building strong communities, or mastering a wide range of skills and crafts.
-
-In this sense, the GI isn't creating a world full of "geniuses" in the traditional sense, but a world where every person is empowered to become their best self, contributing in ways that are valuable and fulfilling. By removing barriers like financial stress, lack of access to education, and societal limitations, the GI helps unlock human potential across a wide spectrum, encouraging everyone to grow into their unique capacities and talents.
 
 ### Q: How will the $25,000 contribution from each member be used?
 **A:** Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. These funds will be pooled to cover housing, healthcare, education, and other essentials for all members. The goal is to ensure that all resources are used efficiently and transparently within the GI, with no portion allocated to personal salaries or personal enrichment.
@@ -363,7 +363,7 @@ Even if you own your home and have financial stability, the GI can upgrade and m
 The GI isn’t just for those in need—it’s for anyone who wants to be part of a society where the best gets even better and everyone benefits from a new standard of living.
 
 ### Q: I'm old and going to die soon. Life has passed me by—what now?
-**A:** The GI isn’t just about the future—it’s about making today better for everyone, no matter what stage of life you’re in. Even if you feel like life has passed you by, the GI is here to ensure that your remaining time is filled with comfort, joy, and purpose. We believe in honoring every individual’s journey, and whether you’re 20 or 90, there’s still so much life can offer.
+**A:** The GI isn’t just about the future—it’s about improving today for everyone, regardless of age or circumstance. Even if it feels like life has passed you by, the GI framework is designed to ensure your remaining time is filled with comfort, joy, and purpose. Whether you’re 20 or 90, the opportunities for meaningful experiences and contributions remain abundant.
 
 The GI will provide enhanced services and care that focus on your well-being, including better healthcare, opportunities for social engagement, and the chance to leave a lasting impact on the world around you. Whether it’s through mentoring younger generations, participating in community activities, or simply enjoying the highest standard of living, the GI ensures that your days are lived with dignity, meaning, and connection.
 
@@ -377,7 +377,7 @@ By joining the GI early, you’re set on a path where your entire life will be s
 ### Q: What benefits will I receive for taking on more skilled or advanced positions in the GI?
 **A:** As you take on more skilled or advanced roles within the GI, your contributions will be recognized and rewarded with enhanced quality-of-life benefits. These perks can include upgrades to your housing, giving you access to larger or more luxurious spaces, as well as special travel perks like better rooms while traveling or priority seating on flights.
 
-The GI believes in creating a system where personal growth and skill development are not only encouraged but also rewarded in ways that directly enhance your everyday life. Whether it's through housing upgrades, exclusive access to premium services, or other conveniences, the more you contribute in meaningful ways, the more the GI ensures your lifestyle reflects that contribution. The goal is to make your hard work feel valued and to offer tangible rewards for your growth and efforts.
+The GI is designed to create a system where personal growth and skill development are not only encouraged but also rewarded in ways that directly enhance your everyday life. Whether it's through housing upgrades, exclusive access to premium services, or other conveniences, the more you contribute in meaningful ways, the more the GI ensures your lifestyle reflects that contribution. The goal is to make your hard work feel valued and to offer tangible rewards for your growth and efforts.
 
 ### Q: But I don’t have any specialized skills today—what about me?
 **A:** First off, you do have skills. Whether it's your ability to problem-solve, communicate, organize, or contribute to your community, everyone has valuable abilities that may not always be recognized in traditional systems. In the GI, all contributions are valued—whether you're starting in general essential work or exploring new opportunities.
@@ -409,6 +409,15 @@ On the ground, autonomous vehicles will be equipped with cutting-edge sensors, A
 
 In essence, the GI will create a transportation network where safety is never compromised, giving members peace of mind that every journey—whether by plane, train, or vehicle—will meet the highest standards for protection and reliability.
 
+### Q: How will the GI timeline unfold? When will things start to happen?
+**A:** The implementation of the GI will begin with a global conversation, where people from all walks of life come together to discuss, collaborate, and refine the vision. This conversation will set the foundation for the GI, sparking excitement and laying the groundwork for the first essential projects.
+
+In the first few years, the focus will be on providing humanity with the basics: housing, healthcare, food, and education. This period will also be one of healing—giving individuals the time to recover from the stress of current systems. During this time, work will be kept minimal, allowing people to engage with the GI without the burden of overwork. Even in these initial years, major projects will start to take shape. Old infrastructure, such as repurposed buildings and ships, along with sustainable temporary structures like tents and containers, can be utilized to quickly provide necessary facilities while more advanced, permanent structures are developed.
+
+After the initial healing period, an additional decade of focused work can bring about dramatic global transformation. This period will see the GI’s initiatives expanding across the world. New health centers, sustainable energy systems, and innovative transportation networks will begin to shape communities. Education systems will be revolutionized, and the quality of life will rise globally as people transition into more advanced projects and collaborative ventures. Alongside these developments, cultural institutions such as museums, theaters, parks, and spaces for art and cultural exchange will flourish, enriching the human experience and preserving the world’s diversity.
+
+By the end of this decade, humanity will not only have healed but will be on a path to extraordinary advancements, driven by the unity and collaboration fostered within the GI framework. Natural landscapes and urban environments alike will be transformed to reflect both progress and the preservation of beauty, ensuring that future generations can enjoy the world’s cultural and ecological treasures. This new era will elevate the human experience, fostering a renewed global culture where innovation, creativity, and collaboration shape a more vibrant and harmonious world.
+
 ### Q: Is this some form of socialism, fascism, or another 'ism'?
 **A:** The GI framework doesn't fit neatly into any traditional "ism" like socialism, fascism, or other ideologies. Instead, it is a new system designed to prioritize human well-being, freedom, and sustainability. The GI focuses on providing essential services—such as housing, healthcare, and education—to all people, not through centralized control or state ownership, but by fostering a cooperative, community-driven approach where members have direct input and control over how resources are used.
 
@@ -429,15 +438,6 @@ In the long term, the population may demand that taxation stops, and society tra
 Borders, in this future, will matter less. Initially, traditional governments may still control borders and regional laws, but the GI will provide an overarching framework where borders become irrelevant. The entire planet will become a space of opportunity, with equal access to resources, services, and the ability to live anywhere within the GI’s global framework. In this vision, governance shifts from control over land and people to collaboration and shared well-being for all of humanity.
 
 Governments may still exist in a ceremonial or cultural role, but their core responsibilities will gradually be absorbed by the GI as people see the benefits of this new system. In this future, nations can celebrate their unique identities while leaving the vital services and infrastructure to the GI, ensuring global stability and progress for everyone.
-
-### Q: How will the GI timeline unfold? When will things start to happen?
-**A:** The implementation of the GI will begin with a global conversation, where people from all walks of life come together to discuss, collaborate, and refine the vision. This conversation will set the foundation for the GI, sparking excitement and laying the groundwork for the first essential projects.
-
-In the first few years, the focus will be on providing humanity with the basics: housing, healthcare, food, and education. This period will also be one of healing—giving individuals the time to recover from the stress of current systems. During this time, work will be kept minimal, allowing people to engage with the GI without the burden of overwork. Even in these initial years, major projects will start to take shape. Old infrastructure, such as repurposed buildings and ships, along with sustainable temporary structures like tents and containers, can be utilized to quickly provide necessary facilities while more advanced, permanent structures are developed.
-
-After the initial healing period, an additional decade of focused work can bring about dramatic global transformation. This period will see the GI’s initiatives expanding across the world. New health centers, sustainable energy systems, and innovative transportation networks will begin to shape communities. Education systems will be revolutionized, and the quality of life will rise globally as people transition into more advanced projects and collaborative ventures. Alongside these developments, cultural institutions such as museums, theaters, parks, and spaces for art and cultural exchange will flourish, enriching the human experience and preserving the world’s diversity.
-
-By the end of this decade, humanity will not only have healed but will be on a path to extraordinary advancements, driven by the unity and collaboration fostered within the GI framework. Natural landscapes and urban environments alike will be transformed to reflect both progress and the preservation of beauty, ensuring that future generations can enjoy the world’s cultural and ecological treasures. This new era will elevate the human experience, fostering a renewed global culture where innovation, creativity, and collaboration shape a more vibrant and harmonious world.
 
 ### Q: But isn't this creating some sort of central governing body that will have control of every aspect of my life?
 **A:** No, the GI is not about centralized control over individuals' lives. Instead, it’s about creating a framework where people have more freedom and autonomy, not less. The GI provides essential services like housing, healthcare, and education, but decisions about how resources are allocated are made collectively by the members.
@@ -494,15 +494,15 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 
 ## Resources
-- [**whomanatee.org**](https://whomanatee.org): The landing page for the global institution
-- [**worldamazing.org**](https://worldamazing.org): An easier to remember and share URL that forwards to whomanatee.org
+- [**Worldamazing.org**](https://worldamazing.org): The landing page for the *World Amazing* plan.
+- [**GI Plan Details**](https://github.com/whomanatee/plan): See more expansive documents about the GI plan on GitHub.
 - [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: Is this plan crazy? Or is it crazy not to do it?
 
 
 
 ## Updates
 > Significant updates are listed below, minor tweaks can be found in the git history. All dates in YYYY-MM-DD format.
-- **2024-09-28**: Added an exhaustive Q&A section with 39 questions covering various aspects of the plan
+- **2024-09-28**: Added an extensive Q&A section with 39 questions covering various aspects of the plan
 - **2024-09-27**: Expanded step four, expanded *On the Path Forward*, expanded preface, and renamed document to *World Amazing*
 - **2024-09-26**: Expanded initiatives, benefits, and step one
 - **2024-09-25**: Added one exclamation point, updated intro section, updated GI overview, and shortened the steps
@@ -510,5 +510,5 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 - **2024-09-13**: Added *A Personal Note*, added alternate titles
 - **2024-08-30**: Combined sections, added a list of things covered by the GI
 - **2024-08-29**: Significantly updated and expanded *Step Two: Funding the GI Core Fund and Beyond*, enhanced *Key Features: Two-Day Workweek and Early Retirement*
-- **2024-08-27**: First major version of this document *Time is Freedom*
+- **2024-08-27**: First major version of this document originally titled *Time is Freedom*
 
