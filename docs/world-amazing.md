@@ -1,7 +1,3 @@
-> [!NOTE]
-> This document is a living resource and is continually being expanded and refined, though it is ready for use.  
-> *Last major update:* [2024-09-28](#updates)
-
 # Project 2050: World Amazing or Bust!
 
 or
