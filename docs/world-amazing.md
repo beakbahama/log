@@ -211,15 +211,14 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 ## Questions and Answers
 > Don't see your question? Send an email to m@whomanatee.org and I will let you know if it has been added to this page. You can also send comments if you don't have a specific question.
 
-
+1. [Will the GI be open to people from all walks of life, including people with criminal records or no formal education?](#q-will-the-gi-be-open-to-people-from-all-walks-of-life-including-people-with-criminal-records-or-no-formal-education)
+1. [What happens to people in prison? How about those on death row or serving life sentences?](#q-what-happens-to-people-in-prison-how-about-those-on-death-row-or-serving-life-sentences)
+1. [But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.](#q-but-what-if-i-want-to-hate-people-and-make-them-suffer-for-their-pasts-the-gi-doesnt-align-with-this-need-of-mine)
 1. [How will the GI achieve a 2-day workweek?](#q-how-will-the-gi-achieve-a-2-day-workweek)
 1. [If everyone has the time and resources to excel, is everyone going to be a genius in everything?](#q-if-everyone-has-the-time-and-resources-to-excel-is-everyone-going-to-be-a-genius-in-everything)
 1. [I run a small business today—what happens to my business if I join the GI?](#q-i-run-a-small-business-todaywhat-happens-to-my-business-if-i-join-the-gi)
 1. [Can I start a small business or new project within the GI?](#q-can-i-start-a-small-business-or-new-project-within-the-gi)
 1. [What happens to large companies or multinational corporations under the GI? Will the GI purchase them?](#q-what-happens-to-large-companies-or-multinational-corporations-under-the-gi-will-the-gi-purchase-them)
-1. [Will the GI be open to people from all walks of life, including people with criminal records or no formal education?](#q-will-the-gi-be-open-to-people-from-all-walks-of-life-including-people-with-criminal-records-or-no-formal-education)
-1. [What happens to people in prison? How about those on death row or serving life sentences?](#q-what-happens-to-people-in-prison-how-about-those-on-death-row-or-serving-life-sentences)
-1. [But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.](#q-but-what-if-i-want-to-hate-people-and-make-them-suffer-for-their-pasts-the-gi-doesnt-align-with-this-need-of-mine)
 1. [How will the $25,000 contribution from each member be used?](#q-how-will-the-25000-contribution-from-each-member-be-used)
 1. [But what if I don't have $25,000 to join? I'm broke!](#q-but-what-if-i-dont-have-25000-to-join-im-broke)
 1. [Where does the money go when the GI makes purchases?](#q-where-does-the-money-go-when-the-gi-makes-purchases)
@@ -251,6 +250,29 @@ Together, we can seize this opportunity to ensure that our collective efforts to
 1. [This plan is impossible.](#q-this-plan-is-impossible)
 1. [But what about all the longstanding conflicts between different cultural, political, and national groups? Many of these divisions seem too deep to overcome. How can the GI bring people together when history shows they don’t get along?](#q-but-what-about-all-the-longstanding-conflicts-between-different-cultural-political-and-national-groups-many-of-these-divisions-seem-too-deep-to-overcome-how-can-the-gi-bring-people-together-when-history-shows-they-dont-get-along)
 1. [Ok, I’m sold. Where should I send my money?](#q-ok-im-sold-where-should-i-send-my-money)
+
+### Q: Will the GI be open to people from all walks of life, including people with criminal records or no formal education?
+**A:** Absolutely. The GI is designed to be a system where everyone has the opportunity to grow, contribute, and thrive, regardless of their background. This includes people with criminal records, those without formal education, and anyone who feels excluded or marginalized by current systems.
+
+Rather than focusing on past circumstances or societal labels, the GI emphasizes what each person can offer moving forward. People with criminal records will have access to rehabilitation, growth opportunities, and meaningful work within the GI. The goal is to create a system that heals and uplifts, allowing everyone to find their purpose and contribute to society.
+
+For those without formal education, the GI will provide access to the best learning resources available. Education in the GI will not be a barrier but an opportunity for everyone to pursue knowledge, learn new skills, and grow into roles that match their abilities and interests. The GI is focused on human potential, and everyone, regardless of their starting point, will have a place in this system.
+
+Ultimately, the GI’s vision is one of inclusivity, ensuring that no one is left behind, and that everyone can participate in building a better future for all.
+
+### Q: What happens to people in prison? How about those on death row or serving life sentences?  
+**A:** In the GI framework, the focus shifts from punishment to healing and rehabilitation. People currently in prison will have the opportunity to join the GI and begin the process of reintegration into society. Rather than continuing a system based on retribution, the GI will prioritize mental health support, education, and skill-building to help individuals grow and contribute meaningfully to the community.
+
+For those on death row or serving life sentences, the GI will aim to ensure that every life is preserved, regardless of past actions. Members of the GI are committed to ensuring that no one is left behind, including those who have taken a life or previously caused deep harm to others. This will be a long process of recovery, both for the individual and for those affected by their actions. The goal is to move everyone toward an understanding that we are all products of our environments, and with the GI’s supportive framework, no one will need to resort to harmful actions as a way of dealing with personal struggles.
+
+For those who have caused harm, this journey will involve deep reflection, community support, and a commitment to growth. By addressing the root causes of harmful behavior—whether it's systemic inequality, trauma, or other factors—the GI will create an environment where everyone can thrive, grow, and heal, ensuring that no one ever feels forced into destructive actions again. The focus will be on providing the support and resources that individuals may have lacked in earlier environments, creating a future where harmful acts are no longer necessary or even conceivable. Ultimately, the goal is to eliminate the need for prisons by building a society where harm is prevented, and rehabilitation replaces punishment.
+
+### Q: But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.
+**A:** The GI’s framework is rooted in healing, growth, and fostering environments where every individual has the opportunity to thrive. While it’s natural to feel anger or resentment based on past experiences, the GI aims to create a world where these emotions can be processed and transformed into understanding, compassion, and positive action.
+
+The GI doesn’t support the idea of punishing people for their pasts or perpetuating cycles of suffering. Instead, it recognizes that many harmful actions stem from environments of inequality, trauma, and scarcity. By addressing these root causes and creating a society built on support, education, and opportunity, the GI provides a space where everyone can break free from these cycles and contribute meaningfully to the community.
+
+If your goal is to hold onto anger and make others suffer, the GI may indeed not align with that mindset. However, the GI offers the chance to channel those emotions into something constructive—helping others heal, finding solutions to prevent harm, and working together to ensure no one has to resort to destructive behaviors again. It’s about creating a future where no one is left behind, and where everyone can find a path toward growth and redemption.
 
 ### Q: How will the GI achieve a 2-day workweek?  
 **A:** The GI’s model is based on radically rethinking what work is necessary and valuable. Many industries and services that exist today are inefficient, duplicative, or no longer serve a clear purpose. For example, banks, insurance companies, and various administrative or bureaucratic services exist primarily to facilitate the current economic system, not because they provide essential value to people's daily lives. Under the GI, these kinds of inefficient industries will be phased out or restructured, and unnecessary services will be eliminated.
@@ -285,31 +307,8 @@ However, if there is resistance or if a business model no longer aligns with the
 
 Ultimately, the focus will be on whether a business is useful, and for those that are, there will be opportunities to integrate into the GI's vision for a sustainable and inclusive future. Businesses that can’t or won’t adapt will fade, but all employees will find their place within the GI system.
 
-### Q: Will the GI be open to people from all walks of life, including people with criminal records or no formal education?
-**A:** Absolutely. The GI is designed to be a system where everyone has the opportunity to grow, contribute, and thrive, regardless of their background. This includes people with criminal records, those without formal education, and anyone who feels excluded or marginalized by current systems.
-
-Rather than focusing on past circumstances or societal labels, the GI emphasizes what each person can offer moving forward. People with criminal records will have access to rehabilitation, growth opportunities, and meaningful work within the GI. The goal is to create a system that heals and uplifts, allowing everyone to find their purpose and contribute to society.
-
-For those without formal education, the GI will provide access to the best learning resources available. Education in the GI will not be a barrier but an opportunity for everyone to pursue knowledge, learn new skills, and grow into roles that match their abilities and interests. The GI is focused on human potential, and everyone, regardless of their starting point, will have a place in this system.
-
-Ultimately, the GI’s vision is one of inclusivity, ensuring that no one is left behind, and that everyone can participate in building a better future for all.
-
-### Q: What happens to people in prison? How about those on death row or serving life sentences?  
-**A:** In the GI framework, the focus shifts from punishment to healing and rehabilitation. People currently in prison will have the opportunity to join the GI and begin the process of reintegration into society. Rather than continuing a system based on retribution, the GI will prioritize mental health support, education, and skill-building to help individuals grow and contribute meaningfully to the community.
-
-For those on death row or serving life sentences, the GI will aim to ensure that every life is preserved, regardless of past actions. Members of the GI are committed to ensuring that no one is left behind, including those who have taken a life or previously caused deep harm to others. This will be a long process of recovery, both for the individual and for those affected by their actions. The goal is to move everyone toward an understanding that we are all products of our environments, and with the GI’s supportive framework, no one will need to resort to harmful actions as a way of dealing with personal struggles.
-
-For those who have caused harm, this journey will involve deep reflection, community support, and a commitment to growth. By addressing the root causes of harmful behavior—whether it's systemic inequality, trauma, or other factors—the GI will create an environment where everyone can thrive, grow, and heal, ensuring that no one ever feels forced into destructive actions again. The focus will be on providing the support and resources that individuals may have lacked in earlier environments, creating a future where harmful acts are no longer necessary or even conceivable. Ultimately, the goal is to eliminate the need for prisons by building a society where harm is prevented, and rehabilitation replaces punishment.
-
-### Q: But what if I want to hate people and make them suffer for their pasts? The GI doesn't align with this need of mine.
-**A:** The GI’s framework is rooted in healing, growth, and fostering environments where every individual has the opportunity to thrive. While it’s natural to feel anger or resentment based on past experiences, the GI aims to create a world where these emotions can be processed and transformed into understanding, compassion, and positive action.
-
-The GI doesn’t support the idea of punishing people for their pasts or perpetuating cycles of suffering. Instead, it recognizes that many harmful actions stem from environments of inequality, trauma, and scarcity. By addressing these root causes and creating a society built on support, education, and opportunity, the GI provides a space where everyone can break free from these cycles and contribute meaningfully to the community.
-
-If your goal is to hold onto anger and make others suffer, the GI may indeed not align with that mindset. However, the GI offers the chance to channel those emotions into something constructive—helping others heal, finding solutions to prevent harm, and working together to ensure no one has to resort to destructive behaviors again. It’s about creating a future where no one is left behind, and where everyone can find a path toward growth and redemption.
-
 ### Q: How will the $25,000 contribution from each member be used?
-**A:** Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. These funds will be pooled to cover housing, healthcare, education, and other essentials for all members. The goal is to ensure that all resources are used efficiently and transparently within the GI, with no portion allocated to personal salaries or personal enrichment.
+**A:** Each member’s contribution is placed into a personal fund under their control, ensuring transparent and democratic spending decisions. These funds will be pooled to cover housing, healthcare, education, and other essentials for all members. The goal is to ensure that all resources are used efficiently and transparently within the GI, with no portion allocated to personal salaries or enrichment.
 
 ### Q: But what if I don't have $25,000 to join? I'm broke!
 **A:** Not having the $25,000 upfront doesn’t mean you’re excluded from the GI. There are multiple pathways to join, allowing everyone to benefit from the GI even before contributing the full amount.
@@ -321,7 +320,7 @@ Additionally, the GI will establish a scholarship program for individuals who ha
 Ultimately, the GI is about opportunity and inclusivity, ensuring that everyone—regardless of their current financial situation—has a path to join and benefit from the system.
 
 ### Q: Where does the money go when the GI makes purchases?
-**A:** Ideally, all purchases made within the GI will stay within the GI ecosystem. This means that any goods or services purchased by members or the GI itself would be provided by other GI members, creating a self-sustaining market. For example, if a member purchases speciality groceries not provided by the core fund, the money would go back to the Global Eating Department (GED), and any surplus funds would be reinvested into the GI, supporting other services or projects.
+**A:** Ideally, all purchases made within the GI will stay within the GI ecosystem. This means that any goods or services purchased by members or the GI itself would be provided by other GI members, creating a self-sustaining market. For example, if a member purchases speciality groceries not provided by the core fund, the money would go back to the project that provided the goods, such as the Global Eating Department (GED).
 
 However, during the initial stages, some external spending may be necessary to get things started. Even then, the goal is to make those purchases in a way that encourages external vendors to join the GI ecosystem. By doing this, the money spent externally could still flow back into the GI, ultimately growing the community and ensuring that, over time, more and more of the transactions remain within the GI economy.
 
@@ -490,7 +489,7 @@ While these conflicts won’t dissolve overnight, the GI provides a foundation f
 
 
 ## Resources
-- [**Worldamazing.org**](https://worldamazing.org): The landing page for the *World Amazing* plan.
+- [**worldamazing.org**](https://worldamazing.org): The landing page for the *World Amazing* plan.
 - [**GI Plan Details**](https://github.com/whomanatee/plan): See more expansive documents about the GI plan on GitHub.
 - [**Crazy New Ideas**](https://paulgraham.com/newideas.html) by Paul Graham: Is this plan crazy? Or is it crazy not to do it?
 
