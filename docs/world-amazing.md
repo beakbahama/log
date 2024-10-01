@@ -21,7 +21,7 @@ or
 1. [On the Path Forward](#on-the-path-forward)
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
 1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
-1. [Addressing the Elephant in the Room: Deception](#addressing-the-elephant-in-the-room-deception)
+1. [On Deception](#on-deception)
 1. [On Those You May Currently Hate, Despise, or View Negatively](#on-those-you-may-currently-hate-despise-or-view-negatively)
 1. [Closing Remarks](#closing-remarks)
 1. [Questions and Answers](#questions-and-answers)
@@ -169,7 +169,7 @@ In this future:
 
 
 
-## Addressing the Elephant in the Room: Deception
+## On Deception
 Many might look upon this plan and think, "This is utopian, an idealistic fantasy. It won't work because people inherently lie, cheat, and steal." Such skepticism is understandable; after all, much of recorded human history is riddled with conflicts born from hierarchical systems that encourage competition over collaboration.
 
 The emergence of hierarchical structures some 10,000 years ago marked a significant shift in human society. Originally, for hundreds of thousands of years, humans lived in relatively egalitarian groups where cooperation was crucial for survival. However, as societies grew and became more complex, and as domestication of plants and animals also emerged, hierarchies developed, and with them, behaviors that exploited these new structures for personal gain. It is crucial to recognize that these behaviors are not inherent to our species; rather, they are bugs—malfunctions of a system that has misaligned with our biological roots.
