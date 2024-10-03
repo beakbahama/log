@@ -1,3 +1,7 @@
+> [!NOTE]
+> - This document is a living resource but already contains enough information to be used. Updates are planned in the coming days and weeks.
+> - *Last major update:* [2024-09-28](#updates)
+
 # Project 2050: World Amazing or Bust!
 
 or
@@ -21,8 +25,12 @@ or
 1. [On the Path Forward](#on-the-path-forward)
 1. [Introducing: The Global Institution Framework](#introducing-the-global-institution-framework)
 1. [Four Critical Steps to World Amazing](#four-critical-steps-to-world-amazing)
+1. On Work - *coming soon!* 
+1. On Debt - *coming soon!*
+1. On Ownership - *coming soon!*
 1. [On Deception](#on-deception)
-1. [On Those You May Currently Hate, Despise, or View Negatively](#on-those-you-may-currently-hate-despise-or-view-negatively)
+1. [On Hate, Anger, and Negative Perception](#on-hate-anger-and-negative-perception)
+1. On Restitution, Justice, and Healing - *coming soon!*
 1. [Closing Remarks](#closing-remarks)
 1. [Questions and Answers](#questions-and-answers)
 1. [Resources](#resources)
@@ -30,9 +38,7 @@ or
 
 
 ## On the Path Forward
-Over the past several years, I've embarked on an unexpected and profound period of introspection and exploration, initially driven by a personal need for solitude. This period of reflection was not originally intended to produce a plan to address humanity's issues, but rather to understand myself in deeper, clearer ways. However, as I delved further into the complexities of my experiences and thoughts, it became evident that the challenges we face collectively are intricately tied to the individual struggles we all endure.
-
-The understanding I’ve gained about humanity’s struggles—particularly the consistent failure to create environments where humans can thrive from birth in supportive conditions—has illuminated a clear and tangible pathway toward an incredible future. A future where each person is given the foundation to prosper from the very start, without the burden of unnecessary conflict or harm. It’s a future in which human potential is no longer stifled by outdated systems, and where personal safety, comfort, and fulfillment are not luxuries, but guarantees. This understanding redefines what it means to thrive, reshaping how we build society from the ground up, ensuring every individual has the opportunity to flourish.
+The consistent inability of society to create environments where humans can thrive from birth in supportive conditions has long hindered human potential. Yet today, we are on the brink of a clear and tangible pathway toward an incredible future. A future where each person is given the foundation to prosper from the very start, free from unnecessary conflict and harm. It’s a future in which human potential is no longer stifled by outdated systems, and where personal safety, comfort, and fulfillment are not luxuries, but guarantees.
 
 In this future, every hand is held through genuine and robust support systems integrated into the fabric of daily life. Every heart loved through community structures that ensure no one is isolated or overlooked. Every thought nurtured with educational systems designed to foster critical thinking and creativity from the earliest ages. And every word spoken is heard, valued, and integrated, creating a society where communication and deep understanding form the backbone of our collective decision-making, reflecting our new, incredible, interconnected, community based, and family-strong global civilization.
 
@@ -182,18 +188,22 @@ And so, the changes to humanity proposed in this document are not merely aspirat
 
 
 
-## On Those You May Currently Hate, Despise, or View Negatively
-It is understandable to harbor feelings of disdain or even hatred towards individuals or groups who have caused harm or supported oppressive systems. These feelings, deeply personal and often justified, reflect broader societal issues that promote division. At times, such emotions may not stem from direct injustices but from a need to channel unresolved past fears or traumas into anger towards a group—a pattern that can be traced back through countless historical conflicts and wars. Recognizing the dynamics of hatred, and thus fear, necessitates a profound shift—not toward forced reconciliation or forgiveness for past wrongs, but toward a deep, mutual understanding that is essential for effective community interaction.
+## On Hate, Anger, and Negative Perception
+It is understandable to harbor feelings of disdain or even hatred towards individuals or groups who have caused harm or supported oppressive systems. These feelings, deeply personal and often shaped by experiences of real harm or injustice, reflect broader societal issues that promote division.
 
-It is undeniable that shifting from entrenched animosities to a mindset of collective flourishing will be a significant hurdle for many. Throughout history, certain groups have been marginalized, demonized, or dehumanized, leading to deep-seated divisions that have persisted across generations. For some, the thought of collaborating or coexisting peacefully with those they have been taught to see as fundamentally different or even inferior—whom they may have even regarded as less than human—presents a profound challenge.
+At times, such emotions may not stem from direct injustices but from a need to channel unresolved past fears or traumas into anger towards a group—a pattern that can be traced back through countless historical conflicts and wars.
 
-This transition, however, is essential. It requires a radical rethinking of our historical narratives and societal roles. The journey involves recognizing that these divisive views were constructed and can be deconstructed. It’s about seeing the potential for change and growth in every individual, regardless of past perceptions or conflicts. This isn’t merely an idealistic aspiration but a necessary evolution towards a society that truly values every human life as equal and integral to the collective wellbeing.
+Recognizing the dynamics of hatred, and thus fear, necessitates a profound shift—not toward forced reconciliation or forgiveness for past wrongs, but toward a deep, mutual understanding that is essential for effective community interaction.
 
-Every individual has the potential to flourish and contribute positively, even those deemed least likely. This shift is not about erasing past grievances but about understanding our collective past as a species and understanding that no one human chose the environment, either constructive or destructive, that they grew up in. Thus, the behaviors that fuel our resentments are not inherent flaws but the result of societal structures developed over millennia, which can be restructured.
+It is undeniable that shifting from entrenched animosities to a mindset of collective flourishing will be a significant hurdle for many. These entrenched animosities have been passed down through narratives in education, media, and politics, creating an “us versus them” mentality that has fueled division for generations. Throughout history, certain groups have been marginalized, demonized, or dehumanized, leading to deep-seated divisions that have persisted across generations. For some, the thought of collaborating or coexisting peacefully with those they have been taught to see as fundamentally different or even inferior presents a profound challenge.
 
-Human behavior is profoundly influenced by its environment, a principle well-documented in psychological research. Behaviors that we may view as 'destructive' or 'antisocial' often stem from adaptive strategies in response to competitive environments. Environments emphasizing competition over collaboration can lead to a range of antisocial behaviors from deceit to aggression. These behaviors are not fixed traits but responses that can change when the environment encourages cooperation, empathy, and mutual support.
+This transition requires collective effort, radical rethinking, and a willingness from all sides to rebuild trust. The journey involves recognizing that these divisive views were constructed and can be deconstructed. It’s about seeing the potential for change and growth in every individual, regardless of past perceptions or conflicts. This isn’t merely an idealistic aspiration but a necessary evolution towards a society that truly values every human life as equal and integral to the collective wellbeing.
 
-The path forward is through collective understanding of our situation as a species. By eliminating unnecessary competition and fostering mutual support, the root causes of many antisocial behaviors can be addressed, paving the way for a society where everyone can engage in and contribute to a harmonious future. This transformation is about redefining how individuals view each other and themselves within the complex tapestry of human history.
+Every individual has the potential to flourish and contribute positively, even those deemed least likely. This shift is not about erasing past grievances but about understanding our shared past as a species and recognizing that no one person chooses the environment they are born into, be it constructive or destructive. Thus, the behaviors that fuel our resentments are not inherent flaws but the result of societal structures developed over millennia, which can and must be restructured.
+
+Human behavior is shaped by the environments we inhabit, a principle well-documented in psychological research. Destructive or antisocial behaviors often arise as adaptive responses to competitive environments, but when these environments shift to emphasize collaboration, these behaviors naturally recede. Environments emphasizing competition over collaboration can lead to a range of antisocial behaviors from deceit to aggression. These behaviors are not fixed traits but responses that can change when the environment encourages cooperation, empathy, and mutual support.
+
+The path forward lies in recognizing the profound influence of our environments and understanding that by replacing competition with collaboration, we can reshape human behavior. By eliminating unnecessary competition and fostering mutual support, the root causes of many antisocial behaviors can be addressed, paving the way for a society where everyone can engage in and contribute to a harmonious future. This transformation is about redefining how individuals view each other and themselves within the complex tapestry of human history.
 
 By understanding that our shared humanity is far more powerful than the artificial divides we have erected, we can begin to dismantle the barriers that have hindered our collective progress. This understanding does not diminish the reality of past injustices but instead channels our collective energies towards building a future where such divisions are obsolete.
 
