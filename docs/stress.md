@@ -1,5 +1,6 @@
 > [!WARNING]
-> This document is an unpublished draft but is likely to undergo only minor enhancements in future updates.
+> - This document is an unpublished draft but is being shared as it already contains useful ideas to consider. It needs some refinements and could use some slimming down in some sections and expansion in others.
+> - Questions, comments, or concersn? Send an email to m@whomanatee.org
 
 # You've Likely Heard of PTSD, But Have You Heard of PPSD, PPHD, and PP4K?
 
