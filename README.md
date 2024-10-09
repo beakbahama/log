@@ -1,7 +1,7 @@
 # 💩 MY PUBLIC LOG
 
 ## Projects
-- [**worldamazing.org**](https://worldamazing.org)
+- [**worldamazing.org**](https://worldamazing.org) - A framework/plan/institution to bring peace, prosperity, and joy to all humans worldwide.
 
-## Essay, Documents, Et Cetera
-- [**When was the last time you felt any sensations in your chin, particularly a tingle?**](docs/chins.md): The chin is the only uniquely human physical feature. I'll show you how to feel your chin again, or maybe for the first time
+## Essays, Documents, Et Cetera
+- [**When was the last time you felt any sensations in your chin, particularly a tingle?**](docs/chins.md): The chin is the only uniquely human physical feature. I'll show you how to feel your chin again, or maybe for the first time.
