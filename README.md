@@ -1,6 +1,8 @@
 # 💩 MY PUBLIC LOG
 > Greetings fellow human or robot reading this. Welcome to my log, a public place for me to share my 💩. You can think of it as a dump of what's in my brain. Many posts are a work in progress, but all posts have value in their current form.
 
+> If you want to see my unpublished drafts, head over to my [/docs](docs/) folder and take a look around.
+
 > Questions, comments, memes, or concerns? You can email me at m@whomanatee.org. I reply back to emails based on the character of their content, and not based on things such as: how well it's written, if everything is spelled correctly, if it's too long, too short, too many hyphens, too many ellipses, or anything like that. I value content that sparks thought, challenges ideas for progress, or simply comes from a place of sincerity. Feel free to communicate via meme, emoji, or some other hieroglyphic language. 
 
 > The main thing I'm working on is making the [world amazing](https://worldamazing.org). And as you'll see, pretty much everything I write in some way ties back to this. And really this all ties back to simply creating the environment where a human has the time and resources to think deeply.
