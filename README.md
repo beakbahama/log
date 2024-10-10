@@ -11,7 +11,7 @@
 
 > If interested in getting to know my thoughts further, have a look around, and if anything resonates with you, please feel free to share it with anyone using any method, including sending me an email with your thoughts. I encourage you to use the things I write to build, not destroy, and to help create an amazing world for all. Let's take a step forward together, as one humanity, to create a world where no one feels left behind and everyone soars to the highest of heights.
 
-> If you want to see my unpublished drafts, head over to my [/docs](docs/) folder and take a look around. If you want to keep up with very major updates only instead of having to watch every change to this repo, you can subscribe to my [RSS feed](https://raw.githubusercontent.com/beakbahama/log/refs/heads/main/feed.xml). And if you've never used RSS or are looking for a reader, you can check out the free, in browser extension [FeedBro](https://nodetics.com/feedbro/).
+> If you want to see my unpublished drafts, head over to my [/docs](docs/) folder and take a look around. If you want to keep up with very major updates only instead of having to watch every change to this repo, you can subscribe to my [RSS feed](https://raw.githubusercontent.com/beakbahama/log/refs/heads/main/feed.xml). And if you've never used RSS or are looking for a reader, you can check out the in browser extension [Feedbro](https://nodetics.com/feedbro/), or use something standalone like [Inoreader](https://www.inoreader.com) or [Feedly](https://feedly.com/).
 
 > Holla!
 
