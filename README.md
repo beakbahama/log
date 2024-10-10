@@ -28,5 +28,5 @@
 ## Documents
 > These documents are meant to be like wiki articles, where they will be continuously updated and refined.
 
-- [**When was the last time you felt any sensations in your chin, particularly a tingle?**](docs/chins.md): The chin is the only uniquely human physical feature. I'll show you how to feel your chin again, or maybe for the first time.
+- [**On Chins**](docs/chins.md): When was the last time you felt any sensations in your chin, particularly a tingle? The chin is the only uniquely human physical feature. I'll show you how to feel your chin again, or maybe for the first time.
 
