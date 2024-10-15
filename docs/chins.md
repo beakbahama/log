@@ -184,8 +184,6 @@ For decades, I didn’t reflect on this loss, thinking I no longer needed the ch
 
 > Do you recall any related conversations from childhood with a parent or sibling?
 
-> The memories may not come back instantly, but priming your mind to begin thinking about them will lay the groundwork for them to reappear. If you are disconnected from your childhood, you may not be able to recall anything, and it is not until you face all past childhood memories, and ultimately fears, that you'll be able to reconnect with your past. Though you may feel strong and unfearful as an adult today, unresolved or unaccessed childhood memories will prevent you from truly being a complete, healthy human.
-
 > Any questions, comments, or concerns? Send me an email at m@whomanatee.org.
 
 > I hope to one day soon "***share a chin***" with everyone, which I'm using to mean thinking and reflecting deeply with others. What do you think of the phrase?
