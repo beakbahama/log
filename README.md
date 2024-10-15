@@ -18,7 +18,7 @@
 ## About
 > Greetings fellow human or robot reading this. Welcome to my log, a public place for me to share my 💩. You can think of it as a partial dump of what's been on my mind. Everything I share is a work in progress, but everything has value in its current form.
 
-> Questions, comments, memes, or concerns? You can email me at m@whomanatee.org. I value content that sparks thought, challenges ideas for progress, or simply comes from a place of sincerity. Feel free to communicate via meme, emoji, or some other hieroglyphic language. 
+> Questions, comments, or concerns? You can email me at m@whomanatee.org. I value content that sparks thought, challenges ideas for progress, or simply comes from a place of sincerity. Feel free to communicate via meme, emoji, or some other hieroglyphic language. 
 
 > The main things I'm working on are understanding the true nature of existence, addressing and healing humanity's millennia of collective suffering, and fostering [world amazing](https://worldamazing.org). All of these efforts are rooted in creating an environment where all humans worldwide have the time and resources to think deeply, free from conflict and full of opportunity. From this, the truths of existence, and ultimately an amazing world, will emerge organically and seemingly automatically to all.
 
