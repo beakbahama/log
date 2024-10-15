@@ -45,7 +45,7 @@ or
 
 
 ## Introduction
-While the ideas in this document are rooted in personal experiences and observations of society, they are open to verification through conversation, observation by others, and neuroimaging, such as examining brain activity during moments of chin sensation. However, the ultimate validation will arise not from laboratory studies but from individuals globally experiencing chin sensations and feeling them regularly, if not daily.
+While the ideas in this document are rooted in personal experiences and observations, they are open to verification through conversation, observation by others, and neuroimaging, such as examining brain activity during moments of chin sensation. However, the ultimate validation will arise not from laboratory studies but from individuals globally experiencing chin sensations and feeling them regularly, if not daily.
 
 ### On Reclaiming the Chin
 All humans can regain this chin sensation, and in doing so, restore a natural mechanism that fosters deep thought, problem-solving, and cooperation. Restoring the chin’s function requires more than just physical awareness: it calls for a shift in mindset. To reconnect with this lost sensation, we must move away from feelings of aggression, hate, and blame, which create division. Instead, we must cultivate understanding, cooperation, and harmony, which promote group cohesion.
