@@ -15,45 +15,58 @@ or
 
 
 
-> I noticed in my early years that the chin helped me think and become a cooperative group member. Did you notice it too in childhood? Do you ever feel it today? These days, I feel sensations in my chin nearly every day, especially during moments of cooperation and deep thought. 
+> I noticed in my early years that the chin helped me think and become a cooperative group member.
 
-> I'll share my rediscovery of childhood memories of my chin and detail recent sensations that reveal its role in guiding us to think through problems and avoid conflict. As a child, I noticed that my chin would tingle when I reached moments of clarity and resolution, a tool for reflection and cooperation. It wasn’t until recently that I reconnected with my childhood experiences and connected them to a deeper understanding of the role of the chin in the success of our species.
+> Did you notice it too in childhood? Do you ever feel it today?
 
-> While the ideas in this document are rooted in personal experiences and observations of society, they are open to verification through conversation, observation by others, and neuroimaging, such as examining brain activity during moments of chin sensation. However, the ultimate validation will arise not from laboratory studies but from individuals globally experiencing chin sensations and feeling them regularly, if not daily.
+> These days, I feel sensations in my chin nearly every day, especially during moments of cooperation and deep thought. 
 
-> All humans can regain this chin sensation, and in doing so, restore a natural mechanism that fosters deep thought, problem-solving, and cooperation. Restoring the chin’s function requires more than just physical awareness: it calls for a shift in mindset. To reconnect with this lost sensation, we must move away from feelings of aggression, hate, and blame, which create division. Instead, we must cultivate understanding, cooperation, and harmony, which promote group cohesion.
+> I'll share my rediscovery of childhood memories of my chin and detail recent sensations that show its role in guiding us to think through problems and avoid conflict. As a child, I noticed that my chin would tingle when I reached moments of clarity and resolution. I understood it to be a tool to avoid conflict and to instead promote reflection and ultimately cooperation.
 
-> Reclaiming the chin sensation is not an instant fix. It is a gradual process that requires years of mental and physical practice. The mental work requires dedication to preventing conflict. The physical work, particularly addressing deep-seated tension in the head and neck, as well as throughout the entire body from head to toe, will begin to release the systemic body tension that prevents feeling the chin sensations, and more importantly, to reduce past body inflammation and to simply feel regular again. This is an intensive, energy-demanding journey that requires daily dedication. Progress will be made from day one, but it will take a few years to fully heal and gain the chin sensations.
-
-> The physical sensations of the chin provide a feedback mechanism that has the potential to profoundly shape our social behaviors and interactions, as it likely did in our earliest days some 200,000 to 300,000 years ago. This feature, which would have fostered creativity and group cohesion, was likely instrumental in allowing humans to form large, cooperative groups, or simply to work peacefully alongside other groups without resorting to battles for territory and resources. Rather than relying on aggression to secure resources, the chin's feedback mechanism would have promoted problem-solving and reduced conflict.
-
-> So when did we lose the ability to sense the chin?
-
-> I know today that chin sensations are lost during moments of fear or uncertainty, as I reason the brain prioritizes action over thought, a concept I will discuss in greater detail in this document. This permanent loss of chin sensations would have occurred during childhood, as it did for me, leaving adults to either forget these sensations entirely or perhaps never notice them in the first place.
-
-> My reasoning is that this loss likely occurred around the time hierarchical groups began forming, approximately 10,000 years ago. Once division emerged, we started working against each other rather than with each other, and humanity entered a constant state of unresolved conflict, stemming from early childhood.
-
-> Losing the chin isn't simply the loss of the ability to think, but also results in the body being locked in a heightened state. As a result of this heightened state, the body remains in a state of chronic inflammation, from head to toe. This inflammation—including that in the brain—has, in my reasoning, contributed to a range of conditions. By reducing this widespread inflammation, we could potentially eradicate many inflammatory-based issues, such as balding, skin conditions like keratosis pilaris (KP), and even some types of cancers. Other chronic illnesses linked to systemic inflammation could also be alleviated or prevented as part of this broader healing process. A deeper and more formal look into the potential for healing many ailments will need to be conducted collectively to pinpoint all health benefits that will result as regaining the chin and healing past inflammation.
-
-> The loss of the chin as a tool for cooperation has led to thousands of years of conflict. The toll on humanity has been both tragic and deadly. The implications of reclaiming the chin are vast, not only in reducing the physical toll on individuals but also in healing society as a whole.
-
-> To reach our highest potential, humanity must reconnect with this lost sensation. In doing so, we can return to our natural, cooperative state, free from unnecessary conflict and tension. This process holds the key to unlocking a future of collective prosperity and peace. With the chin restored, humanity could thrive indefinitely, guided by creativity and cooperation, ensuring progress not just in the coming decades, but for millions and billions of years to come.
+> It wasn’t until recently that I reconnected with my childhood experiences and connected them to a deeper understanding of the role of the chin in the success of our species. I'll explore my memories and my current understanding of the chin in this document.
 
 
 
 ## Table of Contents
+1. [Introduction](#introduction)
 1. [Exploring the Uniqueness of the Human Chin](#exploring-the-uniqueness-of-the-human-chin)
 1. [So What's a Chin For?](#so-whats-a-chin-for)
-1. [The Sequence of Chin Recovery and the "Pop" Sensation](#the-sequence-of-chin-recovery-and-the-pop-sensation)
+1. [The Sequence of the "Pop" Sensation and Chin Recovery](#the-sequence-of-the-pop-sensation-and-chin-recovery)
 1. [Losing the Chin and Gaining Cognitive Resilience in Childhood](#losing-the-chin-and-gaining-cognitive-resilience-in-childhood)
-1. My Current Chin State and Other Associated Body Inflammation and Sensations - *coming soon!*
 1. Other Associated Childhood Memories - *coming soon!*
+1. My Progress Toward Full Chin Recovery and Current State of Body Inflammation - *coming soon!*
 1. Methodology for Regaining the Chin and Resolving Past Inflammation - *coming soon!*
 1. On the Emergence of the Chin Some 200,000 to 300,000 years ago - *coming soon!*
 1. [Final Thoughts](#final-thoughts)
 1. [Resources](#resources)
 1. [Planned Additions](#planned-additions)
 1. [Updates](#updates)
+
+
+
+## Introduction
+While the ideas in this document are rooted in personal experiences and observations of society, they are open to verification through conversation, observation by others, and neuroimaging, such as examining brain activity during moments of chin sensation. However, the ultimate validation will arise not from laboratory studies but from individuals globally experiencing chin sensations and feeling them regularly, if not daily.
+
+### On Reclaiming the Chin
+All humans can regain this chin sensation, and in doing so, restore a natural mechanism that fosters deep thought, problem-solving, and cooperation. Restoring the chin’s function requires more than just physical awareness: it calls for a shift in mindset. To reconnect with this lost sensation, we must move away from feelings of aggression, hate, and blame, which create division. Instead, we must cultivate understanding, cooperation, and harmony, which promote group cohesion.
+
+Reclaiming the chin sensation is not an instant fix. It is a gradual process that requires years of mental and physical practice. The mental work requires dedication to preventing conflict. The physical work, particularly addressing deep-seated tension in the head and neck, as well as throughout the entire body from head to toe, is necessary to begin to release the systemic body tension that prevents feeling the chin sensations, and more importantly, to reduce past body inflammation and to simply feel regular again. This is an intensive, energy-demanding journey that requires daily dedication. Progress will be made from day one, but it will take at least a few years to fully heal and regain the chin sensations.
+
+The physical sensations of the chin provide a feedback mechanism that has the potential to profoundly shape our social behaviors and interactions, as it likely did in our earliest days some 200,000 to 300,000 years ago. This feature, which would have fostered creativity by promoting deep reflection and ultimately group cohesion, was likely instrumental in allowing humans to form large, cooperative groups, or simply to work peacefully alongside other groups without resorting to battles for territory and resources. Rather than relying on aggression to secure resources, the chin's feedback mechanism would have promoted problem-solving and reduced conflict.
+
+### On Humanity Losing the Chin
+So when did we lose the ability to sense the chin?
+
+Chin sensations are lost during moments of fear or uncertainty, as I reason the brain prioritizes action over thought, a concept I will discuss in greater detail in this document. This permanent loss of chin sensations would have occurred during childhood, as it did for me, leaving adults to either forget these sensations entirely or perhaps never notice them in the first place.
+
+My reasoning is that this loss likely occurred around the time hierarchical groups began forming, approximately 10,000 years ago. Once division emerged, we started working against each other rather than with each other, and humanity entered a constant state of unresolved conflict, stemming from early childhood.
+
+Losing the chin isn't simply the loss of the ability to think, but also results in the body being locked in a heightened state. As a result of this heightened state, the body remains in a state of chronic inflammation, from head to toe. This inflammation—including that in the brain—has, in my reasoning, contributed to a range of conditions. By reducing this widespread inflammation, we could potentially eradicate many inflammatory-based issues, such as balding, skin conditions like keratosis pilaris (KP), and even some types of cancers. Other chronic illnesses linked to systemic inflammation could also be alleviated or prevented as part of this broader healing process. A deeper and more formal look into the potential for healing many ailments will need to be conducted collectively to pinpoint all health benefits that will result from regaining the chin and healing past inflammation.
+
+### On the Aftermath and Our Potential Future
+The loss of the chin as a tool for cooperation has led to thousands of years of conflict. The toll on humanity has been both tragic and deadly. The implications of reclaiming the chin are vast, not only in reducing the physical toll on individuals but also in healing society as a whole.
+
+To reach our highest potential, humanity must reconnect with this lost sensation. In doing so, we can return to our natural, cooperative state, free from unnecessary conflict and tension. This process holds the key to unlocking a future of collective prosperity and peace. With the chin restored, humanity could thrive indefinitely, guided by creativity and cooperation, ensuring progress not just in the coming decades, but for millions and billions of years to come.
 
 
 
@@ -81,6 +94,7 @@ The chin accomplishes this by tingling when we've arrived at a solution to a pro
 
 And how do I know all this? Well, let me tell you.
 
+### My Journey of Chin Rediscovery
 Starting in 2016 and primarily in 2017, I began doing significant mental work, driven by the need to rethink both my perspective of myself and my understanding of humanity at large. At the time, I was not aware of the uniqueness of the chin, nor did I have any conscious memory of any chin sensations from childhood.
 
 This process of mental recovery that I began required deep reflection and analysis, sparking a journey of self-exploration and healing, and over the months many past childhood memories, some long forgotten, began to resurface as I delved deeper into my own mind.
@@ -93,6 +107,7 @@ Though I didn't know it at the time, I was preparing my mind and body for reconn
 
 In late 2020 or early 2021, I watched a [video](https://www.youtube.com/watch?v=7D5CQ98kll4) that first introduced me to the uniqueness of the human chin. Within days or weeks of watching the video, memories of my chin tingling began to return. The realization of the chin’s uniqueness triggered these childhood memories, even though I hadn’t yet physically felt the tingling sensation again. My ongoing mental work, and likely the physical work of relieving tension in my head, had both primed me for this rediscovery, allowing the memories to surface. Without this mental healing, I might not have reconnected with these childhood sensations.
 
+### Reconnecting With Childhood Memories of the Chin
 One particular memory stood out. As a child, likely as young as a few years old but no older than eight, sometime in the 1980s, I was upset about something involving one of my siblings, the specifics of which have faded from memory. I sat on my bed, pondering the situation, when a new understanding suddenly dawned on me. It was a solution to the problem, one my mother had suggested earlier, but it hadn't clicked until that moment. As the realization hit, my chin tingled, a kind of vibration. The feeling of being upset began to dissipate immediately, and I felt an equilibrium again, no longer feeling the need to be in conflict over the matter.
 
 That day, soon after having this moment of clarity, my mother came to check up on me. I recall asking her if her chin ever tingled when she got an idea. I didn't really want to admit to her that the idea I came up with was actually the solution she had suggested earlier and that it wasn't until I sat alone in my room and pondered it that it made sense to me.
@@ -103,17 +118,19 @@ So, when it comes to understanding what a chin is for, it wasn’t adult me who 
 
 At the time, I didn’t realize that the tingling sensation in my chin was part of a much larger mystery regarding its purpose, one that has perplexed humans ever since its uniqueness to humans was discovered. As a young child, I didn’t think to share this with anyone besides my mother, let alone consider telling the scientific community.
 
+### The "Pop" Sensation
 In addition to the chin sensation during moments of understanding, I vividly recall experiencing another significant sensation: a "pop" at a specific point on the top left of my head, near the front, which occurred as stress was being resolved during a state of perceived threat. I remember moments of fear and uncertainty as a young child, often due to family matters that needed resolution. These situations were usually resolved through simple social interactions, such as my mother's comforting words, reassuring me that there was no reason to be upset. After her words, the "pop" would come just before the tingling in my chin returned, signaling stress relief, and highlighting the crucial role social bonds play in managing stress and fear, ultimately promoting group cohesion.
 
 Accompanying the pop were a series of sensations around the head, along with a pronounced tingling in my chin, which together signaled the restoration of a return to normal. The tingling in the chin signaled to me that normal, daily function of it had resumed. Today I reason that in moments of fear, or simply in moments of uncertainty, the brain prioritizes immediate action over reflection, causing the cognitive functions associated with the chin to temporarily take a backseat to automatic action. These functions return only after the moment of fear, or uncertainty, is resolved.
 
+### Reflecting on the Chin and the Sore Spot
 Do you recall this spot on your head popping and the accompanying rippling feeling of relief occurring right after this sore spot popped, particularly on the left side of your face? The sensation would travel down the left side of the face, with the left ear popping (possibly also the right, though I can't recall certainly), relief spreading through the left cheek, down along the jawline, and finally, the chin tingling.
 
 And do you recall this spot being sore, prompting you to rub it as a child? I distinctly remember doing so, and vividly recall a day when I saw one of my siblings doing the same. On that day, I also realized that anger provided relief from the pain in that sore spot, and remember being rather upset about something unrelated to my sibling. As my sibling rubbed the spot, I remember thinking that being angry seemed better than the state I had been stuck in, with that spot being sore, my chin gone, and conflict persisting within the family.
 
 
 
-## The Sequence of Chin Recovery and the "Pop" Sensation
+## The Sequence of the "Pop" Sensation and Chin Recovery
 In this section, I'll go over details of the recovery process that I recall from childhood, including additional memories that came along with the process.
 
 As an adult, I am still in a healing process and feel that I am nearing a point where I will experience the "pop," along with the rippling sensations of relief I'll describe below. Though the pop hasn't happened yet, I am able to feel my chin sensations during moments of thought, cooperation, and a general avoidance of conflict with other humans.
@@ -140,17 +157,17 @@ For decades, I didn’t reflect on this loss, thinking I no longer needed the ch
 
 
 
-## My Current Chin State and Other Associated Body Inflammation and Sensations
-> *coming soon*
-
 ## Other Associated Childhood Memories
 > *coming soon*
 
+## My Progress Toward Full Chin Recovery and Current State of Body Inflammation
+> *coming soon*
+
 ## Methodology for Regaining the Chin and Resolving Past Inflammation
-> *coming soon*: including Mental Readiness, Physical Techniques, and Daily Practices.
+> *coming soon*
 
 ## On the Emergence of the Chin Some 200,000 to 300,000 Years Ago
-> *coming soon*: what's your guess for how the chin emerged and gave humans this ability to think deeper, avoid conflict, and promote group cooperation?
+> *coming soon*
 
 
 
@@ -189,7 +206,7 @@ For decades, I didn’t reflect on this loss, thinking I no longer needed the ch
 
 
 ## Planned Additions
-- **Multimedia Resources**: Relevant videos, pictures, diagrams, and interactive media that can provide a richer, more engaging exploration of the topics covered.
+- **Multimedia Resources**: Videos, pictures, diagrams, and interactive media that can provide a richer, more engaging exploration of the topics covered.
 
 - **Case Studies: Experiences with Chin Sensations**: Narratives and anonymous case studies that illustrate how various individuals have experienced chin-related phenomena.
   
