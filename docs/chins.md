@@ -15,18 +15,6 @@ or
 
 
 
-> I noticed in my early years that the chin helped me think and become a cooperative group member.
-
-> Did you notice it too in childhood? Do you ever feel it today?
-
-> These days, I feel sensations in my chin nearly every day, especially during moments of cooperation and deep thought. 
-
-> I'll share my rediscovery of childhood memories of my chin and detail recent sensations that show its role in guiding us to think through problems and avoid conflict. As a child, I noticed that my chin would tingle when I reached moments of clarity and resolution. I understood it to be a tool to avoid conflict and to instead promote reflection and ultimately cooperation.
-
-> It wasn’t until recently that I reconnected with my childhood experiences and connected them to a deeper understanding of the role of the chin in the success of our species. I'll explore my memories and my current understanding of the chin in this document.
-
-
-
 ## Table of Contents
 1. [Introduction](#introduction)
 1. [Exploring the Uniqueness of the Human Chin](#exploring-the-uniqueness-of-the-human-chin)
@@ -45,7 +33,19 @@ or
 
 
 ## Introduction
-While the ideas in this document are rooted in personal experiences and observations, they are open to verification through conversation, observation by others, and neuroimaging, such as examining brain activity during moments of chin sensation. However, the ultimate validation will arise not from laboratory studies but from individuals globally experiencing chin sensations and feeling them regularly, if not daily.
+I noticed in my early years that the chin helped me think and become a cooperative group member.
+
+Did you notice it too in childhood? Do you ever feel it today?
+
+These days, I feel sensations in my chin nearly every day, especially during moments of cooperation and deep thought. 
+
+I'll share my rediscovery of childhood memories of my chin and detail recent sensations that show its role in guiding us to think through problems and avoid conflict. As a child, I noticed that my chin would tingle when I reached moments of clarity and resolution. I understood it to be a tool to avoid conflict and to instead promote reflection and ultimately cooperation.
+
+It wasn’t until recently that I reconnected with my childhood experiences and connected them to a deeper understanding of the role of the chin in the success of our species. I'll explore my memories and my current understanding of the chin in this document.
+
+While the ideas and findings in this document are rooted in personal experiences and observations, they are open to verification by others and likely through neuroimaging, such as examining brain activity during moments of chin sensations.
+
+However, the ultimate validation will arise not from laboratory studies but from individuals globally experiencing chin sensations and feeling them regularly, if not daily.
 
 ### On Reclaiming the Chin
 All humans can regain this chin sensation, and in doing so, restore a natural mechanism that fosters deep thought, problem-solving, and cooperation. Restoring the chin’s function requires more than just physical awareness: it calls for a shift in mindset. To reconnect with this lost sensation, we must move away from feelings of aggression, hate, and blame, which create division. Instead, we must cultivate understanding, cooperation, and harmony, which promote group cohesion.
@@ -126,7 +126,7 @@ Accompanying the pop were a series of sensations around the head, along with a p
 ### Reflecting on the Chin and the Sore Spot
 Do you recall this spot on your head popping and the accompanying rippling feeling of relief occurring right after this sore spot popped, particularly on the left side of your face? The sensation would travel down the left side of the face, with the left ear popping (possibly also the right, though I can't recall certainly), relief spreading through the left cheek, down along the jawline, and finally, the chin tingling.
 
-And do you recall this spot being sore, prompting you to rub it as a child? I distinctly remember doing so, and vividly recall a day when I saw one of my siblings doing the same. On that day, I also realized that anger provided relief from the pain in that sore spot, and remember being rather upset about something unrelated to my sibling. As my sibling rubbed the spot, I remember thinking that being angry seemed better than the state I had been stuck in, with that spot being sore, my chin gone, and conflict persisting within the family.
+And do you recall this spot being sore, prompting you to rub it as a child? I distinctly remember doing so, and vividly recall a day when I saw one of my siblings doing the same. On that day, I also realized that anger provided relief from the pain in that sore spot, and remember being rather upset about something unrelated to my sibling. As my sibling rubbed the spot, I remember thinking that being angry seemed better than the state I had been stuck in, with that spot being sore and my chin no longer providing feedback sensations.
 
 
 
