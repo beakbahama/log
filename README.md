@@ -8,7 +8,7 @@
 - 🔗 [**Clown Party**](https://clownparty.org) - A global party for all to live amazing, including cats and dogs.
 
 
-## Works in Progress
+## Posts in Progress
 > Still evolving, but valuable in their current state. Feedback is welcome.
 - [**The explanation for why humans have chins**](docs/chins.md): A tool to avoid conflict, foster group cohesion, and help build the ability to think deeply.
 <!-- - [**The explanation for why there is exsitence**](docs/existence.md): And how it all happened. -->
