@@ -1,18 +1,17 @@
 > [!NOTE]  
-> - This document is an early release draft and a work in progress. I’m sharing it early because it already contains important information, and to motivate myself to continue working on it, as it has proven a more involved effort than first anticipated.  
-> - Spot any issues, errors, omissions, or see anything that doesn't make sense? More importantly, do you see anything that resonates with you? Send me an email at m@whomanatee.org.  
-> - *Last major update:* [2024-10-07](#updates)  
+> - This document is a work in progress. I’m sharing it because it contains important information, and to motivate myself to continue working on it, as it has proven to be an involved effort.
+> - Spot any issues, errors, omissions, or see anything that doesn't make sense? More importantly, do you see anything that resonates with you? Feedback is welcomed at m@whomanatee.org
+> - *Last major update:* [2024-10-07](#updates)
 
+# The explanation for why humans have chins: A tool to avoid conflict, foster group cohesion, and help build the ability to think deeply
 
+> The chin is the only uniquely human physical feature.
 
-# When was the last time you felt any sensations in your chin, particularly a tingle? The chin is the only uniquely human physical feature. I'll show you how to feel your chin again, or maybe for the first time
+> When was the last time you felt any sensations in your chin, particularly a tingle? I'll show you how to feel your chin again, or maybe for the first time.
 
-or  
-# The human chin: Its role in preventing conflict, promoting problem-solving and cooperation, building mental resilience, fostering deep thought, and sparking creative ideas
+> Also in this document, healing the brain and body from childhood stress-induced inflammation.
 
-or
-# Healing the brain and body from childhood stress-induced inflammation to create a world without fear, anger, hatred, division, and conflict, focused instead on harmony, prosperity, and joy for all
-
+> And also, leveraging the chin to create a world without debilitating fear, anger, hatred, and conflict.
 
 
 ## Table of Contents
