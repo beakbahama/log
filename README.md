@@ -3,9 +3,9 @@
 
 ## Amazing Projects
 > Focused on making the world amazing for everyone ASAP.
-- 🔗 [**World Amazing**](https://worldamazing.org) - A proposal to fix our issues and get the world amazing for everyone, including your mom.
-- 🔗 [**World Word War I**](https://worldwordwar.org) - A conversation of words for amazing and fun.
-- 🔗 [**Clown Party**](https://clownparty.org) - A global party for all to live amazing, including cats and dogs.
+- 🔗 [**World Amazing**](https://worldamazing.org) - A proposal to fix our issues and get the world amazing for everyone, including you and your mom.
+- 🔗 [**World Word War I**](https://worldwordwar.org) - A global conversation of words, including truth, growth, family, freedom, respect, love, amazing, and fun.
+- 🔗 [**Clown Party**](https://clownparty.org) - A global party framework for all to live amazing, including cats and dogs.
 
 
 ## Posts in Progress
