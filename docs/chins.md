@@ -1,5 +1,5 @@
 > [!NOTE]  
-> - This document is a work in progress. I’m sharing it because it already has some important information, and to motivate myself to continue working on it, as it has proven to be an involved effort.
+> - This document is a work in progress. I’m sharing it because it already has important information, and to motivate myself to continue working on it, as it has proven to be an involved effort.
 > - Spot any issues, errors, omissions, or see anything that doesn't make sense? More importantly, do you see anything that resonates with you? Feedback is welcomed at m@whomanatee.org
 > - *Last major update:* [2024-10-07](#updates)
 
