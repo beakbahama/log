@@ -5,7 +5,7 @@
 
 > The main things I'm working on are understanding the true nature of existence, addressing and healing humanity's millennia of collective suffering, and fostering [world amazing](https://worldamazing.org).
 
-> I've created an [RSS feed](https://raw.githubusercontent.com/beakbahama/log/refs/heads/main/feed.xml) if you want to keep up with bigger updates only instead of watching every change to this repo. And if you've never used RSS or are looking for a reader, you can check out the in browser extension [Feedbro](https://nodetics.com/feedbro/), or use something standalone like [Inoreader](https://www.inoreader.com) or [Feedly](https://feedly.com/).
+> I've created an [RSS feed](https://raw.githubusercontent.com/beakbahama/log/refs/heads/main/feed.xml) if you want to keep up with significant updates and new posts. And if you've never used RSS or are looking for a reader, you can check out the in browser extension [Feedbro](https://nodetics.com/feedbro/), or use something standalone like [Inoreader](https://www.inoreader.com) or [Feedly](https://feedly.com/).
 
 > Catch me outside for a chat about anything on this log.
 
