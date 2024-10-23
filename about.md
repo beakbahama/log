@@ -15,6 +15,6 @@
 
 ---
 [home](https://github.com/beakbahama/log/blob/main/README.md)
-| [about](/docs/about.md)
+| [about](/about.md)
 | [rss](https://raw.githubusercontent.com/beakbahama/log/refs/heads/main/feed.xml)
 | [contact](mailto:m@whomanatee.org) 
