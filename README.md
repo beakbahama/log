@@ -3,16 +3,17 @@
 
 ## Amazing Projects
 > Focused on making the world amazing for everyone ASAP.
-- 🔗 [**World Amazing**](https://worldamazing.org) - A proposal to fix our issues and get the world amazing for everyone, including you and your mom.
-- 🔗 [**World Word War I**](https://worldwordwar.org) - A global conversation of words, including truth, growth, family, freedom, respect, love, amazing, and fun.
-- 🔗 [**Clown Party**](https://clownparty.org) - A global party framework for all to live amazing, including cats and dogs.
 
+- [**World Amazing**](https://worldamazing.org) - A proposal to get the world amazing for everyone, including you and your mom.  
+- [**World Word War I**](https://worldwordwar.org) - A global conversation of words, including truth, growth, family, freedom, respect, love, amazing, and fun.  
+- [**Clown Party**](https://clownparty.org) - A global party framework for all to live amazing, including cats and dogs.  
 
-## Posts in Progress
-> Still evolving, but valuable in their current state. Feedback is welcome.
-- [**The explanation for why humans have chins**](docs/chins.md): A tool to avoid conflict, foster group cohesion, and help build the ability to think deeply.
-<!-- - [**The explanation for why there is exsitence**](docs/existence.md): And how it all happened. -->
-
+<!--
+## Explanations
+> My attempts at explaining things. Feedback is welcomed.
+- [**Why there is existence**](docs/existence.md): Including the how.
+- [**Why humans have chins**](docs/chins.md): A tool that helps avoid conflict, foster group cohesion, and build the ability to think deeply.
+-->
 
 ## About
 > Greetings fellow human or robot reading this. Welcome to my log, a public place for me to share my 💩. You can think of it as a partial dump of what's been on my mind.
@@ -24,5 +25,7 @@
 > I've created an [RSS feed](https://raw.githubusercontent.com/beakbahama/log/refs/heads/main/feed.xml) if you want to keep up with bigger updates only instead of watching every change to this repo. And if you've never used RSS or are looking for a reader, you can check out the in browser extension [Feedbro](https://nodetics.com/feedbro/), or use something standalone like [Inoreader](https://www.inoreader.com) or [Feedly](https://feedly.com/).
 
 > Catch me outside for a chat about anything on this log.
+
+> And since you've made it this far, if compelled, check out the source code for this file to see things I'm currently working on.
 
 > Hope to holla!
