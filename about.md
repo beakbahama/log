@@ -9,8 +9,6 @@
 
 > Catch me outside for a chat about anything on this log.
 
-> And since you've made it this far, if compelled, check out my [docs](/docs) folder to see things I'm currently working on.
-
 > Hope to holla soon!
 
 ---
