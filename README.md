@@ -1,9 +1,6 @@
-# 💩 MY PERSONAL PUBLIC LOG
-> Proceed with caution and an open mind.
+# 💩 log of M~
 
-- [world amazing](https://worldamazing.org) - a proposal to get the world amazing for everyone, including working less, creating more, living luxurious, and feeling amazing
-<!--- [why is there existence?](docs/existence.md): an answer inside 
-- [why humans have chins?](docs/chins.md): an answer inside-->
+- [World Amazing](https://worldamazing.org) - a proposed framework to get the world amazing for everyone, including working less, creating more, living luxurious, and feeling amazing
 
 ---
 [home](https://github.com/beakbahama/log/blob/main/README.md)
