@@ -1,6 +1,7 @@
 # 💩 log of M~
 
-- [World Amazing](https://worldamazing.org) - a proposed framework to get the world amazing for everyone, including working less, creating more, living luxurious, and feeling amazing
+## /docs
+- [World Amazing: A Very Practical, Measured, and Doable Plan to Make Life Amazing for All](/docs/world-amazing.md)
 
 ---
 [home](https://github.com/beakbahama/log/blob/main/README.md)
