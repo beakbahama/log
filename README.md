@@ -11,7 +11,8 @@
 > - **English**: em  
 > - **Spanish**: em-meh (or eh-meh)  
 > - **French**: em  
-> - **German**: emm  
+> - **German**: emm
+> - **Latin**: em-meh  
 > - **Arabic**: م (meem), or إم (im/em)  
 > - **Hebrew**: מ (mem)  
 > - **Greek**: Μ (mi)  
