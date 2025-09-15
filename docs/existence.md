@@ -847,7 +847,7 @@ It is: **"Now that existence is understood, what will we choose to create with t
 This document has laid bare the foundational, causal principles of observable existence. The understanding is now in place. The great and exciting work ahead for humanity—for physicists, mathematicians, computer scientists, and thinkers of all kinds—is the full and rigorous **articulation** of this new reality.
         
 This involves:
-- Developing the precise mathematical models that describe the dynamics of 'Movement,' 'looped light,' and the '$A_{cosmic}$' program.
+- Developing the precise mathematical models that describe the dynamics of 'Movement,' 'looped light,' and the $A_{cosmic}$ program.
 - Showing quantitatively how these models reproduce the known successful descriptions of reality (Newton's local gravity, QM formalism, etc.).
 - Building computational simulations to explore the emergent complexity of this simple foundation, from galaxy formation to the neurodynamics of consciousness.
 
