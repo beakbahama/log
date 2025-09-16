@@ -11,8 +11,6 @@
 ## ABOUT ME
 > Greetings, fellow human reading this, natural or synthetic. Welcome to my log, a public place for me to share what I've been thinking about.
 >
-> Have any questions, comments, concerns, feedback, memes, or just want to say something that might make both of us think? You can [email me](mailto:m@worldamazing.org) or post in the [discussions](https://github.com/beakbahama/log/discussions).
->
 > If you're wondering what to call me, these days I go by **M**, short for my given name. I usually write it as **M~**.
 >  
 > As for how to say it, I invite you to pronounce it in any tongue — unless you speak a language that lacks an **M** sound, such as Rotokas (Papua New Guinea), Xóõ (Taa/Botswana), Pirahã (Amazon), Klingon (Space), or Toki Pona (Earth):
@@ -58,6 +56,9 @@
 > - **Hausa**: M (em)  
 > - **Amharic**: ም (mə)  
 >
-> *I also go by my given name in its original and full pronounciation.*
+> *I also go by my given name in its original and full pronunciation.*
 > 
 > Holla!
+
+## CONTACT ME
+> Have any questions, comments, concerns, feedback, memes, or just want to say something that might make both of us think? You can [email me](mailto:m@worldamazing.org) or post in the [discussions](https://github.com/beakbahama/log/discussions).
