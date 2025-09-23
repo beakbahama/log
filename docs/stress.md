@@ -4,7 +4,7 @@
 > *This is a living document and is still under active development.*
 >
 > *It is still being updated with:*
-> - *More details (both personal and general) and completing remaining `[TODOs]`*
+> - *More details (both personal and general)*
 > - *Deeper connections to our existing knowledge of the human body and mind*
 > - *Pictures and diagrams that show what is being explained*
 > - *Language to ensure everything is said with concern and care for everyone, with no one feeling marginalized, and everyone feeling empowered*
