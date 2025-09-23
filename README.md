@@ -1,5 +1,4 @@
 # 💩 THE LOG OF M~
-> A place for me to share my 🧠 and 💩. Check out my [GitHub Profile](https://github.com/beakbahama) for more info about me. *Holla!*
 
 ## DOCS
 - [**The Explanation for Existence**](docs/existence.md) - *This explanation doesn’t ask you to believe anything. It starts at the beginning — the real beginning — and walks forward with no foundational gaps and no guesses. What emerges isn’t a theory, but the only structure that could exist.*
