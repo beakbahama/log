@@ -496,9 +496,10 @@ This understanding eliminates the need for an initial singularity. The origin of
 Observations of distant supernovae show that the recession of galaxies is accelerating. In "this explanation," this is a direct feature of the $A_{cosmic}$ program. However, unlike standard models which posit a constant or even growing "dark energy," this framework makes a different prediction based on the principle that the initial energy from the tornado must dissipate its influence over time.
 
 The $A_{cosmic}$ profile is one of **accelerating acceleration with a decreasing "jerk."** This means:
-    * Galaxies are currently accelerating away from each other (their velocity is increasing).
-    * The rate at which they are accelerating is also currently increasing.
-    * However, the *rate of this increase in acceleration* (the "jerk") is itself **gradually slowing down.**
+- Galaxies are currently accelerating away from each other (their velocity is increasing).
+- The rate at which they are accelerating is also currently increasing.
+- However, the *rate of this increase in acceleration* (the "jerk") is itself **gradually slowing down.**
+
 This offers a unique, long-term, and falsifiable prediction that distinguishes "this explanation" from standard cosmology.
 
 ### The Structure of $A_{cosmic}$: Seeds of Cosmic Order
@@ -507,9 +508,9 @@ Crucially, the ejection from the Primordial Tornado was not a perfectly smooth, 
 This structured outflow of "Movement" contains vast, coherent **vortices, currents, and flow patterns** on multiple scales. These are not separate phenomena. They are the very texture of the $A_{cosmic}$ kinematic program.
 
 This inherent structure is the key to understanding the order we see in the cosmos. For instance:
-    * On the largest scales, these flows mapped out the **cosmic web** of filaments and voids.
-    * On galactic scales, large **$A_{cosmic}$ vortices** provided the initial angular momentum and coherent flow that gathered "looped light" into spinning galaxies. This directly explains the observation of flat galaxy rotation curves—one of the primary pieces of evidence for "dark matter"—without needing any unseen substance. The stars are simply following the pre-ordained flow lines of this vast, kinematic vortex.
-    * On local scales, the correlated $A_{cosmic}$ trajectories of stars and planets dictate the "choreography" of their apparent orbits and the kinematic effects we misinterpret as the "force of gravity."
+- On the largest scales, these flows mapped out the **cosmic web** of filaments and voids.
+- On galactic scales, large **$A_{cosmic}$ vortices** provided the initial angular momentum and coherent flow that gathered "looped light" into spinning galaxies. This directly explains the observation of flat galaxy rotation curves—one of the primary pieces of evidence for "dark matter"—without needing any unseen substance. The stars are simply following the pre-ordained flow lines of this vast, kinematic vortex.
+- On local scales, the correlated $A_{cosmic}$ trajectories of stars and planets dictate the "choreography" of their apparent orbits and the kinematic effects we misinterpret as the "force of gravity."
 
 **A full, detailed reinterpretation of galactic dynamics, celestial orbits, and all other phenomena currently attributed to the "force of gravity" will be presented in a following section on gravity.** For now, it is essential to understand that the structured, vortical nature of $A_{cosmic}$ is not an incidental detail. It is the fundamental reason for the coherent, large-scale motion and structure of our universe.
 
