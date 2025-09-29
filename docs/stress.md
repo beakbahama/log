@@ -340,7 +340,7 @@ This is why my attempts to communicate with her about the pain in my head were s
 
 But in this instance, the pattern broke. I remember telling her that the spot on my head hurt badly, and that her actions during stressful situations seemed to make it worse. The response was not one of comfort. **Coming from a place of her own deep, unexpressed pain and stress,** her words felt like a threat. I recall her saying something to the effect of, "So it hurts your head when I talk to you \[during times of stress\]? Good! I'm going to use that to press on your head!"
 
-The shock of this was compounded moments later when one of my siblings said something like, "You told her?!", implying that this was a known vulnerability, a secret that I had just shared, letting our mother know that her words could cause us pain. 
+The shock of this was compounded moments later when one of my sisters said something like, 'You told her?!' Her terrified, and upset, reaction immediately signaled that I had broken an unspoken rule. I had revealed a known vulnerability, a 'secret' that she had already learned must be kept from our mother, lest she use it as a tool to enforce compliance or control, or to simply use it as an act of vengeance to cause us pain for perceived transgressions against her.
 
 This interaction was a pivotal moment. It was a direct demonstration of how a dysregulated caregiver, not necessarily without care, but one caught in their own stress patterns, can become a source of threat rather than safety. The plea for co-regulation was met with an action that deepened the dysregulation. It is a stark example of a common tragedy in group dynamics: when people are stressed, they will stress others, perpetuating the cycle of a locked and painful system.
 
