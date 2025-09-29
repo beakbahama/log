@@ -310,7 +310,7 @@ This tactile reality was seemingly a shared, unspoken experience in my family. I
 At the time, I didn't understand the full implication. Now, I see it as a profound, real-time observation of a tragic physiological shift. She was directly witnessing the physical evidence of her children's nervous systems becoming locked in a state of chronic tension. The "soft," pliable state of a regulated system, where the "little bulb" was likely movable, was being replaced by the "hard," rigid tissue of a body stuck in a permanent defense posture. It is a powerful, firsthand corroboration of how this system becomes dormant in childhood.
 
 ### The Breakdown of the System: Anger as a Defense
-When the "pop" point does not release, the system becomes stuck in a painful, unresolved state. The focal point of tension on the head ceases to be a potential source of relief and instead becomes a chronic **sore spot.** I have a distinct memory of this soreness as a child, an ache that prompted me to instinctively rub the spot for relief, even when my mother would tell me to stop.
+When the "pop" point does not release, the system becomes stuck in a painful, unresolved state. The focal point of tension on the head ceases to be a potential source of relief and instead becomes a chronic **sore spot.** I have a distinct memory of this soreness as a child, an ache that prompted me to instinctively rub the spot for relief. I recall my mother telling me to stop, likely seeing it as a nervous habit without understanding the deep, physical need behind it.
 
 I vividly recall a day when I saw one of my siblings rubbing the exact same sore spot. It was a silent, powerful confirmation between us that this was a shared reality—that the spot was sore, and that rubbing it provided a measure of relief.
 
@@ -338,7 +338,7 @@ To understand the social nature of this system, one must understand the role of 
 
 This is why my attempts to communicate with her about the pain in my head were so crucial. It was an instinctive plea for that co-regulation. Telling her about my pain was the only tool I had, a continuation of a pattern where I would report a problem and she would help resolve it.
 
-But in this instance, the pattern broke. I remember telling her that the spot on my head hurt badly, and that her actions during stressful situations seemed to make it worse. The response was not one of comfort, but of threat. I recall her saying something to the effect of, "So it hurts your head when I talk to you \[during times of stress\]? Good! I'm going to use that to press on your head!"
+But in this instance, the pattern broke. I remember telling her that the spot on my head hurt badly, and that her actions during stressful situations seemed to make it worse. The response was not one of comfort. **Coming from a place of her own deep, unexpressed pain and stress,** her words felt like a threat. I recall her saying something to the effect of, "So it hurts your head when I talk to you \[during times of stress\]? Good! I'm going to use that to press on your head!"
 
 The shock of this was compounded moments later when one of my siblings said something like, "You told her?!", implying that this was a known vulnerability, a secret that I had just shared, letting our mother know that her words could cause us pain. 
 
