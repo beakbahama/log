@@ -19,9 +19,7 @@
 > 
 > This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—is not speculation. It is **lived anatomy**, recovered through experience and confirmed through physical proof.
 >
-> Where this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable, testable, and repeatable.
->
-> The physical proof for my personal claims is my own body, and I am prepared to submit my testimony to rigorous public inquiry. The ultimate validation of this framework, however, will come from your own direct experience.
+> Where this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable, testable, and repeatable. The physical proof for my personal claims is my own body, and I am ready and eager to submit my testimony to rigorous public inquiry. The ultimate validation of this framework, however, will come from your own direct experience of your own body and memories.
 > 
 > *As required and expected of such public statements, I am ready to submit my own body to human understanding, not in a weird way where I have to take my clothes off, but in the kind of way where I can keep my clothes on.*
 
@@ -738,18 +736,16 @@ This is the ultimate dividend of a healed world. While it is impossible to predi
 ## The Bridge to a New World: From a Regulated System to a Sane Society
 The principles and mechanics of the Stress Response System are not just a matter of individual health and well-being. They are the physiological foundation upon which a sane and cooperative society can be built. The journey of restoring our own nervous systems is the necessary "bottom-up" work that makes any "top-down" societal change possible and sustainable.
 
-The conclusions we have reached by analyzing the SRS—that our current world is built on a foundation of physiological dysregulation, and that a healed world requires a bedrock of safety, truth, and time—are not isolated insights. They are the core principles of a larger, comprehensive framework for societal transformation known as the **World Amazing Plan.**
-
-This document, the map of the SRS, is the "how." The World Amazing Plan is the "what." One provides the manual for restoring the individual human operating system; the other provides the blueprint for the global social operating system that a healed humanity would naturally choose to build.
+The conclusions drawn from the SRS point to an undeniable truth: **for widespread healing to occur, societal structures themselves must be redesigned.** A world that keeps its people in a state of chronic exhaustion and fear of survival is a world that mechanically prevents the restoration of this system. Therefore, true, collective healing requires a societal commitment to providing the two non-negotiable prerequisites for a regulated nervous system: **Time and Safety.**
 
 ### The Second-Order Social Loop: Herd Immunity for Stress
-The connection between these two is not linear; it is exponential. The healing of one individual does not just add one "healed person" to the world. It introduces a powerful regulating force into the entire social network. This is the **"second-order social loop."**
+The healing of one individual does not just add one "healed person" to the world. It introduces a powerful regulating force into the entire social network. This is the **"second-order social loop."**
 
 An individual with a reactivated and regulated SRS becomes a **node of safety and co-regulation** for others. Their own internal state of parasympathetic calm is contagious. Through their presence, their non-reactive communication, and their capacity to hold difficult truths without judgment, they create a small pocket of the safe environment that is the prerequisite for healing.
 
 As more and more individuals come "online" in this way, these pockets of safety begin to connect. A critical mass is eventually reached where the dominant environmental signal shifts from "threat" to "safety." This creates a self-propagating, virtuous cycle—a form of **herd immunity to chronic stress and dysregulation.**
 
-This is the mechanical explanation for how the "Global Discussion" proposed in the World Amazing Plan can lead to a rapid, non-linear societal shift. It is not just a conversation; it is a process of mass co-regulation. The healing of one person makes it easier for the next person to heal, and the healing of a community creates the conditions for a nation to heal. The bridge to a new world is built one regulated nervous system at a time.
+The healing of one person makes it easier for the next person to heal, and the healing of a community creates the conditions for a nation to heal. The bridge to a new world is built one regulated nervous system at a time.
 
 
 ## Becoming a "First Aid Kit for Clarity"
@@ -824,4 +820,3 @@ The ultimate proof of this system will not be found in these pages, but within t
 
 ## Appendix C: A Glossary of Reinterpreted Concepts
 > *TODO: This will be an A-Z list of key terms (Anger, Chin, Cooperation, Shame, etc.) providing both their conventional meaning and their new, more precise meaning within the SRS framework. This will serve as a quick reference to reinforce the document's core principles.*
-
