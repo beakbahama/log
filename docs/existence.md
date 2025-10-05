@@ -35,11 +35,11 @@
 
 > [!NOTE]
 >
-> **A Note on Scope and Certainty**
+> **On Scope and Certainty**
 > 
 > This document does not claim to answer every conceivable question, but it does claim to answer the **fundamental** ones. It establishes the foundational root of existence from which, in principle, any observed phenomenon can be explained. The sheer breadth and simplicity of this framework are central to its claim: it whittles reality down to a singular, observable foundation and shows how all known observations emerge from it without resorting to unobservable constructs. The argument is that any alternative explanation would necessarily be more complex, less unified, or would fail to account for all observations, making the truth of this one a matter of logical near-necessity.
 >
-> However, it is crucial to distinguish between explaining the **rules of the system** and calculating the **statistical outcomes** of that system. This explanation demonstrates that life is a natural outcome of the fundamental nature of existence. It makes no claim, however, on the specific *probability* of life emerging on any given world, or the likelihood of complex beings like birds or mammals arising. Those questions of probability remain open and exciting frontiers for exploration, to be investigated *within* this now-understood framework.
+> However, it is crucial to distinguish between explaining the **rules of the system** and calculating the **statistical outcomes** of that system. For example, this explanation demonstrates that life is a natural outcome of the fundamental nature of existence. It makes no claim, however, on the specific *probability* of life emerging on any given world, or the likelihood of complex beings like birds or mammals arising. Those questions of probability remain open frontiers for exploration, to be investigated within this now-understood framework.
 
 
 > [!TIP]
@@ -52,7 +52,7 @@
 
 
 > [!NOTE]
-> *This is a living document and is still under development. Feedback is welcome via [discussions](https://github.com/beakbahama/log/discussions) or [email](mailto:m@worldamazing.org). Meaningful contributions will be acknowledged and attributed.*
+> *This is a living document and is still under development.*
 
 
 ## Table of Contents
