@@ -17,9 +17,13 @@
 > [!IMPORTANT]
 > ### A Note on the Nature of this Document
 > 
-> *This is a firsthand account of human stress recovery, grounded in direct physical evidence and deep reasoning. It is not speculation. It is lived anatomy—recovered through experience, confirmed through physical proof, and partially documented in real-time. While some mechanisms are reconstructed through inference, the core system is observable, testable, and repeatable.*
+> This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—is not speculation. It is **lived anatomy**, recovered through experience and confirmed through physical proof.
 >
-> *As required and expected of such public statements, I am ready to submit my body to human understanding, not in a weird way where I have to take my clothes off, but in the kind of way where I can keep my clothes on.*
+> Where this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable, testable, and repeatable.
+>
+> The physical proof for my personal claims is my own body, and I am prepared to submit my testimony to rigorous public inquiry. The ultimate validation of this framework, however, will come from your own direct experience.
+> 
+> *As required and expected of such public statements, I am ready to submit my own body to human understanding, not in a weird way where I have to take my clothes off, but in the kind of way where I can keep my clothes on.*
 
 
 > [!IMPORTANT]
@@ -27,7 +31,7 @@
 > ### A Bridge Between Lived Experience and Human Knowledge
 > While the experience detailed here is personal, the system it describes is not built from scratch. It is a new, unifying understanding of how ancient biological mechanisms—many of which are well-documented—integrate and function as a whole. This includes the autonomic nervous system that governs our stress states and the web of connective tissue (fascia) that communicates tension across our entire body.
 >
-> What is novel in this work is the **mapping I have done** of this integrated system. This includes **my identification** of a major stress release point in the head (a mechanism likely shared by many complex animals) and **my discovery** of the chin's true function as the uniquely human sensory interface for this system. This document seeks to connect lived experience with established knowledge, using the name Stress Response System (SRS) for this integrated whole.
+> What is novel in this work is the mapping I have done of this integrated system. This includes my identification of a major stress release point in the head (a mechanism likely shared by many complex animals) and my discovery of the chin's true function as the uniquely human sensory interface for this system. This document seeks to connect lived experience with established knowledge, using the name Stress Response System (SRS) for this integrated whole.
 
 
 ## Table of Contents
