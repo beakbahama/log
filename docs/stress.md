@@ -94,7 +94,7 @@ The chin is the one physical structure that is uniquely ours. Humanity has long 
 
 The SRS operates through observable mechanics. A powerful **master reset switch** on the head, a focal point of tension likely shared with many species, triggers a full-body release from the "fight-or-flight" state. This ancient hardware is complemented by the **uniquely human chin**, which functions as a delicate **biofeedback gauge.** Following a stress release, the chin provides a subtle tingling sensation—a physical reward for having resolved a conflict not through raw reaction, but through the cooperative insight that is the hallmark of our higher consciousness.
 
-This document is the comprehensive guide to this integrated system. It is a firsthand account of its rediscovery, a map of its mechanics—from the fascial armor that anchors tension in our feet to the relieving "pop" in the head and the rewarding tingle in the chin—and an exploration of the profound implications of reawakening it. The central premise of this work is that in restoring this system, we do not just heal ourselves, we reclaim the very physiological foundation of what it means to be human.
+This document is the comprehensive guide to this integrated system. It is a firsthand account of its rediscovery, a map of its mechanics—from the fascial armor that anchors tension in our feet to the relieving "pop" in the head and the rewarding tingle in the chin—and an exploration of the profound implications of reawakening it. The central premise of this work is that in restoring this system, we do not just heal ourselves, reclaiming the very physiological foundation of what it means to be human.
 
 
 ---
@@ -554,18 +554,6 @@ These are not signs of health; they are highly refined and socially rewarded sur
 ---
 **Part 4: The Path to Reactivation - A Manual for Restoration**
 
-## From Regulation to Restoration: The Goal is Not Calm, But Capacity
-> *TODO: This new introductory section will clarify the unique nature of this physical work, distinguishing it from existing therapies using the following logic:
-> 
-> - Frame most existing modalities as brilliant 'software patches' designed to manage a dysregulated system.
-> - Frame the methodology in this document as a 'firmware flash'—a deep, physical process to **restore the original operating system.** The goal is total restoration.
-> - Acknowledge that the novelty lies in the systematic and sometimes "superficially aggressive" approach required to break down the physical armor of a locked system.
-> - Conclude by framing the ultimate goal: not just the absence of pain, but the restoration of the body to its **peak biomechanical potential**—a state of profound elasticity, power, and integrated movement.
->
-
-
-> [TODO: This new introductory section will clarify the unique nature of this physical work, distinguishing it from existing therapies. It will frame the goal not just as regulation, but as a total restoration of the body to its peak biomechanical potential.]
-
 ## From Regulation to Restoration: A New Paradigm for Healing
 > *TODO: Add a new introductory section to Part 4 that clarifies the unique nature of this physical work. It will distinguish it from existing therapies using the following logic:*
 >
@@ -640,7 +628,7 @@ My own exploration has revealed this physical armor to be systemic, a head-to-to
 The rest of this section details my progress in addressing some of these key anchor points.
 
 
-### Pogress on the Biofeedback Gauge: The Chin and Facial Tissue
+### Progress on the Biofeedback Gauge: The Chin and Facial Tissue
 The reactivation of the chin has been a slow but steady process. After beginning the intensive physical work on my head in late 2020, the first subtle chin sensations began to return. By late 2024, I could feel a near-daily connection to it. As of late 2025, the sensations are much deeper, and I have been able to significantly soften the hardened tissue all along my jawline and around the chin itself. It is also worth noting that tingling sensations are not only a result of cognitive shifts. They often occur in real-time **while actively working on the pop point on the head**, arising moments later in the chin or other key anchor points, confirming the direct physical link across the network.
 
 This process has revealed a fascinating insight into the function of facial hair. As an adult with a beard, it became clear that the hair serves as a natural handle for gently but firmly stretching the underlying fascia. This required extreme care initially; the tissue is often very dense, and pulling too hard too soon can result in hair being pulled out or **breaking at the base of the skin, creating a stubble.** Today, as a result of the decreased inflammation, the skin is far more elastic, and it is rare that any hairs break even with firm pulling—a tangible, physical metric of healing.
@@ -656,7 +644,7 @@ This phenomenon is not limited to my beard. I have noticed a similar correlation
 > This insight is strikingly mirrored in the behavior of other primates. In many nature documentaries, one can observe a common post-conflict ritual. After a dominant baboon, for instance, has been in a stressful encounter, other members of the group will meticulously groom them, pulling and picking at their fur and skin. This is often interpreted as a purely social bonding or cleaning activity. The SRS framework suggests a more profound, mechanical purpose: **it is a form of communal somatic therapy.** The other baboons are actively helping to release the fascial adhesions and inflammation built up during the fight-or-flight response, a process facilitated by pulling on the hair. This suggests that mutual grooming is not just social, but a deeply ingrained, physiological co-regulation practice.
 
 
-### Pogress on the Master Reset Switch: The "Pop" Point
+### Progress on the Master Reset Switch: The "Pop" Point
 The journey to release the primary "pop" point is, in many ways, the central narrative of this physical healing process. While I have not yet experienced the full, cascading release that I recall from childhood, the progress in loosening this core anchor of systemic tension provides a clear and realistic roadmap for the long-term nature of this work.
 
 #### The Initial Discovery: From Annoyance to Insight
