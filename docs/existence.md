@@ -2,8 +2,6 @@
 > Since humans first started questioning, we have long pondered the reason for the things around us. Why do things exist? Where do the planets come from? Where does existence itself come from? Is there a creator? Did this all come from nothing? Is nothing possible?
 >
 > Humanity has developed philosophies, religions, and the scientific method in this pursuit, yet no singular framework has emerged that can explain everything without leaving fundamental questions unanswered, including the ultimate question: *But, why?*
->
-> No field of human inquiry has yet laid claim to a total, self-contained explanation for existence.
 > 
 > The explanation provided within this document aims to change this by answering *Why?* And, in doing so, leaving no fundamental gaps in our understanding of reality. It presents a comprehensive, logically unified, and non-contradictory understanding of observable existence.
 >  
