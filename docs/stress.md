@@ -1,17 +1,12 @@
 # The Stress Response System and Human Chin: Rediscovering the Anatomy of Human Cooperation and Healing
 
 > [!NOTE]
-> ### Early Release Preview
->
-> *This is a living document and is still under active development.*
->
-> *It is still being updated with:*
+> 
+> *This is a living document and is still being updated with:*
 > - *More details (both personal and general)*
 > - *Deeper connections to our existing knowledge of the human body and mind*
 > - *Pictures and diagrams that show what is being explained*
-> - *Language to ensure everything is said with concern and care for everyone, with no one feeling marginalized, and everyone feeling empowered*
->
-> *All help and insight is greatly appreciated. Feedback is welcome via [discussions](https://github.com/beakbahama/log/discussions) or [email](mailto:m@worldamazing.org). Meaningful contributions will be acknowledged and attributed. Any personal details shared privately will be used with your permission only.*
+> - *Language to ensure everything is said with concern and care for everyone*
 
 
 > [!IMPORTANT]
@@ -20,8 +15,6 @@
 > This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—is not speculation. It is **lived anatomy**, recovered through experience and confirmed through physical proof.
 >
 > Anywhere this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable, testable, and repeatable. The physical proof for my personal claims is my own body, and I am ready and eager to submit my testimony to rigorous public inquiry. The ultimate validation of this framework, however, will come from your own direct experience of your own body and memories.
-> 
-> *As required and expected of such public statements, I am ready to submit my own body to human understanding, not in a weird way where I have to take my clothes off, but in the kind of way where I can keep my clothes on.*
 
 
 > [!IMPORTANT]
