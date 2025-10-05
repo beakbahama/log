@@ -96,7 +96,7 @@ The chin is the one physical structure that is uniquely ours. Humanity has long 
 
 The SRS operates through observable mechanics. A powerful **master reset switch** on the head, a focal point of tension likely shared with many species, triggers a full-body release from the "fight-or-flight" state. This ancient hardware is complemented by the **uniquely human chin**, which functions as a delicate **biofeedback gauge.** Following a stress release, the chin provides a subtle tingling sensation—a physical reward for having resolved a conflict not through raw reaction, but through the cooperative insight that is the hallmark of our higher consciousness.
 
-This document is the comprehensive guide to this integrated system. It is a firsthand account of its rediscovery, a map of its mechanics—from the fascial armor that anchors tension in our feet to the relieving "pop" in the head and the rewarding tingle in the chin—and an exploration of the profound implications of reawakening it. The central premise of this work is that in restoring this system, we do not just heal ourselves, reclaiming the very physiological foundation of what it means to be human.
+This document is the comprehensive guide to this integrated system. It is a firsthand account of its rediscovery, a map of its mechanics—from the fascial armor that anchors tension in our feet to the relieving "pop" in the head and the rewarding tingle in the chin—and an exploration of the profound implications of reawakening it. The central premise of this work is that in restoring this system, we do not just heal ourselves, we reclaim the very physiological foundation of what it means to be human.
 
 
 ---
