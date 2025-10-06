@@ -96,7 +96,7 @@ This biofeedback gauge is part of a larger physiological network. A focal point 
 
 This document is a map of direct, lived anatomy, drawn from recovered childhood memories and the ongoing process of my own physical restoration. It is a firsthand account providing direct evidence for the claims presented.
 
-What follows is my firsthand account of how I rediscovered this system in my own body followed by a comprehensive guide to this system, from the fascial armor that anchors tension in our feet to the mechanics of the pop and the tingle. The central premise of this work is that in restoring this system, we do not just heal ourselves, we reclaim the very physiological foundation of what it means to be human.
+What follows is my firsthand account of how I rediscovered this system in my own body followed by a comprehensive guide to this system, from the fascial armor that anchors tension in our feet to the mechanics of the pop and the tingle.
 
 
 ---
