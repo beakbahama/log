@@ -13,7 +13,7 @@
 > [!IMPORTANT]
 > ### A Note on the Nature of this Document
 > 
-> This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—is not speculation. It is **lived anatomy**, recovered through experience and confirmed through physical proof.
+> This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—are all firsthand experiences and not speculation. It is lived anatomy.
 >
 > While the experience is personal, the system it describes is not built from scratch. This document seeks to connect this lived experience with established knowledge, creating a new, unifying understanding of how ancient biological mechanisms (like the autonomic nervous system and fascia) integrate and function as a whole.
 >
@@ -29,11 +29,9 @@
 >
 > The answer lies not in a failure of science. Our scientific approach is masterful at observing the external, the material, and the quantifiable. We can map the bones, sequence the genes, and measure the chemical reactions.
 >
-> However, this system's key components are not purely material. They are **informational and experiential.** The system's function is revealed not in a static dissection, but in the **dynamic, lived process** of stress and its resolution.
+> However, this system's key components are not purely material. They are **informational and experiential.** The system's function is revealed in the dynamic, lived process of stress and its resolution. For example, an external observer can measure the chin bone, but they cannot measure the *feeling* of it providing a cognitive reward. The reason this discovery was missed is therefore not that we were looking in the wrong place. It is because the data stream itself went silent in early childhood. The system became locked, the sensations ceased, and the conscious memory of them ever existing faded into a collective amnesia. The data wasn't just hidden in our subjective experience. It was buried collectively.
 >
-> These are phenomena of "lived anatomy." They exist in the realm of first-person experience. An external observer with a caliper can measure the bone of the chin, but they cannot measure the *feeling* of it providing a cognitive reward. The reason this discovery was missed is not that we were looking in the wrong place. It is because the data stream itself went silent in early childhood. The system became locked, the sensations ceased, and the conscious memory of them ever existing faded into a collective amnesia. The data wasn't just hidden in our subjective experience. It was buried collectively.
->
-> This is not to say the tingling phenomenon is forever beyond external verification. A testable hypothesis is that a person experiencing the chin tingle would show a distinct and measurable pattern of brain activity in an fMRI scan—likely a rapid shift from the high-activity state of the limbic system to the coherent, rhythmic state of the prefrontal cortex associated with deep insight.
+> This is not to say the tingling phenomenon is beyond external verification. A testable hypothesis is that a person experiencing the chin tingle would show a distinct and measurable pattern of brain activity in an fMRI scan—likely a rapid shift from the high-activity state of the limbic system to the coherent, rhythmic state of the prefrontal cortex associated with deep insight.
 >
 > This document, therefore, is not a rejection of science. It is an invitation for further inquiry.
 
