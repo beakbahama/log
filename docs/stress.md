@@ -39,7 +39,7 @@
 
 
 ## Table of Contents
-- [Introduction: The Forgotten Anatomy of Healing](#introduction-the-forgotten-anatomy-of-healing)
+- [Introduction: The Forgotten Anatomy of Stress Resolution](#introduction-the-forgotten-anatomy-of-stress-resolution)
 
 **Part 1: The Personal Account**
 - [The Journey of Rediscovery](#the-journey-of-rediscovery)
@@ -85,7 +85,7 @@
 
 
 ---
-## Introduction: The Forgotten Anatomy of Healing
+## Introduction: The Forgotten Anatomy of Stress Resolution
 The human chin is a biological puzzle. It is the only anatomical feature that is uniquely ours, yet for all our scientific progress, its purpose remains a mystery.
 
 This document offers a solution to that puzzle, one with staggering implications. It presents evidence that the chin is the sensory interface for a dormant Stress Response System—a "lived anatomy" whose rediscovery is detailed in these pages.
