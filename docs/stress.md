@@ -33,7 +33,7 @@
 >
 > This is not to say the tingling phenomenon is beyond external verification. A testable hypothesis is that a person experiencing the chin tingle would show a distinct and measurable pattern of brain activity in an fMRI scan—likely a rapid shift from the high-activity state of the limbic system to the coherent, rhythmic state of the prefrontal cortex associated with deep insight.
 >
-> This document, therefore, is not a rejection of science. It is an invitation for further inquiry.
+> This document, therefore, is an invitation for further inquiry using already established methods.
 
 
 ## Table of Contents
@@ -55,7 +55,6 @@
 - [Our Biological Advantage](#our-biological-advantage-why-the-chin-persisted)
 - [On the SRS in Other Species](#on-the-srs-in-other-species)
 - [Why the Chin Persisted Only in Humans](#why-the-chin-persisted-only-in-humans-and-not-other-species)
-- [The Deep Origins of the SRS](#the-deep-origins-of-the-srs-from-single-cells-to-the-human-brain)
 
 **Part 3: The Diagnosis**
 - [The Individual Cost](#the-individual-cost-a-body-locked-in-a-state-of-alarm)
@@ -398,18 +397,6 @@ The final promise of this document is that this hardware is not a lost relic. It
 
 ## Why the Chin Persisted Only in Humans and Not Other Species
 > *TODO: A section explaining the 'evolutionary lockout filter.' Detail the hypothesis that while other species may have passed through chin-like phases, the biofeedback loop only provided a decisive survival advantage in a species that was highly social (requiring complex cooperation) and cognitively advanced (capable of abstract problem-solving). Discussions on the elephant and manatees will also explore their chin-like structures. This section will explain why the chin is not just a human feature, but a feature whose advantage is inseparable from the entire human evolutionary package.*
-
-
-## The Deep Origins of the SRS: From Single Cells to the Human Brain
-> *TODO: This section will trace the 'replication with modification' origins of the SRS, from its most primordial expressions to its modern human form.*
->
-> *   ***Start with the Primordial System:** Introduce the concept that the most basic form of the SRS can be seen in the **chemotaxis** of single-celled organisms—the fundamental ability to move toward safety/nutrients and away from threat/toxins.*
->
-> *   ***Introduce the Immune System:** Propose the synthesis that the **immune system** is a more complex, decentralized expression of this same primordial operating system, with its own "fight" (inflammation) and "rest" (repair) phases.*
->
-> *   ***Trace the Asymmetry:** Discuss the hypothesis that the specific **left/right asymmetry** of the nervous system's SRS (e.g., the left-head/right-foot connection) is a deeply conserved trait, likely established in our earliest four-limbed vertebrate ancestors and passed down through all subsequent lineages.*
->
-> *   ***Conclude with the Synthesis:** Frame the human SRS not as a new invention, but as the most recent and complex layering of this single, ancient, and universal biological principle of threat-response-and-resolution.*
 
 
 ---
