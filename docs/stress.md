@@ -522,9 +522,9 @@ A body cannot return to a state of parasympathetic rest and safety when its envi
 
 
 ## Reframing Mental Illness: The Physical Manifestation of Unresolved Trauma
-The modern, trauma-informed understanding of mental health has already made a crucial leap: it recognizes that a vast number of adult dysfunctions, from anxiety to addiction, are rooted in the unresolved traumatic events of childhood. What has been missing, however, is a clear, mechanical explanation for *how* these past events create such lasting and painful states in the present. The "chemical imbalance" model is insufficient; it describes a symptom, not the source.
+The modern, trauma-informed understanding of mental health has already made a crucial leap: it recognizes that a vast number of adult dysfunctions, from anxiety to addiction, are rooted in the unresolved traumatic events of childhood.
 
-The Stress Response System provides this missing link. It reveals that **what we call "mental illness" is often the chronic, physiological state of a nervous system that was forced into a survival pattern in childhood and never received the signal that it was safe enough to come out.** The trauma is not just a memory; it is a physical state, held in the body's tissues for decades.
+What has been missing is a clear, mechanical explanation for how these past events create such lasting and painful states in the present. The Stress Response System provides this missing link. It reveals that *hat we call "mental illness" is often the chronic, physiological state of a nervous system that was forced into a survival pattern in childhood and never received the signal that it was safe enough to come out. The trauma is not just a memory. It is a physical state, held in the body's tissues for decades.
 
 ### From "Disorder" to "Adaptation"
 Through this lens, the diagnostic labels of the DSM are revealed not as distinct "illnesses," but as logical, predictable **adaptations** to an unlivable environment. They are the brilliant, desperate strategies of a young nervous system trying to survive.
