@@ -1,13 +1,19 @@
-> [!NOTE]
-> 
-> *This is a living document and is still being updated with:*
-> - *More details (both personal and general)*
-> - *Deeper connections to our existing knowledge of the human body and mind*
-> - *Pictures and diagrams that show what is being explained*
-> - *Language to ensure everything is said with concern and care for everyone*
-
-
 # The Stress Response System and Human Chin: Rediscovering the Anatomy of Stress Resolution
+
+> [!NOTE]
+> ### **A Note on the Evolution of This Document (as of October 10, 2025)**
+>
+> This document is a living work, and it is currently undergoing a significant evolution in its presentation and rhetorical strategy.
+>
+> The core evidence and the proposed model within remain the same. However, through a process of rigorous self-critique and feedback, I have recognized that the document's initial framing made claims without adequately building a bridge to the established methods of scientific inquiry. Its original structure prioritized declaration over investigation.
+>
+> A forthcoming revision will address this directly by re-architecting the document to better reflect the principles of collaborative discovery. The key shifts will include:
+>
+> *   **Reframing from a "Map" to a "Case Study and Hypothesis":** The document will be restructured to first present the detailed personal evidence (both historical and present-day) as a foundational case study, and then present the "Stress Response System" as the most coherent model that explains this data.
+> *   **Moving from Proclamation to Inquiry:** The language will be systematically updated to distinguish clearly between direct, lived observation (data) and the broader theoretical conclusions drawn from that data (inference and hypothesis).
+> *   **Prioritizing a Call to Collective Action:** The ultimate goal of the revised document will be to serve as a formal proposal for a new, collective scientific inquiry, inviting public observation and rigorous testing of its core claims.
+>
+> The current version remains as a detailed record of the initial synthesis. I invite you to read it not as a final conclusion, but as the starting point of a journey to build a robust, testable, and undeniable framework for understanding a profound aspect of our shared human anatomy and its function.
 
 
 > [!IMPORTANT]
