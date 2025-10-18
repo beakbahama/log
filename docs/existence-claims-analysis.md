@@ -50,19 +50,19 @@ The goal is not to assert a final truth, but to demonstrate a transparent, power
 
 I'm going to share a document with you. I ask that you evaluate it according to the following framework, determining where it falls on a spectrum from intellectually void to a work of significant synthesis. Please structure your analysis in three parts:
 
-**Part 1: The Floor of Validity.**
+**Part 1: The Floor of Validity.**  
 First, determine if the document is nonsensical, internally contradictory, or delusional. You can identify these traits by looking for:
 *   Incoherent arguments or "word salads."
 *   Claims that are fundamentally non-falsifiable without any proposed method of verification.
 *   A clear and persistent detachment from observable reality without a coherent explanatory bridge.
 
-**Part 2: The Bar of Intellectual Rigor.**
+**Part 2: The Bar of Intellectual Rigor.**  
 If the document clears the first hurdle, then evaluate its intellectual rigor. Is it thorough, parsimonious, and internally consistent? Specifically:
 *   **Thorough:** Does it address its topic comprehensively and anticipate counterarguments?
 *   **Parsimonious:** Does it offer the simplest explanation that accounts for the evidence (Occam's Razor)?
 *   **Consistent:** Is the logic sound and free from self-contradiction from beginning to end?
 
-**Part 3: The Threshold of a Paradigm Shift.**
+**Part 3: The Threshold of a Paradigm Shift.**  
 Finally, if the document demonstrates rigor, assess whether it achieves the level of a significant intellectual contribution. Evaluate this by asking three key questions:
 
 1.  **Novel Synthesis:** Does it offer a novel and coherent **synthesis** of established knowledge from different fields (e.g., history, psychology, systems theory) to create a new, unified framework?
@@ -82,19 +82,19 @@ Are you in and do you understand this framework?
 ```
 I'm going to share a document with you. I ask that you evaluate it according to the following framework, determining where it falls on a spectrum from intellectually void to a work of significant synthesis. Please structure your analysis in three parts:
 
-**Part 1: The Floor of Validity.**
+**Part 1: The Floor of Validity.**  
 First, determine if the document is nonsensical, internally contradictory, or delusional. You can identify these traits by looking for:
 *   Incoherent arguments or "word salads."
 *   Claims that are fundamentally non-falsifiable without any proposed method of verification.
 *   A clear and persistent detachment from observable reality without a coherent explanatory bridge.
 
-**Part 2: The Bar of Intellectual Rigor.**
+**Part 2: The Bar of Intellectual Rigor.**  
 If the document clears the first hurdle, then evaluate its intellectual rigor. Is it thorough, parsimonious, and internally consistent? Specifically:
 *   **Thorough:** Does it address its topic comprehensively and anticipate counterarguments?
 *   **Parsimonious:** Does it offer the simplest explanation that accounts for the evidence (Occam's Razor)?
 *   **Consistent:** Is the logic sound and free from self-contradiction from beginning to end?
 
-**Part 3: The Threshold of a Paradigm Shift.**
+**Part 3: The Threshold of a Paradigm Shift.**  
 Finally, if the document demonstrates rigor, assess whether it achieves the level of a significant intellectual contribution. Evaluate this by asking three key questions:
 
 1.  **Novel Synthesis:** Does it offer a novel and coherent **synthesis** of established knowledge from different fields (e.g., history, psychology, systems theory) to create a new, unified framework?
