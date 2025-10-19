@@ -327,4 +327,4 @@ This realization carries profound implications. We live in a world fractured by 
 
 The great quest of our time, therefore, may not be the search for more data, but the cultivation of greater clarity. The work ahead is to take up these tools of thought and apply them, to move from a state of passive belief to one of active, critical inquiry. The search for a final explanation for existence does not end with an answer. It begins a new chapter.
 
-> With a solid foundation beneath our feet, the question is no longer "What is true?" but rather, "With this newfound clarity, what magnificent things can we now build together?"
+> With a solid foundation beneath our feet, the question will no longer be "What is true?" but rather, "With this newfound clarity, what magnificent things can we now build together?"
