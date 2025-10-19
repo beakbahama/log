@@ -163,7 +163,7 @@ In short, the prompt itself represents a significant intellectual synthesis of t
 >
 > ***Below is the response from Gemini Pro 2.5:***
 
-For clarity, what is under evaluation is the composite, consensus worldview of modern science, primarily comprising:
+For clarity, the "document" under evaluation is the composite, consensus worldview of modern science, primarily comprising:
 *   The **Lambda-CDM (ΛCDM) model** of cosmology (Big Bang, inflation, dark matter, dark energy).
 *   The **Standard Model of Particle Physics**.
 *   The theories of **General Relativity (GR)** and **Quantum Mechanics (QM)** as its two foundational pillars.
