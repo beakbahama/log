@@ -5,7 +5,7 @@
 
 ## /existence
 - [**The Explanation for Existence**](docs/existence.md)
-- [**A Rigorous Analysis For Explanations of Existence**](docs/existence-claims-analysis.md)
+- [**A Rigorous Evaluation of Various Explanations of Existence**](docs/analyze-anything/existence-claims.md)
 
 <!--
 ## /human
