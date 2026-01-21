@@ -1,3 +1,8 @@
+> [!WARNING]
+>
+> This file is deprecated. See the updated analysis using the [Analyze Anything Framework](https://github.com/worldamazing/analyze-anything/blob/main/case-studies/existence-explanations.md)
+
+
 # A Rigorous Evaluation of Various Explanations of Existence
 > Starting with the mainstream understanding of existence that encompasses the Lambda-CDM model (Big Bang, dark matter, dark energy), the standard model of particles, General Relativity, and Quantum Mechanics.
 
