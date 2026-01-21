@@ -1,7 +1,7 @@
 # 💩 LOG
 
 ## frameworks
-- [**World Amazing Framework**](https://github.com/worldamazing/plan) — [worldamazing.org ↗](https://worldamazing.org/)
+- [**World Amazing Framework (WAF)**](https://github.com/worldamazing/plan) — [worldamazing.org ↗](https://worldamazing.org/)
 - [**Analyze Anything Framework (AAF)**](https://github.com/worldamazing/analyze-anything) — [analyzeanything.org ↗](https://analyzeanything.org/)
 
 ## docs
