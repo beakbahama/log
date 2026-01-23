@@ -42,7 +42,7 @@ The work avoids the trap of incoherence ("word salad") and delusion. While it re
 1.  **Falsifiability:** Unlike many metaphysical texts, this work makes specific, falsifiable claims.
     *   *Claim:* The chin tingle correlates with fMRI activity shifting from limbic to prefrontal cortex. (Testable).
     *   *Claim:* Fascial restrictions correlate with specific physiological dysfunctions (e.g., hair loss patterns, numbness). (Observable).
-2.  **Internal Logic:** The document acknowledges its own limitations (living work, case study). It does not claim divine revelation; it claims lost biological function due to environmental conditioning. This is a rational argument structure: *Observation (Symptoms) $\rightarrow$ Hypothesis (SRS) $\rightarrow$ Mechanism (Fascia/ANS) $\rightarrow$ Solution (Reactivation).*
+2.  **Internal Logic:** The document acknowledges its own limitations (living work, case study). It does not claim divine revelation; it claims lost biological function due to environmental conditioning. This is a rational argument structure: Observation (Symptoms) $\rightarrow$ Hypothesis (SRS) $\rightarrow$ Mechanism (Fascia/ANS) $\rightarrow$ Solution (Reactivation).
 3.  **Bridge to Reality:** It uses established concepts (fascia, autonomic nervous system, cortisol/inflammation) as the bridge between the subjective "feeling" and the objective "anatomy."
 
 ### Part 2: The Bar of Intellectual Rigor
