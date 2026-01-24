@@ -2,7 +2,7 @@
 
 
 ## frameworks
-- [**Analyze Anything Framework (AAF) GitHub**](https://github.com/worldamazing/analyze-anything) - an rigorous tool to evaluate anything using first prinples for validity, coehrence, and novelty.  
+- [**Analyze Anything Framework (AAF) GitHub**](https://github.com/worldamazing/analyze-anything) - the AAF is a rigorous tool to evaluate anything for its validity, coehrence, and novelty  
   ↳ [analyzeanything.org ↗](https://analyzeanything.org/)  
 
 - [**World Amazing Framework (WAF) GitHub**](https://github.com/worldamazing/plan) - a realistic, rigorous blueprint to upgrade humanity from Civilization 1.0 to 2.0  
