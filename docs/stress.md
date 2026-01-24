@@ -3,7 +3,7 @@
 > [!NOTE]
 > ### Evaluation Status: First-Principles Audit
 >
-> This [version](https://github.com/beakbahama/log/blob/e57ef401b97ee93c4117d60ada2b8f196752b2a0/docs/stress.md) of the document has been subjected to the [**Analyze Anything Framework (v1.0)**](https://analyzeanything.org/), a rigorous epistemological protocol designed to stress-test ideas for logical coherence, parsimony, and structural integrity. The body of the text below is identical to the audited version, with the exception of the updated "Note on Evolution."
+> This [version](https://github.com/beakbahama/log/blob/e57ef401b97ee93c4117d60ada2b8f196752b2a0/docs/stress.md) of the document has been subjected to the [**Analyze Anything Framework (v1.0)**](https://analyzeanything.org/), a rigorous epistemological protocol designed to stress-test ideas for logical coherence, parsimony, and structural integrity. The body of the text below is identical to the audited version, with the exception of an updated "Note on Evolution" and other minor edits.
 >
 > **Audit Date:** January 2026  
 > **Verdict:** The analysis confirmed the work's **Logical Parsimony** and **Internal Coherence**. It concluded that the model meets the criteria for a **High-Potential Paradigm Shift**, offering a unified explanation that resolves the evolutionary "puzzle of the human chin" while simultaneously mapping the etiology of chronic modern inflammation.
@@ -25,32 +25,6 @@
 > *   **From "Dogma" to "Blueprint":** The rhetorical approach will shift from making universal claims to presenting a **functional blueprint.** It will utilize the logic of the "Black Swan": demonstrating that the existence of this feedback loop in one human body proves that the capacity for this function is encoded in the human genome.
 >
 > I invite you to read the current version as the starting point of a journey to map a profound aspect of our shared human anatomy.
-
----
-> [!IMPORTANT]
-> ### A Note on the Nature of this Document
-> 
-> This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—are all firsthand experiences and not speculation. It is lived anatomy.
->
-> While the experience is personal, the system it describes is not built from scratch. This document seeks to connect this lived experience with established knowledge, creating a new, unifying understanding of how ancient biological mechanisms (like the autonomic nervous system and fascia) integrate and function as a whole.
->
-> What is novel in this work is the map that emerges from this synthesis. It includes my identification of a major stress release point in the head and my discovery of the chin's true function as a sensory interface. For clarity, this integrated network is referred to as the Stress Response System (SRS).
->
-> Anywhere this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable, testable, and repeatable.
-
----
-> [!IMPORTANT]
-> ### Why Hasn't This Been Discovered Before? A Note on Method
->
-> To propose the existence of a major, undocumented physiological system in the human body is an audacious claim. It is reasonable to ask: why would a system this fundamental have been missed by centuries of medical and scientific inquiry?
->
-> The answer lies not in a failure of science. Our scientific approach is masterful at observing the external, the material, and the quantifiable. We can map the bones, sequence the genes, and measure the chemical reactions.
->
-> However, this system's key components are not purely material. They are **informational and experiential.** The system's function is revealed in the dynamic, lived process of stress and its resolution. For example, an external observer can measure the chin bone, but they cannot measure the *feeling* of it providing a cognitive reward. The reason this discovery was missed is therefore not that we were looking in the wrong place. It is because the data stream itself went silent in early childhood. The system became locked, the sensations ceased, and the conscious memory of them ever existing faded into a collective amnesia. The data wasn't just hidden in our subjective experience. It was buried collectively.
->
-> This is not to say the tingling phenomenon is beyond external verification. A testable hypothesis is that a person experiencing the chin tingle would show a distinct and measurable pattern of brain activity in an fMRI scan—likely a rapid shift from the high-activity state of the limbic system to the coherent, rhythmic state of the prefrontal cortex associated with deep insight.
->
-> This document, therefore, is an invitation for further inquiry using already established methods.
 
 
 ## Table of Contents
@@ -106,12 +80,37 @@ This document offers a solution to that puzzle, one with staggering implications
 
 Humanity has long debated its purpose, proposing theories from chewing to sexual selection, yet none have proven true. The reason is that we were looking for a mechanical function in a feature whose purpose is, in fact, informational. The chin is a delicate biofeedback gauge, and its subtle tingling is a physical reward for resolving conflict not through raw reaction, but through cooperative insight.
 
-This biofeedback gauge is part of a larger physiological network. A focal point of tension on the head acts a master reset switch to this stress network, and releases in a "pop" sensation that triggers a full-body wave of relief from the "fight-or-flight" state.
+This biofeedback gauge is part of a larger physiological network. A focal point of tension on the head acts as a master reset switch to this stress network, and releases in a "pop" sensation that triggers a full-body wave of relief from the "fight-or-flight" state.
 
 This document is a map of direct, lived anatomy, drawn from recovered childhood memories and the ongoing process of my own physical restoration. It is a firsthand account providing direct evidence for the claims presented.
 
 What follows is my firsthand account of how I rediscovered this system in my own body followed by a comprehensive guide to this system, from the fascial armor that anchors tension in our feet to the mechanics of the pop and the tingle.
 
+---
+> [!IMPORTANT]
+> ### A Note on the Nature of this Document
+> 
+> This is a firsthand account of human stress recovery. The core evidence it presents—the physical sensations, the patterns of tension, the release events—are all firsthand experiences and not speculation. It is lived anatomy.
+>
+> While the experience is personal, the system it describes is not built from scratch. This document seeks to connect this lived experience with established knowledge, creating a new, unifying understanding of how ancient biological mechanisms (like the autonomic nervous system and fascia) integrate and function as a whole.
+>
+> What is novel in this work is the map that emerges from this synthesis. It includes my identification of a major stress release point in the head and my discovery of the chin's true function as a sensory interface. For clarity, this integrated network is referred to as the Stress Response System (SRS).
+>
+> Anywhere this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable, testable, and repeatable.
+
+---
+> [!IMPORTANT]
+> ### Why Hasn't This Been Discovered Before? A Note on Method
+>
+> To propose the existence of a major, undocumented physiological system in the human body is an audacious claim. It is reasonable to ask: why would a system this fundamental have been missed by centuries of medical and scientific inquiry?
+>
+> The answer lies not in a failure of science. Our scientific approach is masterful at observing the external, the material, and the quantifiable. We can map the bones, sequence the genes, and measure the chemical reactions.
+>
+> However, this system's key components are not purely material. They are **informational and experiential.** The system's function is revealed in the dynamic, lived process of stress and its resolution. For example, an external observer can measure the chin bone, but they cannot measure the *feeling* of it providing a cognitive reward. The reason this discovery was missed is therefore not that we were looking in the wrong place. It is because the data stream itself went silent in early childhood. The system became locked, the sensations ceased, and the conscious memory of them ever existing faded into a collective amnesia. The data wasn't just hidden in our subjective experience. It was buried collectively.
+>
+> This is not to say the tingling phenomenon is beyond external verification. A testable hypothesis is that a person experiencing the chin tingle would show a distinct and measurable pattern of brain activity in an fMRI scan—likely a rapid shift from the high-activity state of the limbic system to the coherent, rhythmic state of the prefrontal cortex associated with deep insight.
+>
+> This document, therefore, is an invitation for further inquiry using already established methods.
 
 ---
 **Part 1: The Personal Account - A Case Study in Rediscovery**
