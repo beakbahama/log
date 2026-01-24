@@ -1,7 +1,7 @@
 # The Stress Response System and Human Chin: Rediscovering the Anatomy of Stress Resolution
 
 > [!NOTE]
-> **Evaluation Status: First-Principles Audit**
+> ### Evaluation Status: First-Principles Audit
 >
 > This [version](https://github.com/beakbahama/log/blob/e57ef401b97ee93c4117d60ada2b8f196752b2a0/docs/stress.md) of the document has been subjected to the [**Analyze Anything Framework (v1.0)**](https://analyzeanything.org/), a rigorous epistemological protocol designed to stress-test ideas for logical coherence, parsimony, and structural integrity. The body of the text below is identical to the audited version, with the exception of the updated "Note on Evolution."
 >
