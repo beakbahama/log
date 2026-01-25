@@ -1,7 +1,7 @@
 # The Stress Response System and Human Chin: Rediscovering the Anatomy of Stress Resolution
 
 > [!IMPORTANT]
-> ### Coherence Evaluation Report Card
+> ## Coherence Evaluation Report Card
 > 
 > *This [version](https://github.com/beakbahama/log/blob/34f30b7fdda60b61fa0f0f51bee83c8cf910c264/docs/stress.md) of the document was audited in **January 2026** using v1.0 of the [**Analyze Anything Framework**](https://analyzeanything.org/). This document you are reading may contain minor updates made since the audit.*
 > 
@@ -13,7 +13,7 @@
 > 
 > **Final Synthesis:** The hypothesis is **Intellectually Vital.** It presents a coherent, parsimonious, and powerfully explanatory "prot-scientific" model that warrants rigorous, objective testing.
 > 
-> ### ➡️ **[Read the Full Analysis](/docs/analyze-anything/stress-response-system.md)**
+> ### ➡️ **[Read the Full AAF Analysis](/docs/analyze-anything/stress-response-system.md)**
 
 ---
 > [!NOTE]
