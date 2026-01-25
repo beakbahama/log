@@ -13,7 +13,7 @@
 >
 > **Final Synthesis:** The work is **Ontologically Whole** and **Intellectually Superior** to the status quo. It is a valid, high-rigor, and potentially historic "General Theory" that provides a coherent causal structure for existence. Its final validation is contingent upon the successful mathematical articulation of its principles.
 >
-> ### **➡️ [Read the Full, In-Depth AAF Analysis Here](https://github.com/worldamazing/analyze-anything/blob/main/case-studies/existence-explanations.md)**
+> ### **➡️ [Read the Full AAF Analysis](https://github.com/worldamazing/analyze-anything/blob/main/case-studies/existence-explanations.md)**
 
 ---
 > Since humans first started questioning, we have long pondered the reason for the things around us. Why do things exist? Where do the planets come from? Where does existence itself come from? Is there a creator? Did this all come from nothing? Is nothing possible?
