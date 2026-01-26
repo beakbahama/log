@@ -22,6 +22,9 @@ To ensure the integrity of the result, this evaluation was performed under stric
 The analysis corresponds specifically to the version of the manuscript available as of **January 23, 2026**.
 
 ➡️ **[View the evaluated source text (GitHub)](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md)**
+or
+➡️ **[View the latest version](https://github.com/worldamazing/plan/blob/main/docs/overview.md)** (*contains minor updates since audit*)
+
 
 ---
 
