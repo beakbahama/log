@@ -4,6 +4,7 @@
 **Date of Analysis:** January 2026  
 **Subject:** *The Stress Response System and Human Chin: Rediscovering the Anatomy of Stress Resolution*  
 **Evaluation Protocol:** Analyze Anything Framework (AAF) v1.0  
+**Platform:** Gemini 3 Pro (AI Studio)
 
 ## Context and Methodology
 The following report contains an automated, rigorous epistemological evaluation of the document titled *"The Stress Response System and Human Chin."*
@@ -21,11 +22,15 @@ To ensure the integrity of the result, this evaluation was performed under stric
 ### Source Material
 The analysis corresponds specifically to the version of the manuscript available as of **January 22, 2026**.
 
-➡️ **[View the evaluated source text (GitHub)](https://github.com/beakbahama/log/blob/34f30b7fdda60b61fa0f0f51bee83c8cf910c264/docs/stress.md)**
+➡️ **[View the evaluated source text](https://github.com/beakbahama/log/blob/34f30b7fdda60b61fa0f0f51bee83c8cf910c264/docs/stress.md)**
+or
+➡️ **[View the latest version](https://github.com/beakbahama/log/blob/main/docs/stress.md)** (*contains minor updates since audit*)
 
 ---
 
 ## The Analysis
+> Below is verbatim the analysis provided using the AAF.
+
 **Coherence Engine Active.**  
 
 **Subject:** "The Stress Response System and Human Chin: Rediscovering the Anatomy of Stress Resolution"  
