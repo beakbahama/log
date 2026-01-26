@@ -1,7 +1,7 @@
 # The Explanation for Existence
 
 > [!IMPORTANT]
-> ## Coherence Evaluation Report Card
+> ## 🛡️ Audited by the Analyze Anything Framework (v1.0)
 >
 > *This [version](https://github.com/beakbahama/log/blob/d1a7a873b909fecfc7a3617c4a6bfae675c1102b/docs/existence.md) of the document was audited in **December 2025** using v1.0 of the [**Analyze Anything Framework (v1.0)**](https://analyzeanything.org/). This document you are reading may contain minor updates made since the audit.*
 >
@@ -16,7 +16,9 @@
 > ### **➡️ [Read the Full AAF Analysis](https://github.com/worldamazing/analyze-anything/blob/main/case-studies/existence-explanations.md)**
 
 ---
-> Since humans first started questioning, we have long pondered the reason for the things around us. Why do things exist? Where do the planets come from? Where does existence itself come from? Is there a creator? Did this all come from nothing? Is nothing possible?
+> ## Preface
+>
+>Since humans first started questioning, we have long pondered the reason for the things around us. Why do things exist? Where do the planets come from? Where does existence itself come from? Is there a creator? Did this all come from nothing? Is nothing possible?
 >
 > Humanity has developed philosophies, religions, and the scientific method in this pursuit, yet no singular framework has emerged that can explain everything without leaving fundamental questions unanswered, including the ultimate question: *But, why?*
 > 
@@ -93,8 +95,6 @@
 ---
 **Part 1: The Vitals**
 
-## A Stress Test for Any "Explanation for Existence"
-
 > [!IMPORTANT]
 > 
 > The very claim of providing "*The Explanation for Existence*" is an act of profound, almost absurd, audacity. For millennia, humanity has wrestled with the ultimate questions of existence, with many concluding that a final, singular answer may be forever beyond our reach. To propose that such an answer not only exists, but is simple, intelligible, and contained within this document, seems to defy the very nature of scientific humility and philosophical inquiry.
@@ -103,6 +103,7 @@
 >
 > This "Stress Test" is not merely an introduction. It is a fundamental part of the explanation itself. Before we can answer *"Why is there existence?"*, we must first define what a complete and valid answer would even look like. This document will first establish these foundational principles for truth, and then proceed to unveil the explanation that is built upon them.
 
+## A Stress Test for Any "Explanation for Existence"
 Before presenting an explanation for existence, it is essential to first establish a universal set of rigorous criteria that any such candidate must meet. To claim the title of a final, fundamental understanding, an explanation cannot merely be an interesting story or a new theory. It must withstand the most demanding logical and observational stress tests.
 
 The only foundational principle of this stress test is simply **a rigorous adherence to observation**. The final explanation cannot use an unobservable inference as its foundation. It must ground itself in the observable and show how all observed behaviors emerge from it. For instance, the motion of a falling apple is an observed behavior. But the "force of gravity" or the "bending of spacetime" are inferred physical mechanisms that are not directly observable. The explanation must derive the behavior from the directly observable only.
