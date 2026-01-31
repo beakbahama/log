@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > ## 🛡️ Audited by the Analyze Anything Framework (v1.0)
 >
-> *This [version](https://github.com/beakbahama/log/blob/d1a7a873b909fecfc7a3617c4a6bfae675c1102b/docs/existence.md) of the document was audited in **December 2025** using v1.0 of the [**Analyze Anything Framework (v1.0)**](https://analyzeanything.org/). This document you are reading may contain minor updates made since the audit.*
+> *This [version](https://github.com/beakbahama/log/blob/d1a7a873b909fecfc7a3617c4a6bfae675c1102b/docs/existence.md) of the document was audited in **December 2025** using v1.0 of the [**Analyze Anything Framework**](https://analyzeanything.org/). This current version you are reading contains only minor updates made since the audit.*
 >
 >| Stage | Assessment | Core Justification |
 >| :--- | :--- | :--- |
