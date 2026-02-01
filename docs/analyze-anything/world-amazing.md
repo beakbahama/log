@@ -23,7 +23,7 @@ The analysis corresponds specifically to the version of the manuscript available
 
 ➡️ **[View the evaluated source text (GitHub)](https://github.com/worldamazing/plan/blob/fcc50b46d649317590202e7bfbeb97bdb6028929/docs/overview.md)**
 or
-➡️ **[View the latest version](https://github.com/worldamazing/plan/blob/main/docs/overview.md)** (*contains minor updates since audit*)
+➡️ **[View the latest version](https://github.com/worldamazing/plan/blob/main/docs/overview.md)** (*contains updates since audit*)
 
 
 ---
