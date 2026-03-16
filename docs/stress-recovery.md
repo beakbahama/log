@@ -56,7 +56,7 @@
 > **TL;DR** - There is no summary that can substitute for the physical mechanics detailed here. Your serious consideration is required.
 >
 > 1. **The Foundation:** Review the Table of Contents, scan the linked AAF Analysis below, and read **Part 1** in its entirety. This establishes the vital vocabulary and mechanisms.
-> 2. **The Modular Path:** After Part 1, the document can be navigated non-linearly. Depending on your immediate focus, you can jump directly into the history of the discovery (Part 2), the structural map of the system (Part 3), the clinical diagnosis of chronic tension (Part 4), or the physical guide to restoration (Parts 5 & 6).
+> 2. **The Modular Path:** After Part 1, the document can be navigated non-linearly. Depending on your immediate focus, you can jump directly into the history of the discovery (Part 2), the structural map of the system (Part 3), or the physical guide to restoration (Parts 4 & 5).
 > 
 > *Historical Context: If you are looking for the anthropological reasoning of how fascial tension physically shaped the human chin over our replication history, that specific argument is isolated in **Appendix A**.*
 
