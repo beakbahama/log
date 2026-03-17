@@ -63,19 +63,20 @@
 
 ---
 > [!IMPORTANT]
+>
 > ## 🛡️ Audited by the Analyze Anything Framework (v1.0)
-> 
-> *[This version](https://github.com/beakbahama/log/blob/34f30b7fdda60b61fa0f0f51bee83c8cf910c264/docs/stress.md) of the document was audited in **January 2026** using v1.0 of the [**Analyze Anything Framework**](https://analyzeanything.org/). The document you are reading may contain updates made since the audit, but the structural insights remain intact.*
-> 
-> | Stage | Assessment | Core Justification |
-> | :--- | :--- | :--- |
-> | **Part 1: Validity** | ✅ **VALID** | The work is internally coherent and makes specific, falsifiable claims (e.g., fMRI correlates), grounding its subjective experience in a testable biological reality. |
-> | **Part 2: Rigor** | ✅ **RIGOROUS (Within its Context)** | The model demonstrates radical **Parsimony,** offering a single candidate mechanism that addresses both the evolutionary puzzle of the chin and the etiology of chronic modern stress. The rigor is that of a "proto-scientific" case study. |
-> | **Part 3: Paradigm Shift** | ✅ **HIGH POTENTIAL (Black Swan)** | The work qualifies as a "Black Swan Hypothesis"—a novel synthesis of biology, neuroscience, and somatic therapy that reframes the chin as a sensory organ for a dormant physiological system. |
-> 
-> **Final Synthesis:** The hypothesis is **Intellectually Vital.** It presents a coherent, parsimonious, and powerfully explanatory "proto-scientific" model that warrants rigorous, objective testing.
-> 
-> ### ➡️ **[Read the Full AAF Analysis](/docs/analyze-anything/stress-response-system.md)**
+>
+> *This [version](https://github.com/beakbahama/log/blob/506fa485e7078204e909a228a3be4166413270cb/docs/stress-recovery.md) of the document was audited on **March 17, 2026** using v1.0 of the [**Analyze Anything Framework**](https://analyzeanything.org/). This document you are reading may contain updates made since the audit, though the structural insights remain intact.*
+>
+> | Stage                      | Assessment                        | Core Justification                                                                                                                                                                                                        |
+> | :------------------------- | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+> | **Part 1: Validity**       | ✅ **PASS**                        | The work is internally coherent, clearly structured, and grounded in observable biology, lived anatomy, and testable points of verification rather than metaphysical claims.                                              |
+> | **Part 2: Rigor**          | ✅ **PASS**                        | The model demonstrates strong first-principles reasoning and high parsimony, unifying multiple phenomena—the chin, chronic tension, stress dysregulation, and cooperative cognition—under a single mechanistic framework. |
+> | **Part 3: Paradigm Shift** | ✅ **PASS (High-Order Synthesis)** | The work produces a novel synthesis across paleoanthropology, somatic psychology, and neurobiology, reframing the chin as an active biofeedback interface within a broader stress-resolution architecture.                |
+>
+> **Final Synthesis:** This document presents a **structurally rigorous, pre-paradigmatic framework** with high explanatory power. Its logic is coherent, its synthesis is original, and its central claims now stand ready for broader phenomenological replication and future empirical testing.
+>
+> ### ➡️ **[Read the Full AAF Analysis](/docs/analyze-anything/stress-recovery.md)**
 
 
 ---
@@ -126,14 +127,20 @@ I have also included a full report by the **Analyze Anything Framework**, an ana
 
 Anywhere this document moves from evidence to explanation, it clearly distinguishes between direct observation and reasoned inference. While some mechanisms are hypothesized, the core system itself is observable in lived experience, testable in principle, and repeatable across individuals.
 
+### On Scope and Dependency
+The core of this document does not stand or fall on every later extrapolation proving fully correct. Its central foundation is the lived anatomical evidence presented in the main body: remembered sensations, physical mapping, ongoing restoration, and the system-level interpretation derived directly from those observations. The appendices extend that foundation outward into broader evolutionary, diagnostic, and societal reasoning. They are important, but they are not identical in evidentiary type to the primary testimony.
+
+In other words: if a later extrapolation in an appendix requires revision, that does not erase the direct observations, the bodily patterns, or the restoration process described in the main text. It means only that one layer of explanation must be refined. The main body should therefore be read as the foundation, and the appendices as structured extensions built from it.
+
 
 ## 🔹Introducing: The Stress Response System (SRS)
 Throughout this document, the broader stress-resolution architecture described in the main text will be referred to collectively as the **Stress Response System (SRS)**.
 
-In this framework, the SRS is not limited to humans. Its core architecture—a coordinated network for tension, survival mobilization, release, and reset—may be evolutionarily ancient and shared across many higher-order species. What appears unique in humans is not the existence of the broader system itself, but the refinement of one of its terminal feedback interfaces: the chin, which may provide a uniquely fine-grained sensory reward for resolving conflict through thought rather than reaction.
+In this framework, the SRS is not limited to humans. Its core architecture—a coordinated network for tension, survival mobilization, release, and reset—may be evolutionarily ancient and shared across many higher-order species. What appears unique in humans is not the existence of the broader system itself, but the refinement of one of its terminal feedback interfaces: the chin, which may provide a uniquely fine-grained sensory reward for resolving conflict through thought rather than reaction. How early a comparable system emerged in the history of life, how conserved its architecture is across lineages, and when its present form stabilized remain open questions for future observation and comparative study.
 
-How early a comparable system emerged in the history of life, how conserved its architecture is across lineages, and when its present form stabilized remain open questions for future observation and comparative study.
+Much is already known about stress: that it alters hormones, posture, circulation, attention, immune activity, and perception, and that recovery depends on the body’s ability to return to safety and regulation. What has remained less clear is the integrated physical map of how stress is held in the body, how it is mechanically released, and how, in humans, this process appears to connect directly to higher-order thought through the chin. What is proposed here is not the discovery of stress itself, but a fuller account of its architecture and resolution.
 
+### Biological Systems
 To understand how this system operates, it is necessary to rethink what we mean by a biological "system." A system is not a magical, isolated object that can be pulled out and put in a jar. It is simply a collection of existing parts cooperating to perform a specific, mechanical, life-essential function.
 
 > The point is not simply to name systems, but to identify the coordinated physical parts required for breathing, digestion, movement, stress resolution, or any other essential body function.
@@ -153,6 +160,7 @@ To understand how this system operates, it is necessary to rethink what we mean 
 Then for the SRS:
 - ***The Stress Response System (SRS):** Alarm circuitry (autonomic nervous system), a tension-bearing web (fascia), and mechanical release valves (cranial anchor, chin).*
 
+### The "Obviousness" of Systems
 We accept systems like the cardiovascular network as obvious today, but for thousands of years, they were completely misunderstood.
 
 For millennia, every human who ever lived felt their heart beating in their chest. The Greeks, the Romans, the brightest minds of antiquity all knew it was vital, but they thought the liver pumped blood and the heart just generated heat or housed the soul. It wasn't until 1628 that William Harvey mapped the circulatory system and proved the heart was a mechanical pump. The heart had been operating flawlessly the entire time, but our understanding of the system was completely blind.
@@ -405,6 +413,13 @@ In humans, the system's potential is vastly different. The emergence of the **un
 
 Reactivating the full Stress Response System is therefore not just an act of healing the trauma our complex minds have accumulated. It is a shift from a biology of survival to one of creation. This is the reawakening of a **growth-phase biology**—a physiological state optimized for the very things that make us most human: the deep, recursive thought required for creativity, the profound empathetic connection required for true cooperation, and the liberated cognitive bandwidth that is the foundation for genius. The goal is not merely to return to the baseline of an animal at rest, but to access the full potential of a human in creation.
 
+### Fear: The Primary Lock State
+Fear is the central lock state of the Stress Response System. Not only acute fear of immediate danger, but chronic fear: fear without completion, fear without relief, fear converted into posture, vigilance, and armor. In this framework, anger is often not the root state, but a secondary strategy layered over unresolved fear.
+
+This helps explain why the body can remain locked long after the original danger has passed. When fear is repeatedly activated but never fully discharged, it becomes structural. It is held in the muscles, fascia, posture, breath, and expectations of the organism. The system no longer responds only to real threats; it begins to anticipate them.
+
+Restoration therefore depends not merely on suppressing fear, but on giving it a path to complete. The body must be brought into conditions where the signal of danger can finally stand down, allowing the locked system to release rather than endlessly brace.
+
 ### The Reset Switch: The "Pop" and Full-Body Release
 A key component for exiting the sympathetic state is a major focal point of tension on the head that acts as a primary release valve. While discovered through direct human experience, it is reasonable to infer that such an efficient mechanism for discharging systemic stress would be beneficial and likely present in other animals, though further investigation is needed.
 
@@ -507,6 +522,14 @@ A more detailed guide to specific techniques will be provided in the field manua
 
 ## 🔹My Progress: A Realistic Roadmap
 This section details my ongoing, real-time journey of reactivating the Stress Response System. It is offered as a case study and a realistic roadmap for the long-term nature of this work.
+
+
+> [!NOTE]
+>
+> **Progress Update Scope: March 2026**
+>
+> The progress described in this section reflects the state of my restoration process through late 2025 (specifically through October 2025). Healing has continued since then, and meaningful further softening, loosening, and sensory return have occurred across the system. Those later developments do not change the structure of the process described here, but extend it. A future update will expand this section to reflect that continued progress. For now, this section should be read as an earlier but still accurate snapshot of an ongoing restoration.
+
 
 ### Mapping the Body's Physical Armor
 The first stage of the physical work is a process of mapping. It is a journey of rediscovering the body, not as we think it is, but as it truly is: a landscape shaped by decades of accumulated, unresolved stress. This chronic tension, held in the body's fascial network since childhood, manifests as tissue that is tense, tough, inflamed, and often "puffy" to the touch.
@@ -661,18 +684,38 @@ A future version of this work may include more formal ways to gather observation
     - Appendix A has been recalibrated as an evolutionary reconstruction rather than a claim of direct historical fact.
     - Appendix C is now a short glossary of core terms.
     - Appendix B (formerly Part 3: The Diagnosis) is not included in this release and will be included in a future update after further precision work.
+- **2026-03-17:** This minor release update includes the following:
+    - Clarified the **Stress Response System (SRS)** introduction, including what is already known about stress and recovery, and the distinction between the broader shared stress architecture and the uniquely human role of the chin.
+    - Added a short subsection on **fear** as a primary lock state within the dysregulated system.
+    - Refined several passages to make the document more direct and easier to parse.
+    - Strengthened the distinction between the **main body** and the **appendices**, making clear that the appendices are downstream explanatory extensions rather than prerequisites for the validity of the core testimony and system mapping.
+    - Expanded Appendix C slightly.
+    - Appendix B remains withheld from this release for further refinement.
+    - Updated the AAF analysis table to reflect the new analysis generated from the March 15, 2026 version of the document.
+
+---
+> [!IMPORTANT]
+>
+> The appendices are downstream explanations, not upstream prerequisites. They build outward from the main body; they do not create its primary evidence.
 
 
 ---
 # 🔹Appendix A: On the Origins and Advantage of the Chin
 
 > [!NOTE]
+>
+> **Note on Appendix A**
 > 
-> This appendix is a mechanistic evolutionary reconstruction built from the lived anatomy and system model presented in the main text. It is not offered as direct historical observation, but as a reasoned account of how the chin and its associated feedback system may have emerged and stabilized. It should be read as a starting point for understanding the emergence of the chin and what that emergence may reveal about the human condition.
+> This appendix is a mechanistic evolutionary reconstruction built from the lived anatomy and system model presented in the main text. It is not offered as direct historical observation, but as a reasoned account of how the chin and its associated feedback system may have emerged and stabilized.
+>
+> It should be read as an extension of the main body, not as its foundation. If this reconstruction later requires revision in part or in whole, that would not erase the direct testimony, physical observations, or restoration process described in the document. It would mean only that the broader evolutionary account needs refinement.
 
+**Appendix A: Table of Contents**  
 - [🔹The Hardware, the Soft Tissue, and the Software Upgrade](#the-hardware-the-soft-tissue-and-the-software-upgrade)
 - [🔹The Lethal Cost of Conflict and the Integration Event](#the-lethal-cost-of-conflict-and-the-integration-event)
 - [🔹The Human Upgrade: From Reaction to Resolution](#the-human-upgrade-from-reaction-to-resolution)
+
+
 
 ## 🔹The Hardware, the Soft Tissue, and the Software Upgrade
 
@@ -733,12 +776,20 @@ The physical sensation of a regulated chin—the subtle, localized release of fa
 
 In this framing, the feedback loop helped transform *Homo sapiens* from a species that merely survived stress into a species that could consciously, creatively, and collectively resolve it. This would have supported the formation of larger, more stable social networks, the complex sharing of abstracted knowledge, and unprecedented global expansion. A species equipped with physical hardware that rewarded de-escalation would have held a major scaling advantage over lineages more dependent on repeated physical conflict.
 
-The final premise of this anatomical mapping is that this hardware is not a fossilized relic. It is a fully intact, temporarily dormant mechanical system. The path to a more cooperative human architecture lies not in engineering a new way to be human, but in mechanically unlocking the exact physiological system that would have helped ensure our survival in the first place.
+The core premise of this anatomical mapping is that this system is still here. It is a fully intact, temporarily dormant part of human biology. The path to a more cooperative human future lies not in inventing a new way to be human, but in reactivating the physiological architecture that helped ensure our survival in the first place.
 
 
 ---
 # 🔹Appendix B: The Consequences of a Dysregulated System
 *Appendix B (formerly Part 3: The Diagnosis) is being withheld from this release for further refinement. Unlike the main body, which centers lived observation, memory, and first-order system mapping, this appendix moves more heavily into synthesis and extrapolation. It will return in a future update once its language has been more carefully calibrated. Its temporary absence does not affect the core argument of the document.*
+
+> [!NOTE]
+> 
+> **Note on Appendix B**
+>
+> This appendix extends the main model into broader medical, psychological, and societal consequences. It draws on inference, synthesis, and causal reasoning grounded in the lived observations and anatomical framework established in the main text.
+>
+> It should be read as an interpretive extension, not as the foundation of the document’s core claims. If parts of this appendix later require revision, that would not negate the primary testimony, physical mapping, or restoration process presented in the main body. It would mean only that these broader diagnostic or societal applications need further refinement.
 
 
 ---
@@ -787,5 +838,18 @@ A defensive self-structure organized around adaptation, protection, and social s
 
 ## **Biofeedback**
 A bodily signal that provides immediate information about the organism’s internal state. In this document, the chin’s tingling is treated as a form of biofeedback: a sensory confirmation that stress has shifted toward resolution, especially through insight, regulation, or cooperation.
+
+## **Fear**  
+In this framework, fear is the primary lock state of the Stress Response System: not only acute fear of immediate danger, but chronic unresolved fear held in posture, vigilance, and bodily armor.
+
+## **Regulation**  
+The temporary calming or stabilization of a dysregulated system. In this document, regulation is distinguished from restoration.
+
+## **Restoration**  
+The deeper reactivation of the body’s original stress-resolution capacity, including the release of long-held tension and the return of dormant feedback signals.
+
+## **Eustress / Distress**  
+Eustress refers to healthy, temporary activation of the stress system that resolves and strengthens the organism. Distress refers to stress that remains unresolved and becomes chronic, locking the system into defense.
+
 
 ---
