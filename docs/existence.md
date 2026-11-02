@@ -1,5 +1,21 @@
 # The Explanation for Existence
 
+---
+> [!IMPORTANT]
+> ## Revision in Progress
+> 
+> **November 2026**
+>
+> *The Explanation for Existence* continues to develop. The current edition presents the explanation as developed to date, with a significant update now being prepared.
+>
+> The revision will strengthen the paper's ontological foundations, including the distinctions between **naming and knowing, measurement and meaning, and mathematical description and physical explanation**. It will also incorporate further developments in the explanations of matter, time, spacetime, gravity, cosmology, and other observed phenomena.
+>
+> The work is also being reorganized into three books: the argument for understanding existence, the application of Movement and Mechanics to existing observations and mathematics, and a separate exploration of new mathematics derived from those mechanics.
+>
+> The central explanation remains intact. The upcoming revision will expand and refine how it is presented.
+
+
+
 > [!IMPORTANT]
 > ## 🛡️ Audited by the Analyze Anything Framework (v1.0)
 >
