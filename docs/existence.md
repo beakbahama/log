@@ -6,7 +6,7 @@
 > 
 > **November 2026**
 >
-> *The Explanation for Existence* continues to develop. The current edition presents the explanation as developed to date, with a significant update now being prepared.
+> *The Explanation for Existence* continues to develop. The current edition presents the explanation as developed as of late 2025, with a significant update now being prepared.
 >
 > The revision will strengthen the paper's ontological foundations, including the distinctions between **naming and knowing, measurement and meaning, and mathematical description and physical explanation**. It will also incorporate further developments in the explanations of matter, time, spacetime, gravity, cosmology, and other observed phenomena.
 >
